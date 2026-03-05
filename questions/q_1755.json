@@ -1,0 +1,35 @@
+{
+  "url_id": 1755,
+  "type": "image_choice",
+  "question_code": "1.3.01-052",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Hangi davranış doğrudur?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-3-01-052.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1932,
+  "prev_id": 3041,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kavşağı tıkamamak için önceliğimden feragat ederim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bisikletli kadının geçmesine izin vermeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bisikletli kadından önce sola sapabilirim",
+      "is_correct": false
+    }
+  ]
+}

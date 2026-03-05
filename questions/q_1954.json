@@ -1,0 +1,39 @@
+{
+  "url_id": 1954,
+  "type": "video",
+  "question_code": "1.1.07-147",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Şimdi neye dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-147_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-1-07-147.mp4"
+    ],
+    "video_posters": [
+      "/media/1-1-07-147_anfang.jpg"
+    ]
+  },
+  "next_id": 2051,
+  "prev_id": 1927,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Önde giden binek otosuna",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Motosiklete",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Bisiklete",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2350,
+  "type": "choice",
+  "question_code": "2.2.32-203",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Aracınız ile yolu, trafiği tehlikeye sokacak şekilde kirlettiniz. Ne yapmanız gerekir?",
+  "pretext": "Yapmam gereken",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3063,
+  "prev_id": 940,
+  "answers": [
+    {
+      "num": 1,
+      "text": "kirlenmeyi gecikmeye mahal vermeksizin temizlemeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "tehlike yerlerinin durum giderilene kadar yeterli şekilde işaretlenerek gösterilmesi",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "tehlike noktasının kolay farkedilebilmesi durumunda hiçbirşey yapmam",
+      "is_correct": false
+    }
+  ]
+}

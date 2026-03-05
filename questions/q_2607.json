@@ -1,0 +1,33 @@
+{
+  "url_id": 2607,
+  "type": "choice",
+  "question_code": "2.6.03-114",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Yanınıza bir römork almak istiyorsunuz. Nelere dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2783,
+  "prev_id": 2299,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Römorkun izin verilen maksimum yüküne",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Çekici aracın izin verilen maksimum römork yüküne",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Römork bağlantısı üzerinde izin verilen maksimum destek yüküne",
+      "is_correct": true
+    }
+  ]
+}

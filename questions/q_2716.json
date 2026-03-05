@@ -1,0 +1,33 @@
+{
+  "url_id": 2716,
+  "type": "choice",
+  "question_code": "2.2.03-024",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "İyi inşa edilmiş bir karayolunda karanlıkta sürüyorsunuz ve kısa huzmeli farları kullanıyorsunuz. Hangi mesafede durabilmeniz gerekir?",
+  "pretext": "Aşağıdaki menzilin içerisinde",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2851,
+  "prev_id": 1840,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Uzun huzmeli farın",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Park lambasının",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Kısa huzmeli farın",
+      "is_correct": true
+    }
+  ]
+}

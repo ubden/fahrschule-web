@@ -1,0 +1,33 @@
+{
+  "url_id": 13,
+  "type": "choice",
+  "question_code": "1.1.02-005",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Zebra çizgili yaya geçitlerinde, çocukların nasıl davranacaklarını düşünmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 30,
+  "prev_id": 2318,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çocuklar, trafiğe dikkat etmeden zebra geçidine doğru koşabilirler",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Çocuklar, zebra geçidinden geçerken, belirli bir sebep olmadan dönüp, geriye doğru koşabilirler",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çocuklar, araçların hız ve uzaklıklarını doğru tahmin ettikleri için, yolun kenarında bekleyeceklerdir",
+      "is_correct": false
+    }
+  ]
+}

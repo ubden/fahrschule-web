@@ -1,0 +1,33 @@
+{
+  "url_id": 2186,
+  "type": "choice",
+  "question_code": "2.2.05-104",
+  "points": 4,
+  "category": "Klasse C",
+  "question_text": "Otobanda, izin verilen toplam ağırlığı 7,5 tonun üzerinde olan bir motorlu taşıt kullanıyorsunuz. Görüş mesafesi şiddetli kar yağışı nedeniyle 50 metrenin altında. Nasıl davranmak zordundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 706,
+  "prev_id": 2185,
+  "answers": [
+    {
+      "num": 1,
+      "text": "En yakın çıkışı kullanarak otobandan çıkmak zorundayım",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "En sol şeridi kullanamam",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Saatte 50 km’den hızlı gidemem",
+      "is_correct": true
+    }
+  ]
+}

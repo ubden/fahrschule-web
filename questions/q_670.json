@@ -1,0 +1,27 @@
+{
+  "url_id": 670,
+  "type": "number",
+  "question_code": "2.2.03-101",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Kar zincirleri takılı bir aracın en yüksek hangi hızla gitmesine izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 673,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "km/sa",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 50 km/sa"
+}

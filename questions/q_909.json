@@ -1,0 +1,33 @@
+{
+  "url_id": 909,
+  "type": "choice",
+  "question_code": "2.2.23-104",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Normal vitesli bir otomobil, yokuşta kendiliğinden harekete geçmemesi için nasıl emniyete alınır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 912,
+  "prev_id": 907,
+  "answers": [
+    {
+      "num": 1,
+      "text": "El frenini çekmek suretiyle",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Vites kolunu boşa almak suretiyle",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Birinci vitese veya geri vitese takmak suretiyle",
+      "is_correct": true
+    }
+  ]
+}

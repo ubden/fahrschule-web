@@ -1,0 +1,33 @@
+{
+  "url_id": 2632,
+  "type": "choice",
+  "question_code": "1.1.03-121",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Araba sürerken aniden şiddetli şekilde yağmur yağmaya başlıyor. Nasıl davranmanız gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 62,
+  "prev_id": 2513,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Öndeki araç ile olan güvenlik mesafemi azaltırım",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Ani hızlanmadan kaçınırım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Hızımı düşürürüm",
+      "is_correct": true
+    }
+  ]
+}

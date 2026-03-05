@@ -1,0 +1,33 @@
+{
+  "url_id": 2598,
+  "type": "choice",
+  "question_code": "2.2.23-122",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Sürüş esnasında telefonla aranıyorsunuz. Nelere dikkat etmelisiniz?",
+  "pretext": "Telefon görüşmesi yapabilirim, eğer",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2725,
+  "prev_id": 2494,
+  "answers": [
+    {
+      "num": 1,
+      "text": "telefon 7 saniyeden uzun süre kullanılmazsa",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "bu esnada telefon tutulmazsa",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "telefonu kullanmak en fazla kısa bir bakış gerektirirse",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 2858,
+  "type": "image_choice",
+  "question_code": "1.1.03-007-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Şiddetli yağmurdan sonra sürüş yapıyorsunuz. Bu durumda nelere dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-03-007-M.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 50,
+  "prev_id": 2388,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yol yüzeyindeki tümsekleri zor fark ediyorum",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sıçrayan su görüşümü olumsuz etkileyebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Önümdeki araçla aramda uzun bir güvenlik mesafesi bırakmalıyım",
+      "is_correct": true
+    }
+  ]
+}

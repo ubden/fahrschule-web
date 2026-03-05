@@ -1,0 +1,33 @@
+{
+  "url_id": 2627,
+  "type": "choice",
+  "question_code": "2.7.06-240",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Otoyollarda adaptif hız sabitleyici (AGR) kullanmanın avantajları nelerdir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2628,
+  "prev_id": 2626,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Güvenlik mesafesinin altına düşmek imkânsızdır",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sürücü, seçilen mesafeyi korumada desteklenir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Arkadan çarpma kazaları olasılığında azalma olur",
+      "is_correct": true
+    }
+  ]
+}

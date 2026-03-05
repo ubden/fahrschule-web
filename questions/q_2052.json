@@ -1,0 +1,39 @@
+{
+  "url_id": 2052,
+  "type": "video",
+  "question_code": "1.1.07-149",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Burada neden beklemelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-149_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-1-07-149.mp4"
+    ],
+    "video_posters": [
+      "/media/1-1-07-149_anfang.jpg"
+    ]
+  },
+  "next_id": 2112,
+  "prev_id": 2051,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kırmızı binek otosundan dolayı",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yayadan dolayı",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Bisikletten dolayı",
+      "is_correct": false
+    }
+  ]
+}

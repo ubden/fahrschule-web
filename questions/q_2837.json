@@ -1,0 +1,33 @@
+{
+  "url_id": 2837,
+  "type": "choice",
+  "question_code": "2.2.34-102",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Araç kullanırken Avrupa Kaza Raporunu neden her zaman yanınızda bulundurmanız gerekiyor?",
+  "pretext": "Avrupa Kaza Raporu kaza durumunda",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2892,
+  "prev_id": 2727,
+  "answers": [
+    {
+      "num": 1,
+      "text": "kazaya karışan yabancı dil konuşan kişiler ile kaza kaydını kolaştırır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "kaza mahallinde sorumluluk sorusuna açıkça cevap verrilmesini sağlar",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "katılımcıların kazayı kendileri kayıt altına almasını sağlar",
+      "is_correct": true
+    }
+  ]
+}

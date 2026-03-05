@@ -1,0 +1,35 @@
+{
+  "url_id": 2984,
+  "type": "image_choice",
+  "question_code": "1.4.41-027",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Burada ne zaman durabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-027.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3042,
+  "prev_id": 2983,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Pazar günleri",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Cumartesi günleri",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Resmi tatillerde",
+      "is_correct": true
+    }
+  ]
+}

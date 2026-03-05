@@ -1,0 +1,33 @@
+{
+  "url_id": 1832,
+  "type": "choice",
+  "question_code": "2.1.11-123",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Beş genç arkadaş arabalarıyla bir sosyal etkinliğe gidiyorlar. Taşkın bir ruh halleri var. Ne gibi tehlikeler meydana gelebilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1930,
+  "prev_id": 1830,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sürücünün dikkate trafikten kopabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sürücü aracı daha yavaş kullanmaya başlar",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sürücü aracı riskli bir şekilde kullanmaya sürüklenir",
+      "is_correct": true
+    }
+  ]
+}

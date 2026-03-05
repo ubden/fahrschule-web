@@ -1,0 +1,33 @@
+{
+  "url_id": 2421,
+  "type": "choice",
+  "question_code": "2.7.03-101",
+  "points": 2,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Motorda çok az miktarda soğutucu sıvının olması hangi sonuca neden olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2620,
+  "prev_id": 2420,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çok az miktardaki bir soğutma sıvısı motorda hasara neden olabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Çok az miktardaki bir soğutma sıvısı akaryakıt sarfiyatının artmasına neden olabilir",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Çok az miktardaki bir soğutma sıvısı motorun aşırı ısınmasına neden olabilir",
+      "is_correct": true
+    }
+  ]
+}

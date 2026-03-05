@@ -1,0 +1,35 @@
+{
+  "url_id": 378,
+  "type": "image_choice",
+  "question_code": "1.4.40-106",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretlerinden sonra ne gelir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-106.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 380,
+  "prev_id": 377,
+  "answers": [
+    {
+      "num": 1,
+      "text": "800 metre sonra başlayan bir yokuş",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "800 metre uzunluğunda inişli bir yol",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "800 metre sonra başlayan inişli bir yol",
+      "is_correct": false
+    }
+  ]
+}

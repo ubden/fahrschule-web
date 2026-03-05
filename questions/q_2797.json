@@ -1,0 +1,29 @@
+{
+  "url_id": 2797,
+  "type": "number",
+  "question_code": "1.4.41-171",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu şekilde işaretlenmiş bir bölgede araçların kullanabileceği maksimum hız nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-171.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2922,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "km/sa",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 30 km/sa"
+}

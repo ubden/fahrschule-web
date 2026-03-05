@@ -1,0 +1,33 @@
+{
+  "url_id": 1540,
+  "type": "choice",
+  "question_code": "2.1.01-102",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Araç içinde özellikle aşırı bas ayarlı yüksek sesli müzik dinlemek, hangi sonuçlara yol açabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2565,
+  "prev_id": 2867,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bu araçların yakınındaki kör insanlar, oryantasyonlarını kaybederler",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sürücünün dikkat yeteneği ciddi derecede eksilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kör insanlar, yüksek müzik sayesinde araç yolunun nereden geçtiğini daha kolay anlarlar",
+      "is_correct": false
+    }
+  ]
+}

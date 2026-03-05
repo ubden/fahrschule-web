@@ -1,0 +1,33 @@
+{
+  "url_id": 2494,
+  "type": "choice",
+  "question_code": "2.2.23-121",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Motorlu aracınıza monte edilmiş akıllı telefonunuzu navigasyon cihazı olarak kullanmak istiyorsunuz. Neye dikkat etmeniz gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2598,
+  "prev_id": 2407,
+  "answers": [
+    {
+      "num": 1,
+      "text": "cihazın ses çıkışını kullanmalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "cihazı elden geldiğince sürüş esnasında kullanmamalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "hedefi araç durma vaziyetindeyken girmeliyim",
+      "is_correct": true
+    }
+  ]
+}

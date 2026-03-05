@@ -1,0 +1,35 @@
+{
+  "url_id": 967,
+  "type": "image_choice",
+  "question_code": "2.4.41-104",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Hangi araçların bu şekilde işaretlenmiş caddeye girmesi yasaktır?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-41-104.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 968,
+  "prev_id": 966,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İzin verilmiş dingil ağırlığı 2 tondan fazla olan araçlar",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Gerçek dingil ağırlığı 2 tondan fazla olan araçlar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "İzin verilmiş toplam kütlesi 2 tonu aşmayan araçlar",
+      "is_correct": false
+    }
+  ]
+}

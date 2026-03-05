@@ -1,0 +1,39 @@
+{
+  "url_id": 2065,
+  "type": "video",
+  "question_code": "1.2.37-018",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Şimdi buradaki doğru davranışınız nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-37-018_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-37-018.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-37-018_anfang.jpg"
+    ]
+  },
+  "next_id": 2466,
+  "prev_id": 1753,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Durma çizgisinde yeşilin yanmasını beklerim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Çapraz yoldan akmakta olan trafiğe öncelik tanırım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "\"Sarı\" yanmakta olduğundan kavşağı hızla geçerim",
+      "is_correct": false
+    }
+  ]
+}

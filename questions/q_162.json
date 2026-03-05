@@ -1,0 +1,33 @@
+{
+  "url_id": 162,
+  "type": "choice",
+  "question_code": "1.2.05-104",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Sollama işlemini nasıl bitirmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 163,
+  "prev_id": 161,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sollanan aracın hemen önünde tekrar yolun sağ tarafına geçersiniz",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Tekrar eski şeride geçmek istediğinizi zamanında ve belirgin bir şekilde gösterirsiniz",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sollanan aracı engellemeden, mümkün olan en kısa zamanda tekrar sağ şeride geçersiniz",
+      "is_correct": true
+    }
+  ]
+}

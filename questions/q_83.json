@@ -1,0 +1,33 @@
+{
+  "url_id": 83,
+  "type": "choice",
+  "question_code": "1.1.07-001",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Önünüzdeki bir yük katarının sağdaki dar bir yola dönmek istemesi halinde, neyi hesaba katmak zorundasınız?",
+  "pretext": "Yük katarı,",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 84,
+  "prev_id": 2747,
+  "answers": [
+    {
+      "num": 1,
+      "text": "dönüş yapmadan önce sola doğru şeritten çıkacaktır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "hızını önemli ölçüde azaltacaktır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "özellikle yolun sağında pozisyona girecektir",
+      "is_correct": false
+    }
+  ]
+}

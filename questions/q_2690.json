@@ -1,0 +1,33 @@
+{
+  "url_id": 2690,
+  "type": "choice",
+  "question_code": "2.8.01-013",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Acemi bir sürücü, deneme süresi boyunca birkaç ihlal gerçekleştirmiştir. Resmi daire, bir geliştirme seminerine katılım talimatı vermiştir. Acemi sürücü bu talimata uymamaktadır. Şimdi neyi hesaba katması gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3029,
+  "prev_id": 1941,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Deneme süresinin 3 yıl daha uzatılması",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sürüş yetenek seminerine katılım talimatı verilmesi",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sürücü belgesinin geri alınması",
+      "is_correct": true
+    }
+  ]
+}

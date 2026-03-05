@@ -1,0 +1,33 @@
+{
+  "url_id": 2116,
+  "type": "choice",
+  "question_code": "1.2.10-109",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Aracınızla park ettiğiniz yerden akan trafiğe katılmak istiyorsunuz. Nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 206,
+  "prev_id": 1720,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Akmakta olan trafiği tehlikeye atmamalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hareket etmeden önce sinyal vermeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Arkadan gelmekte olan trafiği gözlemlemeliyim",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2294,
+  "type": "choice",
+  "question_code": "2.6.02-036",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Aracınızdaki bir teknik değişiklikten ötürü bilirkişi incelemesi yapılması gerekti. Ne yapmakla yükümlüsünüz?",
+  "pretext": "Bilirkişi raporunu veya teyit yazısını",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2781,
+  "prev_id": 1936,
+  "answers": [
+    {
+      "num": 1,
+      "text": "ruhsatname Kısım II'de bunun için öngörülmüş olan yere yapıştırmak zorundayım",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "araçta bulundurmak ve gerekirse die Ruhsatname Kısım I'i düzelttirmek zorundayım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "aracın üreticisine göndermek zorundayım",
+      "is_correct": false
+    }
+  ]
+}

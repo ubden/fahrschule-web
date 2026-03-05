@@ -1,0 +1,27 @@
+{
+  "url_id": 1155,
+  "type": "number",
+  "question_code": "2.6.06-307",
+  "points": 2,
+  "category": "Klasse CE",
+  "question_text": "Bir kamyon ve iki akslı bir römorktan oluşan bir katarın, üzerindeki yükü ile birlikte azami ne kadar uzunlukta olmasına izin verilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2960,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "m",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 20,75 m"
+}

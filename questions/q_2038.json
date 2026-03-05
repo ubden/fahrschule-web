@@ -1,0 +1,33 @@
+{
+  "url_id": 2038,
+  "type": "choice",
+  "question_code": "2.5.01-212",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Bunlardan hangisiyle ortaya çıkan gürültüden kaçınabilmek mümkündür?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2149,
+  "prev_id": 2037,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Tavan bagaj taşıyıcısıyla yolculuk etmek",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Kapıları sert çarpmak",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Selam vermek için kornaya basmak",
+      "is_correct": true
+    }
+  ]
+}

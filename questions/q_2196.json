@@ -1,0 +1,33 @@
+{
+  "url_id": 2196,
+  "type": "choice",
+  "question_code": "2.2.22-120",
+  "points": 3,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Savurma kuvveti bir ağır vasıtanın yüküne ne zaman etki eder?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2198,
+  "prev_id": 2142,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Fren yaparken",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Düz yolda giderken",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Virajlarda",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2441,
+  "type": "choice",
+  "question_code": "2.7.06-317",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Frenleme sırasında çekici araç ile römork arasındaki sarı bağlantı başlıklı fren hortumunun yırtılmasının etkisi nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2442,
+  "prev_id": 2378,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Rezerv hattının havası otomatik olarak boşaltılır ve römork frenlenir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Dörtlü koruyucu ventil çeken aracın işletme fren sistemi için güvenli basıncı sağlar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Römorkun işletme fren tesisatı devre dışı kalır",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 2644,
+  "type": "image_choice",
+  "question_code": "2.1.03-119",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Yolculuğunuzda adaptif hız sabitleyici (AGR) olan aracınızı kullanıyorsunuz. Bu hava koşullarında neyi hesaba katmanız gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-03-119.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2645,
+  "prev_id": 2478,
+  "answers": [
+    {
+      "num": 1,
+      "text": "AGR işlevini yitirmiş olabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hız ve mesafeyi kendim ayarlamalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "AGR aracın durmasını sağlar",
+      "is_correct": false
+    }
+  ]
+}

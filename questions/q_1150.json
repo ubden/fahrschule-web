@@ -1,0 +1,33 @@
+{
+  "url_id": 1150,
+  "type": "choice",
+  "question_code": "2.6.06-302",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Yarı römorklu bir taşıdın (iki dingilli çekici, üç dingilli yarı römork, kombine trafik değil) izin verilmiş toplam kütlesi, azami ne kadar olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1151,
+  "prev_id": 1149,
+  "answers": [
+    {
+      "num": 1,
+      "text": "40 ton",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "38 ton",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "44 ton",
+      "is_correct": false
+    }
+  ]
+}

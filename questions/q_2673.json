@@ -1,0 +1,33 @@
+{
+  "url_id": 2673,
+  "type": "choice",
+  "question_code": "2.7.01-144",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Şeritten Ayrılma Uyarı Sistemi hangi durumlarda size destek olabilir?",
+  "pretext": "Şu yollarda sürerken",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2674,
+  "prev_id": 2613,
+  "answers": [
+    {
+      "num": 1,
+      "text": "karayollarında",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "otobanlarda",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "kötü işaretlenmiş dar şantiyelerde",
+      "is_correct": false
+    }
+  ]
+}

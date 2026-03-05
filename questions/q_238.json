@@ -1,0 +1,33 @@
+{
+  "url_id": 238,
+  "type": "choice",
+  "question_code": "1.2.19-002",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bir demiryolu geçidinde hangi hallerde beklemek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 240,
+  "prev_id": 2535,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bir demiryolu görevlisi beyaz-kırmızı-beyaz bir bayrak salladığında",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bariyerler aşağı inerken",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kırmızı ışık yanıp söndüğünde",
+      "is_correct": true
+    }
+  ]
+}

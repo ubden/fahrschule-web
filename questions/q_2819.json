@@ -1,0 +1,35 @@
+{
+  "url_id": 2819,
+  "type": "image_choice",
+  "question_code": "2.1.03-037",
+  "points": 4,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Burada neye hazırlıklı olmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-03-037.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2820,
+  "prev_id": 2707,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracımın zayıf görüşüne",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Lastiklerin yüksek zemin tutuşuna",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Uzun bir bir fren mesafesine",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2043,
+  "type": "choice",
+  "question_code": "2.6.02-413",
+  "points": 4,
+  "category": "Klasse C",
+  "question_text": "Belirtilen mevzuattan hangisi karayolunda tehlikeli madde taşımacılığını düzenlemektedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2094,
+  "prev_id": 1893,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Medeni Kanun (BGB)",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Kara, Demir ile Yurtiçi Deniz ve Akarsuları Yoluyla Tehlikeli Madde Nakliyesi Hakkında Tüzük (GGVSEB)",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Tehlikeli Malların Karayoluyla Uluslararası Taşınmasına ilişkin Avrupa Anlaşmas (ADR)",
+      "is_correct": true
+    }
+  ]
+}

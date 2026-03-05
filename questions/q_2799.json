@@ -1,0 +1,35 @@
+{
+  "url_id": 2799,
+  "type": "image_choice",
+  "question_code": "1.1.02-051-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda nasıl doğru hareket edersiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-02-051-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2856,
+  "prev_id": 2168,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Selektör yaparak ilgili kişiye beklediğimi sinyalize ederim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "İlgili kişinin solundan yeterli mesafe ile geçerim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Durur ve geçmesine izin veririm",
+      "is_correct": true
+    }
+  ]
+}

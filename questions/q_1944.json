@@ -1,0 +1,35 @@
+{
+  "url_id": 1944,
+  "type": "image_choice",
+  "question_code": "1.1.07-014-M",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Neyi hesaba katmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-014-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1606,
+  "prev_id": 95,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kavşaktan önce durmam gerektiğini",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Karşıdan karşıya geçecek olan insanları",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Otobüsün yanından geçen aracı",
+      "is_correct": true
+    }
+  ]
+}

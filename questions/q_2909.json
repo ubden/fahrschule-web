@@ -1,0 +1,33 @@
+{
+  "url_id": 2909,
+  "type": "choice",
+  "question_code": "2.7.02-139",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Aracınızın Elektronik Denge Kontrolü (ESC) gösterge ışığı sürekli yanıyor. Bu neye işaret ediyor olabilir?",
+  "pretext": "Elektronik Denge Kontrolü (ESC)",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3078,
+  "prev_id": 2908,
+  "answers": [
+    {
+      "num": 1,
+      "text": "devrededir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "devre dışı bırakıldı",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "azrızalıdır",
+      "is_correct": true
+    }
+  ]
+}

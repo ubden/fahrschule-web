@@ -1,0 +1,33 @@
+{
+  "url_id": 2824,
+  "type": "choice",
+  "question_code": "2.1.06-030",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Bir caddede sollama yapmak istiyorsunuz. Özellikle neye dikkat etmeniz gerekiyor?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2870,
+  "prev_id": 2823,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Burada ağaç kazalarının sıklığı oldukça yüksektir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yüksek üstyapılı araçlar genellikle burada dallardan kaçar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yan mesafeler burada genellikle yanlış tahmin edilir",
+      "is_correct": true
+    }
+  ]
+}

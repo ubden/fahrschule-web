@@ -1,0 +1,33 @@
+{
+  "url_id": 269,
+  "type": "choice",
+  "question_code": "1.2.23-003",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Araçtaki hangi eksiklikler karayolu trafiğini tehlikeye atabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1735,
+  "prev_id": 268,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aşınmış lastikler",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bozuk arka lambalar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Fren etkisinin yetersiz olması",
+      "is_correct": true
+    }
+  ]
+}

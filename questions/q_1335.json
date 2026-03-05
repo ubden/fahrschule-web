@@ -1,0 +1,33 @@
+{
+  "url_id": 1335,
+  "type": "choice",
+  "question_code": "2.7.02-109",
+  "points": 5,
+  "category": "Klasse B",
+  "question_text": "Fren pedalının aracın tabanına kadar indiğini varsayın. Pedal mesafesi, ancak pedala birkaç sefer bastıktan sonra kısalıyor. Bu durumda ne yapmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1343,
+  "prev_id": 1333,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sadece fren sıvısı takviye etmem yeterlidir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Aracı derhal yerinde bırakmak",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Freni tamir ettirmek",
+      "is_correct": true
+    }
+  ]
+}

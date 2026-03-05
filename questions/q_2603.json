@@ -1,0 +1,35 @@
+{
+  "url_id": 2603,
+  "type": "image_choice",
+  "question_code": "2.5.01-012",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Bu şekilde işaretlenmiş çevre bölgesine hangi araçların girmesine izin verilir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-5-01-012.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2010,
+  "prev_id": 2009,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Böyle bir plaket takmamış olsa da, yeşil ince toz plaketi koşullarına sahip motorlu araçların",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Yeşil ince toz plaketi olan motorlu araçların",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Motosikletlerin",
+      "is_correct": true
+    }
+  ]
+}

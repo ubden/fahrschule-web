@@ -1,0 +1,33 @@
+{
+  "url_id": 1830,
+  "type": "choice",
+  "question_code": "2.1.11-121",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Bir karayolunda gitmektesiniz ve arkanızdan gelmekte olan bir binek otosu sizi taciz ediyor. Nasıl bir tepki vermelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1832,
+  "prev_id": 1829,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hızımı korurum ve arkadan gelen binek otosunun sollamasına olanak tanımak için sağda kalırım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Arkadan gelmekte olan binek otosu beni taciz etmeyi bırakıncaya kadar hızımı düşürürüm",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Arkadan gelmekte olan binek otosu beni taciz etmeyi bırakıncaya kadar hızımı artırırım",
+      "is_correct": false
+    }
+  ]
+}

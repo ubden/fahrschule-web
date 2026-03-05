@@ -1,0 +1,39 @@
+{
+  "url_id": 2479,
+  "type": "video",
+  "question_code": "2.1.06-026-M",
+  "points": 5,
+  "category": "Klasse B",
+  "question_text": "Şimdi neden sollama yapamazsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-06-026-M_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-06-026-M.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-06-026-M_anfang.jpg"
+    ]
+  },
+  "next_id": 2568,
+  "prev_id": 2400,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Motosikletten dolayı",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yolun seyrinden dolayı",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "kırmızı arabadan dolayı",
+      "is_correct": false
+    }
+  ]
+}

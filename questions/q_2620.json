@@ -1,0 +1,33 @@
+{
+  "url_id": 2620,
+  "type": "choice",
+  "question_code": "2.7.03-102",
+  "points": 2,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Adım hızında bir trafik sıkışıklığının içine giriyorsunuz. Manuel şanzımanlı motorlu taşıtınızda debriyaj aşınması ne zaman en düşüktür?",
+  "pretext": "Eğer",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1368,
+  "prev_id": 2421,
+  "answers": [
+    {
+      "num": 1,
+      "text": "yarım debriyaj ile yavaşça sürersem",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "mümkün olduğunca debriyajı kullanmadan düşük viteste sürersem",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "defalarca sürüşe geçer ve durursam",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1354,
+  "type": "choice",
+  "question_code": "2.7.02-202",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Basınçlı hava freni tertibatının doldurma süresinin normalden fazla olması, nerden kaynaklanabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1355,
+  "prev_id": 3078,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hava deposu veya bağlantılarda sızıntı var",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hava depolarında fazla miktarda su mevcut",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Kompresörün randımanı yetersizdir",
+      "is_correct": true
+    }
+  ]
+}

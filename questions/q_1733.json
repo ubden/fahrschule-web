@@ -1,0 +1,33 @@
+{
+  "url_id": 1733,
+  "type": "choice",
+  "question_code": "1.2.22-107",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Yük taşımak istediğinizde neye dikkat etmelisiniz?",
+  "pretext": "Yük",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1734,
+  "prev_id": 266,
+  "answers": [
+    {
+      "num": 1,
+      "text": "kesinlikle aracın üstünden öne doğru çıkıntı yapmamalıdır",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "tam fren yaptığım takdirde bile kaymamalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "beni engellememelidir",
+      "is_correct": true
+    }
+  ]
+}

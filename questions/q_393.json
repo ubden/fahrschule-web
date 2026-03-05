@@ -1,0 +1,35 @@
+{
+  "url_id": 393,
+  "type": "image_choice",
+  "question_code": "1.4.40-121",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işareti, neye işaret eder?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-121.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 399,
+  "prev_id": 390,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yanıp sönen kırmızı lambalı demiryolu geçidine",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Trafik lambasına",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Gümrük kapısına",
+      "is_correct": false
+    }
+  ]
+}

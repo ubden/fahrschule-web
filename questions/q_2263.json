@@ -1,0 +1,33 @@
+{
+  "url_id": 2263,
+  "type": "choice",
+  "question_code": "1.2.19-115",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bir demiryolu geçidine yaklaşıyorsunuz. Bariyer aşağıya inmeye başlıyor. Nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2465,
+  "prev_id": 1965,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Tehlike sinyal ışığını açarım",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Görünürde bir tren yoksa yoluma devam ederim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Demiryolu levhasının önünde beklerim",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url_id": 2107,
+  "type": "number",
+  "question_code": "2.2.04-304",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Şehir dışındaki bir yolda sizin istikametinizde sadece tek bir şerit var. Burada hangi ağır vasıtalar önlerindeki araçlarla aralarında sollamakta olan bir aracın girebileceği kadar mesafe bırakmak zorundadırlar?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2108,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap: İzin verilen toplam ağırlığı",
+      "label_before": "Cevap: İzin verilen toplam ağırlığı",
+      "label_after": "tonun üzerinde olan ağır vasıtalar",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: İzin verilen toplam ağırlığı 3,50 tonun üzerinde olan ağır vasıtalar"
+}

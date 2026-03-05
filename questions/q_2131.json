@@ -1,0 +1,39 @@
+{
+  "url_id": 2131,
+  "type": "video",
+  "question_code": "2.2.05-011",
+  "points": 5,
+  "category": "Klasse B",
+  "question_text": "Bu durumda nasıl doğru davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-05-011_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-2-05-011.mp4"
+    ],
+    "video_posters": [
+      "/media/2-2-05-011_anfang.jpg"
+    ]
+  },
+  "next_id": 2132,
+  "prev_id": 1842,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sollama işlemine aynı hızla devam ederim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Hızlanırım ve sollama işlemine devam ederim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sollama işlemine son veririm ve sağ tarafta hiza alırım",
+      "is_correct": true
+    }
+  ]
+}

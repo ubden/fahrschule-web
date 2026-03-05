@@ -1,0 +1,35 @@
+{
+  "url_id": 2319,
+  "type": "image_choice",
+  "question_code": "1.1.04-111",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu tür durumlarda nasıl davranmanız gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-04-111.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 66,
+  "prev_id": 1658,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hızımı azaltırım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sağ yol şeridine adapte olurum",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Farları yakarım",
+      "is_correct": false
+    }
+  ]
+}

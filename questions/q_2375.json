@@ -1,0 +1,33 @@
+{
+  "url_id": 2375,
+  "type": "choice",
+  "question_code": "2.7.06-229",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Aracınızın elektronik fren sistemi (EBS) bulunmaktadır. EBS'nin nasıl bir etkisi bulunmaktadır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2435,
+  "prev_id": 2374,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Fren tertibatının otomatik denetlenmesi",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yol şeridinde söz konusu olan engellerde otomatik fren",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Her bir tekerlek freni arasında fren gücünün optimal olarak belirlenmesi",
+      "is_correct": true
+    }
+  ]
+}

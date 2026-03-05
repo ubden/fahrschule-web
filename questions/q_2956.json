@@ -1,0 +1,33 @@
+{
+  "url_id": 2956,
+  "type": "choice",
+  "question_code": "2.5.01-129",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Otomobiliniz otomatik start-stop sistemi ile donatılmıştır. Bu araç sisteminin kullanımı çevre koruması için nasıl bir avantaj sağlıyor?",
+  "pretext": "Start-Stop otomatiği",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3067,
+  "prev_id": 2840,
+  "answers": [
+    {
+      "num": 1,
+      "text": "gürültü kirliliğini azaltır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "yakıt tüketimini azaltır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "lastik aşınmasını azaltır",
+      "is_correct": false
+    }
+  ]
+}

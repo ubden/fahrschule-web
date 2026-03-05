@@ -1,0 +1,35 @@
+{
+  "url_id": 1136,
+  "type": "image_choice",
+  "question_code": "2.6.05-219",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Sürücü kartının kaybını ne zaman bildirmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-6-05-219.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1137,
+  "prev_id": 1134,
+  "answers": [
+    {
+      "num": 1,
+      "text": "En geç 8 gün sonra",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "En geç 14 gün sonra",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Derhal",
+      "is_correct": true
+    }
+  ]
+}

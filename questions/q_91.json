@@ -1,0 +1,33 @@
+{
+  "url_id": 91,
+  "type": "choice",
+  "question_code": "1.1.07-009",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Bir okula yaklaşıyorsunuz. Okul alanını terk etmekte olan öğrencilerle karşılaşıyorsunuz. Neyi hesaplamak zorundasınız?",
+  "pretext": "Çocuklar,",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 92,
+  "prev_id": 88,
+  "answers": [
+    {
+      "num": 1,
+      "text": "daima trafik kurallarına uygun hareket ederler",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "kaygısızca araç yoluna hücum edebilirler",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "bisikletleri ile dikkatsizce araç yoluna çıkabilirler",
+      "is_correct": true
+    }
+  ]
+}

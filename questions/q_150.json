@@ -1,0 +1,27 @@
+{
+  "url_id": 150,
+  "type": "number",
+  "question_code": "1.2.03-101",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Yerleşim yerlerinde genel olarak azami sürat sınırı kaçtır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 151,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "km/sa",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 50 km/sa"
+}

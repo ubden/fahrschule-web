@@ -1,0 +1,33 @@
+{
+  "url_id": 844,
+  "type": "choice",
+  "question_code": "2.2.22-109",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Aracın arkasına doğru sarkan bir yükü işaretlendirmekte olan kırmızı lambanın, araç yolundan azami ne kadar yükseklikte takılmasına izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 846,
+  "prev_id": 843,
+  "answers": [
+    {
+      "num": 1,
+      "text": "1,50 metre",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "2,00 metre",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "2,50 metre",
+      "is_correct": false
+    }
+  ]
+}

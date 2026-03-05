@@ -1,0 +1,39 @@
+{
+  "url_id": 2281,
+  "type": "video",
+  "question_code": "2.2.05-016-M",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Sollamak istiyorsunuz. Burada nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-05-016-M_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-2-05-016-M.mp4"
+    ],
+    "video_posters": [
+      "/media/2-2-05-016-M_anfang.jpg"
+    ]
+  },
+  "next_id": 2282,
+  "prev_id": 2255,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Eğer mavi binek otosu sollarsa hemen arkasından onu takip ederim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Tek sollama işlemiyle bütün araçları sollarım",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Henüz sollamam, çünkü mavi binek otosu sollayabilir",
+      "is_correct": true
+    }
+  ]
+}

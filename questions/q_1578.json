@@ -1,0 +1,35 @@
+{
+  "url_id": 1578,
+  "type": "image_choice",
+  "question_code": "1.1.04-107",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Burada neyle karşılaşabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-04-107.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1656,
+  "prev_id": 62,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracınız başkaları tarafından zamanında görülemeyebilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Işıklar renkli ışıklı reklamların arasında pek dikkat çekmeyebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Karşıdan gelen araçlar sizi geç fark edebilir",
+      "is_correct": true
+    }
+  ]
+}

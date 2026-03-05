@@ -1,0 +1,35 @@
+{
+  "url_id": 390,
+  "type": "image_choice",
+  "question_code": "1.4.40-118",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretini gördüğünüzde, neleri hesaba katmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-118.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 393,
+  "prev_id": 388,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bir trafik tıkanıklığını",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Önde giden araçların aniden fren yapabileceğini",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Araç yolunun üç şeride genişleyeceğini",
+      "is_correct": false
+    }
+  ]
+}

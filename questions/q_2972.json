@@ -1,0 +1,33 @@
+{
+  "url_id": 2972,
+  "type": "choice",
+  "question_code": "2.7.06-119",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Acil Fren Asistanının görevi işlevi nedir?",
+  "pretext": "Acil durum frenleme asistanı",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1410,
+  "prev_id": 2971,
+  "answers": [
+    {
+      "num": 1,
+      "text": "yanlışlıkla yol çizgisini geçtiğimde aracımı frenler",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "kaçınılmaz bir çarpışmada yaralanma riskini azaltabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "arkadan çarpma tehlikesine karşı uyarır",
+      "is_correct": true
+    }
+  ]
+}

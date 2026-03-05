@@ -1,0 +1,27 @@
+{
+  "url_id": 2741,
+  "type": "number",
+  "question_code": "1.2.05-003",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Yerleşim yeri dışında bisiklet sürücüsü veya yaya sollamak istiyorsunuz. Bu esnada korumanız gereken minimum kenar mesafesi nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2742,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "m",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 2 m"
+}

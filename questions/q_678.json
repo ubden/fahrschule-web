@@ -1,0 +1,27 @@
+{
+  "url_id": 678,
+  "type": "number",
+  "question_code": "2.2.03-202",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "İzin verilmiş toplam kütlesi 4,0 ton olan bir kamyonla, otoyollarda (otobanlarda) en çok hangi hızla gitmenize izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 687,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "km/sa",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 80 km/sa"
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 940,
+  "type": "choice",
+  "question_code": "2.2.32-102",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Aracınızdan düşen teçhizat veya yük parçalarından dolayı başka şahısların tehlikeye atılmasını önlemek için ne yapmak zorundasınız?",
+  "pretext": "O andaki duruma göre,",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2350,
+  "prev_id": 939,
+  "answers": [
+    {
+      "num": 1,
+      "text": "parçaları kendiniz toplayıp bertaraf edersiniz",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "yolunuza devam eder, en yakın Kamu Nizam Dairesi’ni (Ordnungsamt) haberdar edersiniz",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "tehlike alanını emniyet altına alır ve derhal karayolları hizmet ekibini veya polisi haberdar edersiniz",
+      "is_correct": true
+    }
+  ]
+}

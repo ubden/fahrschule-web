@@ -1,0 +1,33 @@
+{
+  "url_id": 2899,
+  "type": "choice",
+  "question_code": "2.6.03-119",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Bir karavan bağlandıktan sonra bir binek otomobil kullanırken nelere dikkat edilmelidir?",
+  "pretext": "Karavan nedeniyle",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2959,
+  "prev_id": 2898,
+  "answers": [
+    {
+      "num": 1,
+      "text": "dönerken gerekli viraj yarıçapı azalır",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "hızlanma kapasitesi kötüleşir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "sollama mesafesi uzar",
+      "is_correct": true
+    }
+  ]
+}

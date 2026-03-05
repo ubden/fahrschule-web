@@ -1,0 +1,33 @@
+{
+  "url_id": 2847,
+  "type": "choice",
+  "question_code": "2.7.05-005",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Yolda çok düşük lastik basıncı ile ilerliyorsunuz. Bunun ne gibi sonuçları olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2910,
+  "prev_id": 2425,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Virajlardaki sürüş stabilitesi tehlikeli bir şekilde azalır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Lastik aşınması çok azalır",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Aracın direksiyon kontrolü önemli ölçüde bozulur",
+      "is_correct": true
+    }
+  ]
+}

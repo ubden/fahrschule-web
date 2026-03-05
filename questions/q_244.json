@@ -1,0 +1,33 @@
+{
+  "url_id": 244,
+  "type": "choice",
+  "question_code": "1.2.19-101",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bir orman yolunda araç sürüyor ve Andreas çaprazı olmayan bir demiryolu geçidine yaklaşıyorsunuz. Nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 245,
+  "prev_id": 2980,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Demiryolu taşıtları burada beklemek zorunda olduklarından, kaygısızca yola devam edersiniz",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Bir demiryolu taşıdının düdük veya zil çalarak, gelişini bildirip bildirmediğini duymaya çalışırsınız",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Düşük bir hızla yaklaşır ve bir demiryolu taşıdının gelip gelmediğini gözetlersiniz",
+      "is_correct": true
+    }
+  ]
+}

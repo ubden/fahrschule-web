@@ -1,0 +1,33 @@
+{
+  "url_id": 2128,
+  "type": "choice",
+  "question_code": "2.1.11-127",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Bir araç sürücüsünün sorumluluklarının bilincinde bir sürücü olduğunuzu gösteren nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2129,
+  "prev_id": 2127,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Trafikteki diğer katılımcıların hata yapabileceğini dikkate alması",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yorgunken araç kullanmaktan kaçınması",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Karayolu trafiğinde diş geçirebiliyor",
+      "is_correct": false
+    }
+  ]
+}

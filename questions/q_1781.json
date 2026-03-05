@@ -1,0 +1,35 @@
+{
+  "url_id": 1781,
+  "type": "image_choice",
+  "question_code": "1.4.41-146",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu işaret kombinasyonu ile ne anlatılıyor?",
+  "pretext": "100 m sonra şu işaret geliyor",
+  "media": {
+    "images": [
+      "/media/1-4-41-146.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1782,
+  "prev_id": 1780,
+  "answers": [
+    {
+      "num": 1,
+      "text": "\"Karşıdan gelen trafiğin önceliği\"",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "\"Dur. Öncelik tanı.\"",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "\"Öncelik tanı.\"",
+      "is_correct": false
+    }
+  ]
+}

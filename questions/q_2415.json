@@ -1,0 +1,33 @@
+{
+  "url_id": 2415,
+  "type": "choice",
+  "question_code": "2.7.01-141",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Dar bir viraja doğru çok hızlı gidiyorsunuz. Aniden sert fren yapmak zorunda kalırsanız ne olabilir?",
+  "pretext": "Aracım",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2416,
+  "prev_id": 2359,
+  "answers": [
+    {
+      "num": 1,
+      "text": "stabilite kontrolü ile her zaman sabit kalır",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "virajın dışına kayar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "yol tutuşunu kaybeder",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2593,
+  "type": "choice",
+  "question_code": "2.2.22-220",
+  "points": 3,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Bir yük dağıtım planından hangi spesifik bilgileri edinebilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2661,
+  "prev_id": 2592,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İzin verilen maksimum yükte, yükün ağırlık merkezi hakkında bilgiler",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yükleme alanındaki maksimum yük yüksekliği ile ilgili bilgiler",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Yükleme alanında, yük emniyetine ilişkin bilgiler",
+      "is_correct": false
+    }
+  ]
+}

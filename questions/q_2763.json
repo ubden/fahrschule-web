@@ -1,0 +1,35 @@
+{
+  "url_id": 2763,
+  "type": "image_choice",
+  "question_code": "2.1.02-005-M",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Bu durumda neyi hesaba katmanız gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-02-005-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2868,
+  "prev_id": 1967,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İleride bir yaya geçidi olabilir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Çocuklar şeride koşabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "İnsanlar yola şerit kenarından inebilirler",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 980,
+  "type": "image_choice",
+  "question_code": "2.4.42-006",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Bu trafik işareti, neye işaret eder?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-42-006.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3009,
+  "prev_id": 979,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Federal Yol 22'ye",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Bir metro istasyonuna",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Otoyol (otoban) trafiği için geçerli bir ihtiyaç servis yoluna",
+      "is_correct": true
+    }
+  ]
+}

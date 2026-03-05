@@ -1,0 +1,35 @@
+{
+  "url_id": 1137,
+  "type": "image_choice",
+  "question_code": "2.6.05-220",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Kontrol memurları, hangi hallerde sürücü kartına el koyabilir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-6-05-220.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1138,
+  "prev_id": 1136,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Mola vermeden araç kullanma süresinin izin verilen sınırı aşmış olması halinde",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Başka bir şahsa ait sürücü kartının ibraz edilmesi halinde",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Önemli ölçüde hızlı gidildiğinin anlaşılması halinde",
+      "is_correct": false
+    }
+  ]
+}

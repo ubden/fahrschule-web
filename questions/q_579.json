@@ -1,0 +1,33 @@
+{
+  "url_id": 579,
+  "type": "choice",
+  "question_code": "2.1.04-102",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Karanlıkta ve yağmurlu bir havada, bir karayolunda giderken karşı yönden kısa farlarını yakmış araçlar geliyorlar. Bu durumda neleri dikkate almak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1804,
+  "prev_id": 2929,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Ön camınızdaki kir tabakası, görüşünüzü kötüleştirir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Uzun farlarınızı yakmak suretiyle gözünüzün kamaşmasını önleyebilirsiniz",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Islak araç yolu üzerindeki ışık yansımaları, gözünüzü kamaştırabilir",
+      "is_correct": true
+    }
+  ]
+}

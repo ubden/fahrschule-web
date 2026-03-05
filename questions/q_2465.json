@@ -1,0 +1,33 @@
+{
+  "url_id": 2465,
+  "type": "choice",
+  "question_code": "1.2.19-116",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Demiryolu geçitlerinin teknik açıdan güvenli olmadığını nerelerde hesaba katmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3035,
+  "prev_id": 2263,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Endüstri ve Liman bölgelerinde",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Trafiği az olan yollarda",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Arazi ve Orman yollarında",
+      "is_correct": true
+    }
+  ]
+}

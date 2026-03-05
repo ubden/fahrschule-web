@@ -1,0 +1,33 @@
+{
+  "url_id": 2076,
+  "type": "choice",
+  "question_code": "2.2.03-305",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Saatte 130 km’lik tavsiye edilen azami hız hangi yollarda geçerlidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 689,
+  "prev_id": 687,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Meskun mahaller dışında, her istikamet için yapısal olarak bölünmüş şeridi bulunan araç yollarında",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Otobanlarda",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Meskun mahaller dışında, her istikamette işaretlenmiş en az iki şeridi bulunan araç yollarında",
+      "is_correct": true
+    }
+  ]
+}

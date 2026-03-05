@@ -1,0 +1,33 @@
+{
+  "url_id": 1493,
+  "type": "choice",
+  "question_code": "2.7.09-208",
+  "points": 3,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Bir yükleme vincini işletmeye almadan önce, hangi önlemleri almak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1494,
+  "prev_id": 1489,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Vincin dönme alanı dahilinde herhangi bir elektrik hattı bulunmamalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Vincin kenarlarından desteklenmesinin mutlaka gerekli olup olmadığı incelenmelidir",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Kenar destekleri ile aracın devrilmeye karşı emniyete alınması gerekmektedir",
+      "is_correct": true
+    }
+  ]
+}

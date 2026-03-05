@@ -1,0 +1,33 @@
+{
+  "url_id": 1815,
+  "type": "choice",
+  "question_code": "2.1.07-207",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Yanınızdakinin sağ taraftan inebilmesi için aracınızla duraklama yaptınız. Sağ tarafta da bir bisiklet yolu var. Ne yapmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1816,
+  "prev_id": 1814,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İnen kişiye bisiklet yoluna dikkat etmesini söylemeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hiçbir bisikletlinin gelmediğinden emin olmalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Trafiği yalnızca dikiz aynasından gözlemlemeliyim",
+      "is_correct": false
+    }
+  ]
+}

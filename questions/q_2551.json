@@ -1,0 +1,35 @@
+{
+  "url_id": 2551,
+  "type": "image_choice",
+  "question_code": "1.4.42-147-M",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bisiklet sürücülerine ait koruyucu şerit olan bu caddede araç kullanıyorsunuz. Koruyucu şeridi nasıl kullanabilirsiniz?",
+  "pretext": "Bisiklet sürücüleri için tehlike arz etmemek şartıyla,",
+  "media": {
+    "images": [
+      "/media/1-4-42-147-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 504,
+  "prev_id": 2550,
+  "answers": [
+    {
+      "num": 1,
+      "text": "koruyucu şerit üzerinde durabilirim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "koruyucu şeridin içerisine ihtiyaç durumunda girebilirim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "koruyucu şerit üzerinde park edebilirim",
+      "is_correct": false
+    }
+  ]
+}

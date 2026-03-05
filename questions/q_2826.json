@@ -1,0 +1,33 @@
+{
+  "url_id": 2826,
+  "type": "choice",
+  "question_code": "2.2.02-203",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Kış mevsiminde tehlikeli madde taşımacılığı yapıyorsunuz. Kar nedeniyle kayganlaşma nedeniyle yol koşulları bozulursa nasıl davranmalısınız?",
+  "pretext": "Ben",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 659,
+  "prev_id": 2715,
+  "answers": [
+    {
+      "num": 1,
+      "text": "başkaları için her tür tehlikeyi önlemeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "tehlikeli maddeleri her zaman durmadan varış noktasına götürmeliyim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "mümkünse park etmek için uygun bir yer ararım",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1403,
+  "type": "choice",
+  "question_code": "2.7.06-105",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Otomatik frenli römorkun fren etkisi ne zaman kendini gösterir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2164,
+  "prev_id": 1402,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Eşzamanlı olarak çekici aracın fren pedalına basıldığında",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Römorkun, çekici araca bağlanması halinde",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Katarın gergin tutulmasını sağlamak için, çekici araçta fren etkisinin ortaya çıkmasından önce",
+      "is_correct": false
+    }
+  ]
+}

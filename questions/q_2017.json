@@ -1,0 +1,39 @@
+{
+  "url_id": 2017,
+  "type": "video",
+  "question_code": "1.2.04-102",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Doğru davranış hangisidir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-04-102_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-04-102.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-04-102_anfang.jpg"
+    ]
+  },
+  "next_id": 2322,
+  "prev_id": 156,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hızımı korurum",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Fren yaparım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Makas yapan araçla aramdaki mesafeyi açarım",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1541,
+  "type": "choice",
+  "question_code": "2.2.23-113",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Tek dingilli ve otomatik römork frenli karavan yokuş aşağı park ediliyor. Kendiliğinden hareket etmemesi için nasıl emniyete alınır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2199,
+  "prev_id": 912,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Tekerleklerin birinin önüne ve arkasına birer takoz koyulur",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "El freni çekilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Tekerleklerin önüne takozlar koyulur",
+      "is_correct": true
+    }
+  ]
+}

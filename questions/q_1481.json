@@ -1,0 +1,33 @@
+{
+  "url_id": 1481,
+  "type": "choice",
+  "question_code": "2.7.08-209",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Motorlu taşıt ve römorklardaki yağlama yerleri, nasıl yağlanır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2380,
+  "prev_id": 1480,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Motor yağı seviyesinin düzenli aralıklarla kontrol edilmesi suretiyle",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Yağlama tabancası ile elle yapılan yağlamalarda, öngörülen yerlerin yağlanması suretiyle",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Merkezi yağlama tertibatlarında, bir yağlama kabından",
+      "is_correct": true
+    }
+  ]
+}

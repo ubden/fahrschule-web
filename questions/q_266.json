@@ -1,0 +1,33 @@
+{
+  "url_id": 266,
+  "type": "choice",
+  "question_code": "1.2.22-106",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bir araç üzerinde bulunan turuncu renkteki ikaz tabelalarının anlamı nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1733,
+  "prev_id": 264,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hafif bozulur gıda maddeleri nakliyatına işaret eder",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Hayvan nakliyatına işaret eder",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Tehlikeli madde nakliyatına işaret eder",
+      "is_correct": true
+    }
+  ]
+}

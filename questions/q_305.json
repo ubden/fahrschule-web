@@ -1,0 +1,35 @@
+{
+  "url_id": 305,
+  "type": "image_choice",
+  "question_code": "1.2.36-101-B",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Burada hangi kural geçerlidir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-36-101-B.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 307,
+  "prev_id": 3039,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kavşaktan karşıya geçilebilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Dönüş yapmak yasaktır",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Kavşağa girilmeden önce polis memurunun diğer işaretleri beklenir",
+      "is_correct": false
+    }
+  ]
+}

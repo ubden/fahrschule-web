@@ -1,0 +1,35 @@
+{
+  "url_id": 478,
+  "type": "image_choice",
+  "question_code": "1.4.42-107",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretinde nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-42-107.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 480,
+  "prev_id": 475,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Karşıdan gelen trafiğe geçiş önceliği tanımak zorundasınız",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Geçiş önceliğine sahip olmanıza rağmen, durmanızın gerekebileceğini düşünmek zorundasınız",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Geçiş önceliğinizi, sadece yolun dar kısmının boş olması halinde kullanabilirsiniz",
+      "is_correct": true
+    }
+  ]
+}

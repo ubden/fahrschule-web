@@ -1,0 +1,39 @@
+{
+  "url_id": 1963,
+  "type": "video",
+  "question_code": "1.2.09-125",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Burada neden durmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-09-125_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-09-125.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-09-125_anfang.jpg"
+    ]
+  },
+  "next_id": 1964,
+  "prev_id": 1715,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bisikletliden dolayı",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Beyaz binek otosundan dolayı",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Tramvaydan dolayı",
+      "is_correct": true
+    }
+  ]
+}

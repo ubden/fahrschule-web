@@ -1,0 +1,33 @@
+{
+  "url_id": 603,
+  "type": "choice",
+  "question_code": "2.1.07-102",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Konvoy halinde giderken, nasıl daha rahat yol alırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 607,
+  "prev_id": 602,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Önde giden aracın camlarından konvoyu gözetlemek suretiyle",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kendi şeridiniz dahilinde olmak üzere, hafifçe kenardan gitmekle",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sürekli yanan dörtlü ikaz lambaları ile gitmek suretiyle",
+      "is_correct": false
+    }
+  ]
+}

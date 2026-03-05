@@ -1,0 +1,33 @@
+{
+  "url_id": 1395,
+  "type": "choice",
+  "question_code": "2.7.05-211",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "“TWI” (Tread Wear Indicator) işaretinin anlamı nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2162,
+  "prev_id": 1387,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Profil aralıkları kesilerek derinleştirilmiş lastikleri ifade eder",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Lastik aşınmasına ilişkin bir göstergedir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Şamyelsiz lastikleri ifade eder",
+      "is_correct": false
+    }
+  ]
+}

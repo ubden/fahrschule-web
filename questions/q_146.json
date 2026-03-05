@@ -1,0 +1,35 @@
+{
+  "url_id": 146,
+  "type": "image_choice",
+  "question_code": "1.2.02-101-B",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Emniyet şeridinin ne için kullanılmasına izin verilir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-02-101-B.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2016,
+  "prev_id": 1686,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Durmak ve park etmek için",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Diğer taşıtları geçmek için",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Yavaş araçları kullanmak için",
+      "is_correct": true
+    }
+  ]
+}

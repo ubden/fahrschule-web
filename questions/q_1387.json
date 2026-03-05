@@ -1,0 +1,33 @@
+{
+  "url_id": 1387,
+  "type": "choice",
+  "question_code": "2.7.05-203",
+  "points": 4,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Yanlış lastik basıncı, hangi sonuçlara yol açar?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1395,
+  "prev_id": 3031,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sürüş stabilitesi olumsuz etkilenir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Reaksiyon süresi uzar",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Lastikler daha çabuk aşınır",
+      "is_correct": true
+    }
+  ]
+}

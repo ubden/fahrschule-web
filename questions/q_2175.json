@@ -1,0 +1,35 @@
+{
+  "url_id": 2175,
+  "type": "image_choice",
+  "question_code": "1.4.41-162",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretinde geçerli olan husus nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-162.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2176,
+  "prev_id": 2174,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Soldan da devam edebilirim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sadece sağdan devam edebilirim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sağa sinylal vermek zorundayım",
+      "is_correct": true
+    }
+  ]
+}

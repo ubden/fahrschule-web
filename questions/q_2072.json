@@ -1,0 +1,35 @@
+{
+  "url_id": 2072,
+  "type": "image_choice",
+  "question_code": "2.1.08-018",
+  "points": 5,
+  "category": "Klasse B",
+  "question_text": "Bu durumda doğru olan şey nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-08-018.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2126,
+  "prev_id": 1974,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hızımı düşürmeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Ağır vasıtanın önceliği vardır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Ağır vasıta beklemelidir",
+      "is_correct": false
+    }
+  ]
+}

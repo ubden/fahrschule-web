@@ -1,0 +1,33 @@
+{
+  "url_id": 1370,
+  "type": "choice",
+  "question_code": "2.7.03-203",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Dizel motorunda eksantrik milinin görevi nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1372,
+  "prev_id": 1368,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Motor ısısını ayarlamak",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Motordaki supapları kumanda etmek",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Motor devir sayısını sınırlamak",
+      "is_correct": false
+    }
+  ]
+}

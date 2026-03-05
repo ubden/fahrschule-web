@@ -1,0 +1,33 @@
+{
+  "url_id": 1734,
+  "type": "choice",
+  "question_code": "1.2.22-108",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Yük hangi yükseklikten itibaren aracınızın üzerinden öne doğru 50 santimetreye kadar çıkıntı yapabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2325,
+  "prev_id": 1733,
+  "answers": [
+    {
+      "num": 1,
+      "text": "2,00 m",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "3,00 m",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "2,50 m",
+      "is_correct": true
+    }
+  ]
+}

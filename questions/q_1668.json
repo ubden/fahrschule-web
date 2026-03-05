@@ -1,0 +1,35 @@
+{
+  "url_id": 1668,
+  "type": "image_choice",
+  "question_code": "1.1.06-122",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Sollama yapmak istediğinizde neye hazırlıklı olmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-06-122.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1670,
+  "prev_id": 1923,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Durma mesafesi uzar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kayma tehlikesi vardır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bisikletli dengesiz hareket edebilir",
+      "is_correct": true
+    }
+  ]
+}

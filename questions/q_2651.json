@@ -1,0 +1,33 @@
+{
+  "url_id": 2651,
+  "type": "choice",
+  "question_code": "2.1.11-016",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Zaman baskısı altında araç kullanmak neden tehlikeli olabilir?",
+  "pretext": "Zaman baskısı altında yapılan yolculuklarda çoğunlukla",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2714,
+  "prev_id": 2650,
+  "answers": [
+    {
+      "num": 1,
+      "text": "defansif sürülür",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "hızlı sürülür",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "tehlikeler hafife alınır",
+      "is_correct": true
+    }
+  ]
+}

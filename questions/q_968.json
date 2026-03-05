@@ -1,0 +1,35 @@
+{
+  "url_id": 968,
+  "type": "image_choice",
+  "question_code": "2.4.41-105",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Bu trafik işareti, neye işaret eder?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-41-105.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 969,
+  "prev_id": 967,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yüküyle beraber genişliği 2 metreden fazla olan araçlar için geçerli olan bir yasağa",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Aynı hizadaki diğer araçlara bırakılması şart koşulan en az 2 metrelik mesafeye",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Genişliği 2 metre olan bir araç yoluna",
+      "is_correct": false
+    }
+  ]
+}

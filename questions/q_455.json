@@ -1,0 +1,35 @@
+{
+  "url_id": 455,
+  "type": "image_choice",
+  "question_code": "1.4.41-136",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Burada neyin sona erdiğine işaret edilmektedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-136.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 459,
+  "prev_id": 454,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Mutlak park yasağı olan bir bölgenin",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Kısıtlı park yasağı olan bir bölgenin",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yol ile ilgili daha önceki yasakların",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2671,
+  "type": "choice",
+  "question_code": "2.6.02-231",
+  "points": 4,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Tehlikeli madde taşımanız gerekiyor ve bu esnada izin verilen muaf miktarı aşıyorsunuz. Bu yük taşıma için yanınızda hangi belgeyi getirmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2728,
+  "prev_id": 2410,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araç sınıfı için geçerli bir sürücü belgesi",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Geçerli bir ADR-eğitim sertifikası",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Son tehlikeli madde taşımacılığına ait geçerli belge",
+      "is_correct": false
+    }
+  ]
+}

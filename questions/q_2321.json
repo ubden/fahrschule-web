@@ -1,0 +1,39 @@
+{
+  "url_id": 2321,
+  "type": "video",
+  "question_code": "1.1.07-155-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda neye dikkat etmeniz gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-155-VS-1_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-1-07-155-VS-1.mp4"
+    ],
+    "video_posters": [
+      "/media/1-1-07-155-VS-1_anfang.jpg"
+    ]
+  },
+  "next_id": 2389,
+  "prev_id": 2222,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sağdaki bisikletli adama",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Soldaki bisikletli adama",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Mavi araca",
+      "is_correct": false
+    }
+  ]
+}

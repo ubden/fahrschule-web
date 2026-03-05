@@ -1,0 +1,33 @@
+{
+  "url_id": 2447,
+  "type": "choice",
+  "question_code": "2.7.07-325",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Römorku çekme sisteminde büyük bir boyuna boşluk ortaya çıkıyor. Bunun etkileri ne olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2448,
+  "prev_id": 2446,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Arka akstaki tekerleklere fazla yük yüklenebilir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Çekici aracın son çapraz traversinde hasarlar oluşabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Römork kopabilir",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 510,
+  "type": "choice",
+  "question_code": "1.5.01-006",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Motorlu aracınız biraz yağ kaybetmektedir. Sadece bir damla yağ bile, hangi miktarda içme suyunun kirlenmesine yol açabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 511,
+  "prev_id": 508,
+  "answers": [
+    {
+      "num": 1,
+      "text": "1 litreye kadar",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "50 litreye kadar",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "600 litreye kadar",
+      "is_correct": true
+    }
+  ]
+}

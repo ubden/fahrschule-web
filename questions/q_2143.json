@@ -1,0 +1,33 @@
+{
+  "url_id": 2143,
+  "type": "choice",
+  "question_code": "2.2.23-052",
+  "points": 4,
+  "category": "Klasse C",
+  "question_text": "Şehir içinde yol alırken sağa sapmak istiyorsunuz. Hangi tehlikeler ortaya çıkabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2342,
+  "prev_id": 2003,
+  "answers": [
+    {
+      "num": 1,
+      "text": "açıyı geniş tutarak karşıdan gelmekte olan trafiği tehlikeye atabilirim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "düz gitmekte olan bisikletlileri gözden kaçırabilirim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "yayaları gözden kaçırabilirim",
+      "is_correct": true
+    }
+  ]
+}

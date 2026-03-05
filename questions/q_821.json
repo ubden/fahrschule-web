@@ -1,0 +1,33 @@
+{
+  "url_id": 821,
+  "type": "choice",
+  "question_code": "2.2.21-111",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Emniyet kemeri takmadığınızda, hangi çarpışma hızından itibaren ağır veya ölümcül yaralanmaları göze almalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 822,
+  "prev_id": 815,
+  "answers": [
+    {
+      "num": 1,
+      "text": "80 km/sa itibarı ile",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "30 km/sa itibarı ile",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "50 km/sa itibarı ile",
+      "is_correct": false
+    }
+  ]
+}

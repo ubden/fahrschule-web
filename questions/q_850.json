@@ -1,0 +1,30 @@
+{
+  "url_id": 850,
+  "type": "image_choice",
+  "question_code": "2.2.22-201",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Hangi ikaz tabelası doğru monte edilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-22-201.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 852,
+  "prev_id": 2890,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Soldaki",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sağdaki",
+      "is_correct": true
+    }
+  ]
+}

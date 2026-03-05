@@ -1,0 +1,33 @@
+{
+  "url_id": 2814,
+  "type": "choice",
+  "question_code": "1.2.34-009",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Aracınızla, park etmiş yabancı bir araca hasar verdiniz. Belirli bir süre beklemenize rağmen hasar verdiğiniz aracın sahibi gelmedi. Şimdi nasıl doğru hareket edersiniz?",
+  "pretext": "Ben",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2918,
+  "prev_id": 2757,
+  "answers": [
+    {
+      "num": 1,
+      "text": "adımı ve adresimi kaza yerinde bırakmalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "adımı ve adresimi olaya karışmamış bir tanığa vermeliyim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "kazayı polise bildirmeliyim",
+      "is_correct": true
+    }
+  ]
+}

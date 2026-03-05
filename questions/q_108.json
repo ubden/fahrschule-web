@@ -1,0 +1,33 @@
+{
+  "url_id": 108,
+  "type": "choice",
+  "question_code": "1.1.07-113",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Ormanlık bir alanda yeni inşa edilmiş bir yolda gitmektesiniz. Neleri hesaba katmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 112,
+  "prev_id": 102,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yabani hayvanla oluşmuş kazadan ötürü yolda engel olabileceğini",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yabani hayvanların ansızın yola çıkabileceğini",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yeni inşa edilmiş yollarda yabani hayvanlarla kaza olması beklenmez",
+      "is_correct": false
+    }
+  ]
+}

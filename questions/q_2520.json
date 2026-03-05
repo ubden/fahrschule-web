@@ -1,0 +1,33 @@
+{
+  "url_id": 2520,
+  "type": "choice",
+  "question_code": "1.1.09-030",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Araç kullanma becerinizi alkole benzer şekilde neler etkileyebilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2521,
+  "prev_id": 2391,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İlaçlar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Serinletici içecekler",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Uyuşturucular",
+      "is_correct": true
+    }
+  ]
+}

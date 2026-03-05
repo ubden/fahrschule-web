@@ -1,0 +1,35 @@
+{
+  "url_id": 2545,
+  "type": "image_choice",
+  "question_code": "1.4.41-017",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretleri kombinasyonunda ne geçerlidir?",
+  "pretext": "Yol vermeliyim ve bu esnada",
+  "media": {
+    "images": [
+      "/media/1-4-41-017.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2546,
+  "prev_id": 418,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Elektrikli scooter trafiğine soldan ve sağdan dikkat etmeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sadece soldan ve sağdan öncelikli yoldaki motorlu araç trafiğine dikkat etmeliyim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Bisiklet trafiğine soldan ve sağdan dikkat etmeliyim",
+      "is_correct": true
+    }
+  ]
+}

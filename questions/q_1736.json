@@ -1,0 +1,33 @@
+{
+  "url_id": 1736,
+  "type": "choice",
+  "question_code": "1.2.26-108",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Işık \"yeşil\" yanıyor. Sağa sapmak istiyorsunuz. Sapmak istediğiniz yolda karşıya geçmek isteyen kişiler varsa nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1739,
+  "prev_id": 2813,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Klakson çalarak insanları uyarırım",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "İnsanlardan önce hemen saparım",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "İnsanların karşıya geçmelerine izin veririm",
+      "is_correct": true
+    }
+  ]
+}

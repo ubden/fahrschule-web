@@ -1,0 +1,35 @@
+{
+  "url_id": 2636,
+  "type": "image_choice",
+  "question_code": "1.1.07-163",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu kaza yerinin yanından geçmek neden tehlikelidir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-163.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2695,
+  "prev_id": 2635,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Trafik durumu belirsiz olduğu için",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Takip eden kazalar meydana gelebileceği için",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yayalar fark edilemeyeceği için",
+      "is_correct": true
+    }
+  ]
+}

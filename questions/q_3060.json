@@ -1,0 +1,33 @@
+{
+  "url_id": 3060,
+  "type": "choice",
+  "question_code": "2.2.23-128",
+  "points": 3,
+  "category": "Klasse B, Klasse C, Klasse CE",
+  "question_text": "Kış hava koşullarında aracınızı sürmek istiyorsunuz. Neleri dikkate almalısınız?",
+  "pretext": "Araç tavanındaki kar ve buz düştüklerinde",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 917,
+  "prev_id": 3059,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İleriye doğru sizin görüşünüzü bozabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Diğer araçlara zarar verebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kazalara neden olabilir",
+      "is_correct": true
+    }
+  ]
+}

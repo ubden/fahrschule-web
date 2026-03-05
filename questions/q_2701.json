@@ -1,0 +1,33 @@
+{
+  "url_id": 2701,
+  "type": "choice",
+  "question_code": "1.2.34-114",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bir motorlu taşıt sürücüsü başka bir araca hafif hasar vererek olay mahalinden yasal olmayan şekilde uzaklaşıyor. Bu hangi sonucu doğurabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 295,
+  "prev_id": 2061,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sürücü belgesinin geri alınması veya sürüş yasağı",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Tıbbi-psikolojik muayene yapılmasına yönelik bir talimat",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bir para veya hapis cezası",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 985,
+  "type": "image_choice",
+  "question_code": "2.4.43-002",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Otoyolda (otobanda) yardıma ihtiyacınız var. Sevk direğindeki ok işareti, size bu hususta ne gibi bilgi veriyor?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-43-002.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 992,
+  "prev_id": 3066,
+  "answers": [
+    {
+      "num": 1,
+      "text": "En yakın çıkış, okun gösterdiği yöndedir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "En yakın imdat telefonu, okun gösterdiği yöndedir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "En yakın park yeri, okun gösterdiği yöndedir",
+      "is_correct": false
+    }
+  ]
+}

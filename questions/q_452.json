@@ -1,0 +1,35 @@
+{
+  "url_id": 452,
+  "type": "image_choice",
+  "question_code": "1.4.41-133",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretiyle hangi yasaklar sona ermektedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-133.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 453,
+  "prev_id": 450,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hız sınırlamaları",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Park yasakları",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sollama yasakları",
+      "is_correct": true
+    }
+  ]
+}

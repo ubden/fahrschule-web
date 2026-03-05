@@ -1,0 +1,33 @@
+{
+  "url_id": 992,
+  "type": "choice",
+  "question_code": "2.5.01-007",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Ani kalkışlardan neden kaçınmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2009,
+  "prev_id": 985,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Ortaya çıkan gürültünün, diğerlerini rahatsız etmesinden dolayı",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Lastiklerin daha çabuk aşınmasından dolayı",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Arka tekerlek freninin daha çok olumsuz etkilenmesinden dolayı",
+      "is_correct": false
+    }
+  ]
+}

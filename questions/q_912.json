@@ -1,0 +1,33 @@
+{
+  "url_id": 912,
+  "type": "choice",
+  "question_code": "2.2.23-107",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Görüşünüz nelerle engellenebilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1541,
+  "prev_id": 909,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aşınmış cam silecekleri ile (çizgi oluşumu)",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yükle",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kirlenmiş camlarla",
+      "is_correct": true
+    }
+  ]
+}

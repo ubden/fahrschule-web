@@ -1,0 +1,33 @@
+{
+  "url_id": 196,
+  "type": "choice",
+  "question_code": "1.2.09-109",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Dönel bir kavşakta bulunuyorsunuz. Neyi dikkate almalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2459,
+  "prev_id": 194,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Dönel kavşaktan çıkarken, bunun dönüş sinyal işareti ile gösterilmesi zorunludur",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Dönel kavşakta taşıt yolu üzerinde durmak yasaktır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Orta adanın üzerinden geçilmesine, sadece taşıdın büyüklüğü itibarı ile bunun kaçınılmaz olması halinde izin verilir",
+      "is_correct": true
+    }
+  ]
+}

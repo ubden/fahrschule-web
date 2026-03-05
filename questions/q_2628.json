@@ -1,0 +1,33 @@
+{
+  "url_id": 2628,
+  "type": "choice",
+  "question_code": "2.7.06-241",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Manuel şanzımanlı bir motorlu araç kullanıyorsunuz. Bir hız sabitleyicinin yakıt açısından verimli bir sürüş tarzına katkıda bulunabilmesi için hangi davranış yararlıdır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2737,
+  "prev_id": 2627,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Doğru vitesi seçmek",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Dur-kalk trafiğinde hız sabitleyici sistemini kullanmak",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Uzun yokuşlarda zamanında hızlanmak",
+      "is_correct": false
+    }
+  ]
+}

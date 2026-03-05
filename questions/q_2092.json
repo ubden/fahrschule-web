@@ -1,0 +1,35 @@
+{
+  "url_id": 2092,
+  "type": "image_choice",
+  "question_code": "2.4.41-205",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Böyle bir levhanın bulunduğu bir yola girmek istiyorsunuz. Buradaki \"12 ton\" ibaresi neyle ilgilidir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-41-205.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2665,
+  "prev_id": 974,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracın fiili ağırlığı",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Aracın izin verilen toplam ağırlığı",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Aracın boş ağırlığı",
+      "is_correct": false
+    }
+  ]
+}

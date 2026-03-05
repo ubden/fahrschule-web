@@ -1,0 +1,35 @@
+{
+  "url_id": 1138,
+  "type": "image_choice",
+  "question_code": "2.6.05-221",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Sürücü kartı başvurularında nelerin ibraz edilmesi gerekmektedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-6-05-221.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2207,
+  "prev_id": 1137,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kart şeklindeki sürücü belgesi",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sürücüye ait resim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "İşverenin onay belgesi",
+      "is_correct": false
+    }
+  ]
+}

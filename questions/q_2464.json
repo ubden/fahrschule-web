@@ -1,0 +1,33 @@
+{
+  "url_id": 2464,
+  "type": "choice",
+  "question_code": "1.2.12-124",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Hangi araçlara araç yolunun ikinci sırasında durmasına izin verilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1726,
+  "prev_id": 1596,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yolcuların binmesi veya inmesi durumlarında bütün taksilere",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Dörtlü ikaz lambaları açık olan tüm araçlara",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Yükleme veya boşaltma yapan bütün araçlara",
+      "is_correct": false
+    }
+  ]
+}

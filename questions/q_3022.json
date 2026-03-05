@@ -1,0 +1,33 @@
+{
+  "url_id": 3022,
+  "type": "choice",
+  "question_code": "2.7.02-050",
+  "points": 2,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Sıvı soğutmalı aracınızdaki bir gözterge size soğutma suyu sıcaklığının çok yüksek olduğunu bildiriyor. Bunun nedeni ne olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1333,
+  "prev_id": 3021,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Soğutma sistemi sızdırıyor",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Radyatör fanı arızalandı",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Radyatör kirli",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1739,
+  "type": "choice",
+  "question_code": "1.2.26-111",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Hangi durumlarda yaya geçidinden araçla geçerken özellikle dikkatli olmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1741,
+  "prev_id": 1736,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yayalar karşıya geçmek istediklerinde",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yaya yolu üzerindeki görüşüm engellendiğinde",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Başka bir araç halihazırda yaya yolu üzerinde bekliyorsa",
+      "is_correct": true
+    }
+  ]
+}

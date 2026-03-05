@@ -1,0 +1,33 @@
+{
+  "url_id": 511,
+  "type": "choice",
+  "question_code": "1.5.01-007",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Aracınıza akaryakıt koyarken nelere dikkat etmeniz gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1991,
+  "prev_id": 510,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Depo, mümkün olduğu ölçüde ağzına kadar doldurulmalı",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Akaryakıt buharı teneffüs edilmemeli",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Deponun dolması ve akaryakıt pompasının kapanmış olması halinde, fazladan akaryakıt koymayınız",
+      "is_correct": true
+    }
+  ]
+}

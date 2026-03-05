@@ -1,0 +1,35 @@
+{
+  "url_id": 1789,
+  "type": "image_choice",
+  "question_code": "1.4.41-154",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işareti ne anlatıyor?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-154.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2026,
+  "prev_id": 1788,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Trafikteki diğer katılımcıların kullanmalarının yasak olduğu atlı yolu",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Atlıların kullanmalarının yasak olduğu bir yol",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Atlıların kullanmak zorunda oldukları atlı yolu",
+      "is_correct": true
+    }
+  ]
+}

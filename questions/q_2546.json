@@ -1,0 +1,35 @@
+{
+  "url_id": 2546,
+  "type": "image_choice",
+  "question_code": "1.4.41-018",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu şekilde işaretlenmiş bir bisiklet caddesine hangi araçların girmesine izin verilir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-018.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2547,
+  "prev_id": 2545,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aynı güzergahta ikamet edenlerin kullandığı tüm araçlar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Adım hızında hareket etmek şartıyla tüm araçlar",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Yapı biçiminden kaynaklı azami hızı 25 km/sa altında olan tüm motorlu bisikletler",
+      "is_correct": false
+    }
+  ]
+}

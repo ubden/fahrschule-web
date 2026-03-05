@@ -1,0 +1,35 @@
+{
+  "url_id": 388,
+  "type": "image_choice",
+  "question_code": "1.4.40-116",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretini gördüğünüzde, neleri hesaba katmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-116.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 390,
+  "prev_id": 387,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araç yolunda bulunan inşaat malzemelerini",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Araç yolunda bulunan işçileri",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "İnşaat araçları trafiğini",
+      "is_correct": true
+    }
+  ]
+}

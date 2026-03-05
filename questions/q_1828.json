@@ -1,0 +1,33 @@
+{
+  "url_id": 1828,
+  "type": "choice",
+  "question_code": "2.1.11-119",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Bir motorlu taşıt kullanırken kazaya neden olma riski 18 ila 24 yaşlarındaki sürücülerde çok daha fazladır. Bunda çoğu zaman hangi nedenlerin etkisi vardır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1829,
+  "prev_id": 1827,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Fazla risk alma",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kendi becerilerini abartma",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çok az sürüş deneyimi",
+      "is_correct": true
+    }
+  ]
+}

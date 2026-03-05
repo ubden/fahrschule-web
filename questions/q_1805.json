@@ -1,0 +1,33 @@
+{
+  "url_id": 1805,
+  "type": "choice",
+  "question_code": "2.1.04-104",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Gece karayolunda giderken kendi şeridinizin olduğu tarafta insanlar bulunduğunu fark ettiniz. Karşıdan gelen bir araç gözünüzü alıyorsa nasıl davranırsınız?",
+  "pretext": "Hızımı azaltırım ve",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2930,
+  "prev_id": 1804,
+  "answers": [
+    {
+      "num": 1,
+      "text": "uzunları yakarım",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "gerektiğinde dururum",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "şeridimin sağ kenarına bakarım",
+      "is_correct": true
+    }
+  ]
+}

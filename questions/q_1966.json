@@ -1,0 +1,39 @@
+{
+  "url_id": 1966,
+  "type": "video",
+  "question_code": "1.2.26-007",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Doğru davranış nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-26-007_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-26-007.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-26-007_anfang.jpg"
+    ]
+  },
+  "next_id": 2229,
+  "prev_id": 276,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Transport aracının arkasında bir çocuk araç şeridine gireceği için dururum",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Fark edildiği kadarıyla hiçbir yaya yaya geçidini kullanmak istemediği için, yoluma yavaşça devam ederim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Yaya geçidinden bir adam geçmek istediği için dururum",
+      "is_correct": true
+    }
+  ]
+}

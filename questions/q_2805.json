@@ -1,0 +1,33 @@
+{
+  "url_id": 2805,
+  "type": "choice",
+  "question_code": "1.1.07-170",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Trafik olduğu bildirilen bir yol bölümünden geçiyorsunuz. Şimdi nasıl doğru hareket edersiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2806,
+  "prev_id": 2804,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Trafik mesajlarını takip etmeye devam ederim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Trafik sıkışıklığının sonunda güvenli bir şekilde durmak için acil durum fren asistanını kullanırım",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Virajlarda ve tepelerde son derece dikkatli ilerliyorum",
+      "is_correct": true
+    }
+  ]
+}

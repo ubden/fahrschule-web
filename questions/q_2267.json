@@ -1,0 +1,33 @@
+{
+  "url_id": 2267,
+  "type": "choice",
+  "question_code": "1.2.34-006",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bir kazaya karıştınız. Kazaya karışan diğer kişilere talep halinde hangi evrakı göstermek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2756,
+  "prev_id": 2171,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sürücü belgesini",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Mali mesuliyet sigortası sözleşmesini",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Ruhsatname Kısım I veya işletme ruhsatını",
+      "is_correct": true
+    }
+  ]
+}

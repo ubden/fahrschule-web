@@ -1,0 +1,33 @@
+{
+  "url_id": 572,
+  "type": "choice",
+  "question_code": "2.1.03-107",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Aracın siper camından yeterince görüş sağlayabilmek için neler yapabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1800,
+  "prev_id": 571,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Camın içerden buğulanması halinde, aracın havalandırması kapatılır ve pencereler de kapalı tutulur",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sisli havada arada bir cam sileceklerini çalıştırmak",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kar çamuru olan yolda, diğer araçların çamuru sizin camınıza sıçratmasından önce, yani zamanında cam sileceklerini çalıştırmak",
+      "is_correct": true
+    }
+  ]
+}

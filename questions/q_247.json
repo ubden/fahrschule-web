@@ -1,0 +1,33 @@
+{
+  "url_id": 247,
+  "type": "choice",
+  "question_code": "1.2.19-104",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Yanıp sönen ışıklı ve bariyersiz bir demiryolu geçidinden, bir tren geçtikten sonra, ne zaman geçersiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 248,
+  "prev_id": 245,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Karşıdan gelen trafik hareket ettiğinde, kırmızı ışık hala yanıp sönse de",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Tren geçtikten hemen sonra, kırmızı ışık hala yanıp sönse de",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Yanıp sönen kırmızı ışık söndükten sonra",
+      "is_correct": true
+    }
+  ]
+}

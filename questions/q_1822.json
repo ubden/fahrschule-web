@@ -1,0 +1,33 @@
+{
+  "url_id": 1822,
+  "type": "choice",
+  "question_code": "2.1.11-008",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Bir karayolunda uzun bir süre önünüzde yavaş gitmekte olan bir binek otosunu takip etmek zorunda kaldıktan sonra nihayet sollama yapabileceksiniz. Nasıl davranırsınız?",
+  "pretext": "Sollama yaptıktan sonra",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2253,
+  "prev_id": 2875,
+  "answers": [
+    {
+      "num": 1,
+      "text": "diğer sürücüye engel olmamak için yeterli mesafeyi koruyarak yoluma girerim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "diğer sürücüye yavaş gittiğini anlatmak için kısaca fren yaparım",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "diğer sürücünün davranışının sonuçlarını anlayabilmesi için özellikle yavaş sürerim",
+      "is_correct": false
+    }
+  ]
+}

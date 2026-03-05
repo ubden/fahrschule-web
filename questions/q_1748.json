@@ -1,0 +1,33 @@
+{
+  "url_id": 1748,
+  "type": "choice",
+  "question_code": "1.2.34-111",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bir karayolunda kaza yaptınız. Bu kaza mahallini nasıl güvenceye alırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1985,
+  "prev_id": 1747,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Eğer gerekli olursa diğer araçları örneğin el işaretleriyle uyarırım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hemen dörtlü ikaz lambalarını yakarım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Uyarı üçgenini kaza mahallinin yaklaşık 100 metre öncesinde iyi görünecek şekilde yerleştiririm",
+      "is_correct": true
+    }
+  ]
+}

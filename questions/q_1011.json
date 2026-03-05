@@ -1,0 +1,33 @@
+{
+  "url_id": 1011,
+  "type": "choice",
+  "question_code": "2.5.01-202",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Gereksiz gürültüleri nasıl önleyebilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2032,
+  "prev_id": 3067,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracın gevşek borda kenar menteşelerini veya kilitleme tertibatlarını değiştirmek suretiyle",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Aracın boş olması halinde, lastik basıncını oldukça fazla yükseltmekle",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Germe zincirlerini usülüne uygun olarak yerine koymak ve kullanmak suretiyle",
+      "is_correct": true
+    }
+  ]
+}

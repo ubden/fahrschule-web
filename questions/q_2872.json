@@ -1,0 +1,33 @@
+{
+  "url_id": 2872,
+  "type": "choice",
+  "question_code": "2.1.07-122",
+  "points": 4,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Motosikletlilerin yoğun olarak kullandığı virajlı bir yolda ilerliyorsunuz. Neleri hesaba katmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2938,
+  "prev_id": 2404,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Motosikletliler, virajlardaki güçlü yatış pozisyonları nedeniyle şeridime çıkıntı yapıyorlar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Motosikletliler beni riskli bir şekilde solluyor",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Motosikletliler virajları kesiyor",
+      "is_correct": true
+    }
+  ]
+}

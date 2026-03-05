@@ -1,0 +1,33 @@
+{
+  "url_id": 1897,
+  "type": "choice",
+  "question_code": "2.6.03-406",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Tek dingilli bir römorkun gerçek toplam ağırlığı 600 kilogramdır. Römork tertibatına binen yük en az ne kadar olmalıdır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1101,
+  "prev_id": 2672,
+  "answers": [
+    {
+      "num": 1,
+      "text": "60 kg (= %10)",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "90 kg (= %15)",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "24 kg (= %4)",
+      "is_correct": true
+    }
+  ]
+}

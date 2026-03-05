@@ -1,0 +1,33 @@
+{
+  "url_id": 268,
+  "type": "choice",
+  "question_code": "1.2.23-002",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Yolculuk esnasında aracınızın güvenli olmadığını tesbit ettiğinizde, ne yapmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 269,
+  "prev_id": 267,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araç, en kısa zamanda trafikten çıkarılır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Ancak arıza giderildikten sonra yola devam edilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bir sonraki tamirhaneye kadar yola devam edilir",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 2471,
+  "type": "image_choice",
+  "question_code": "1.4.40-150",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu şekilde işaret edilen tehlikeli bir alanda nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-150.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2472,
+  "prev_id": 2470,
+  "answers": [
+    {
+      "num": 1,
+      "text": "güçlü hızlanmalardan kaçınmalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "ani direksiyon hareketlerinden kaçınmalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "önümdeki araçla mümkün olan en uzun mesafeyi korumalıyım",
+      "is_correct": true
+    }
+  ]
+}

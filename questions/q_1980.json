@@ -1,0 +1,33 @@
+{
+  "url_id": 1980,
+  "type": "choice",
+  "question_code": "1.2.02-108",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Karşıdan bir fayton geliyor. Nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2113,
+  "prev_id": 1955,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Gürültüden kaçınmalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Mümkün mertebe sağdan gitmeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Park lambamı yakmalıyım",
+      "is_correct": false
+    }
+  ]
+}

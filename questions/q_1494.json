@@ -1,0 +1,33 @@
+{
+  "url_id": 1494,
+  "type": "choice",
+  "question_code": "2.7.09-209",
+  "points": 3,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Araç yolu kenarında yükleme yapmanıza, hangi koşullar altında izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1495,
+  "prev_id": 1493,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yükleme esnasında, trafiğin hafif derecede tehlikeye atılmasına izin verilmiştir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Durma yasakları ihlal edilmemelidir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Trafik güvenliğinin tehlikeye atılması söz konusu olmamalıdır",
+      "is_correct": true
+    }
+  ]
+}

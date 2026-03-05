@@ -1,0 +1,33 @@
+{
+  "url_id": 2154,
+  "type": "choice",
+  "question_code": "2.6.03-306",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Römork ve çekici arasındaki bağlantının kısa olduğu araçların kendilerine özgü özellikleri nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2357,
+  "prev_id": 1093,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kullanılabilir yük alanı geleneksel bağlantı tertibatlı benzer araçlara göre daha büyüktür",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bağlantı tertibatı daha fazla aşınaya maruz kalır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bu araçların viraj hareketi özellikleri geleneksel bağlantılardan farklılık gösterir",
+      "is_correct": true
+    }
+  ]
+}

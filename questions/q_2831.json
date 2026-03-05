@@ -1,0 +1,39 @@
+{
+  "url_id": 2831,
+  "type": "video",
+  "question_code": "2.2.06-101-M",
+  "points": 5,
+  "category": "Klasse B",
+  "question_text": "Şimdi nasıl doğru hareket edersiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-06-101-M_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-2-06-101-M.mp4"
+    ],
+    "video_posters": [
+      "/media/2-2-06-101-M_anfang.jpg"
+    ]
+  },
+  "next_id": 710,
+  "prev_id": 706,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Fren yapıp beklerim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bekleyen araçların sağ arka tarafında sıraya giriyorum",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Düşük hızda ilerlemeye devam ederim",
+      "is_correct": false
+    }
+  ]
+}

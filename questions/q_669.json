@@ -1,0 +1,33 @@
+{
+  "url_id": 669,
+  "type": "choice",
+  "question_code": "2.2.03-016",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "40 km/sa hızla gidiyorsunuz. Bir ani fren durumunda fren mesafesi yaklaşık 8 metredir. Aynı koşullardaki fren mesafesi, 50 km/sa hızla gittiğinizde ne kadardır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1835,
+  "prev_id": 668,
+  "answers": [
+    {
+      "num": 1,
+      "text": "9,5 metre",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "11,0 metre",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "12,5 metre",
+      "is_correct": true
+    }
+  ]
+}

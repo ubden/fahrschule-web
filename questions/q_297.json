@@ -1,0 +1,33 @@
+{
+  "url_id": 297,
+  "type": "choice",
+  "question_code": "1.2.36-003",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Polis memurları tarafından verilen talimatların önemi nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 298,
+  "prev_id": 295,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bu talimatlara, sadece, orada bulunan trafik işaretlerine uygun oldukları takdirde uyulması gerekir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Bu talimatlar, sizi, kendi itina yükümlülüğünüzden muaf kılar",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Bu talimatlara mutlaka uyulmalıdır",
+      "is_correct": true
+    }
+  ]
+}

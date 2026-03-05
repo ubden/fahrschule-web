@@ -1,0 +1,35 @@
+{
+  "url_id": 1643,
+  "type": "image_choice",
+  "question_code": "1.1.02-124-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Kendinizi neye göre ayarlamalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-02-124-M.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1644,
+  "prev_id": 1642,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Karşıya geçen insanlar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Görüş engelleri",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Açılan araç kapıları",
+      "is_correct": true
+    }
+  ]
+}

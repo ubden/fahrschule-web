@@ -1,0 +1,33 @@
+{
+  "url_id": 1366,
+  "type": "choice",
+  "question_code": "2.7.02-302",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Çift hatlı frenleme sisteminde, römorka giden depo hattında kırık oluşması, nelere yol açar?",
+  "pretext": "Römork freni supapı,",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2106,
+  "prev_id": 2419,
+  "answers": [
+    {
+      "num": 1,
+      "text": "römorkun yedek havasını, depo hattında oluşan kesilmeye karşı kapatır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "römorkun frenlenmesine yol açar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "çekici araçta otomatikman frenlenmeye yol açar",
+      "is_correct": false
+    }
+  ]
+}

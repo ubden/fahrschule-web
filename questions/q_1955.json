@@ -1,0 +1,39 @@
+{
+  "url_id": 1955,
+  "type": "video",
+  "question_code": "1.2.02-107",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-02-107_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-02-107.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-02-107_anfang.jpg"
+    ]
+  },
+  "next_id": 1980,
+  "prev_id": 1687,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yol karşıdan gelende olduğu için geri giderim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Karşıdan gelen geri gitmek zorunda olduğundan yoluma devam ederim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Karşıdan gelene yolu açmak için boşluğa girerim",
+      "is_correct": true
+    }
+  ]
+}

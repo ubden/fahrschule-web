@@ -1,0 +1,33 @@
+{
+  "url_id": 2071,
+  "type": "choice",
+  "question_code": "2.1.07-209",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Hızla gitmekte olan bir araç kuru ve düz bir yolda bile neden dolayı birdenbire yoldan çıkabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2481,
+  "prev_id": 1816,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Şiddetli rüzgârdan dolayı",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Lastiğin patlamasından dolayı",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Karşıdan gelmekte olan kesintisiz rüzgârdan dolayı",
+      "is_correct": false
+    }
+  ]
+}

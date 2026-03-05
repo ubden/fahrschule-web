@@ -1,0 +1,33 @@
+{
+  "url_id": 1718,
+  "type": "choice",
+  "question_code": "1.2.10-106",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bir arsadan sağa saparak caddeye çıkmak istiyorsunuz. Soldan bisikletliler geliyor. Kimin beklemesi gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1719,
+  "prev_id": 1717,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Herkes durmak ve ardından aralarında anlaşmak zorunda",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Ben beklemek zorundayım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bisikletliler beklemek zorunda",
+      "is_correct": false
+    }
+  ]
+}

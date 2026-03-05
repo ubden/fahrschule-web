@@ -1,0 +1,35 @@
+{
+  "url_id": 1570,
+  "type": "image_choice",
+  "question_code": "1.1.02-041-M",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Hangi tehlikelerle karşılaşabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-02-041-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1571,
+  "prev_id": 1568,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bütün çocuklar yaya yolunda bekler",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Çocuklar yolu zamanında terk etmez",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bazı çocuklar yeniden geri döner",
+      "is_correct": true
+    }
+  ]
+}

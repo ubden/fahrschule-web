@@ -1,0 +1,35 @@
+{
+  "url_id": 2060,
+  "type": "image_choice",
+  "question_code": "1.2.12-128-M",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Burada nereye park edebilirsiniz?",
+  "pretext": "Kendi şeridimde,",
+  "media": {
+    "images": [
+      "/media/1-2-12-128-M.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2796,
+  "prev_id": 1727,
+  "answers": [
+    {
+      "num": 1,
+      "text": "sol ve sağ kenardaki şeritlerde",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "sadece sol kenardaki şeritte",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "yalnızca sağ kenardaki şeritte",
+      "is_correct": false
+    }
+  ]
+}

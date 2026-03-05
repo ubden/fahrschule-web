@@ -1,0 +1,33 @@
+{
+  "url_id": 1474,
+  "type": "choice",
+  "question_code": "2.7.08-202",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Lastiklerin yerle temas eden yüzeyi neden düzenli olarak kontrol edilmelidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1475,
+  "prev_id": 1473,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çünkü tek tarafı aşınmış lastikler, yanlış iz veya yatıklık ayarına işaret edebilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Çünkü yüzeyi eşit olarak aşınmamış lastikler, sürüş davranışını olumsuz etkileyebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çünkü yüzeyi eşit olarak aşınmamış lastikler, amortisörlerin veya yaylanma tertibatlarının hasarlı olduğuna işaret edebilir",
+      "is_correct": true
+    }
+  ]
+}

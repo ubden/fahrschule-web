@@ -1,0 +1,33 @@
+{
+  "url_id": 570,
+  "type": "choice",
+  "question_code": "2.1.03-105",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Yerleşim yerleri dışında, yoğun sisli bir havada, Federal Karayolunda gidiyorsunuz. Aracınızı yolun ortasındaki sevk çizgisinin üzerinde sürekli olarak sürmenize izin verilmiş midir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 571,
+  "prev_id": 569,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Evet, çünkü bu suretle yoldan çıkma tehlikesi azalır",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Evet, sis farlarını ve arka sis lambasını yakmak şartıyla",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Hayır, çünkü karşı trafik için tehlike oluşabilir",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1565,
+  "type": "choice",
+  "question_code": "1.1.01-112",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Şeritten çıkmanıza ne sebep olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2318,
+  "prev_id": 1533,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Başka birşeyle uğraşma",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yorgunluk",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Dikkatsizlik",
+      "is_correct": true
+    }
+  ]
+}

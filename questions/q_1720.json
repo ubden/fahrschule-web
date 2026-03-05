@@ -1,0 +1,35 @@
+{
+  "url_id": 1720,
+  "type": "image_choice",
+  "question_code": "1.2.10-108",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Arsadan çıkıp yolunuza devam etmek istiyorsunuz. Doğru davranış nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-10-108.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2116,
+  "prev_id": 1719,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yayalar çıkışın önünde karşıya geçinceye kadar beklemeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yayalar önceliklerinden feragat ederlerse yoluma devam edebilirim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yayaların bana yol vermesi için kısaca kornaya basarım",
+      "is_correct": false
+    }
+  ]
+}

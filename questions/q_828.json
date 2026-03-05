@@ -1,0 +1,33 @@
+{
+  "url_id": 828,
+  "type": "choice",
+  "question_code": "2.2.21-118",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Seyir esnasında hava yastıkları ikaz lambasının sürekli yandığını varsayın. Bu durumda ne yapmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2341,
+  "prev_id": 824,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Tamirhaneye başvurmak",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hiçbir şey, çünkü ikaz lambası sadece tamirhane için bir sinyal niteliğindedir",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Aracı karayolu trafiğinden derhal uzaklaştırmak",
+      "is_correct": false
+    }
+  ]
+}

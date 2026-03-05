@@ -1,0 +1,35 @@
+{
+  "url_id": 2513,
+  "type": "image_choice",
+  "question_code": "1.1.03-120",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda nasıl doğru davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-03-120.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2632,
+  "prev_id": 1654,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Virajda sert fren yaparım",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Hızımı azaltırım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Ani direksiyon hareketlerinden kaçınırım",
+      "is_correct": true
+    }
+  ]
+}

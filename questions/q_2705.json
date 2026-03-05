@@ -1,0 +1,35 @@
+{
+  "url_id": 2705,
+  "type": "image_choice",
+  "question_code": "1.4.41-170",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Şeridiniz bu trafik işaretiyle işaretlenmiştir. Neye dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-170.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2797,
+  "prev_id": 2549,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bu şeridi yalnızca aracım en az 60 km/sa sürebiliyorsa ve buna izin veriliyorsa kullanırım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "60 km/sa `dan daha hızlı gidemem",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Yol ve trafik koşullarının izin vermesi halinde en az 60 km/sa sürmek zorundayım",
+      "is_correct": true
+    }
+  ]
+}

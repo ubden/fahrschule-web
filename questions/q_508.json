@@ -1,0 +1,33 @@
+{
+  "url_id": 508,
+  "type": "choice",
+  "question_code": "1.5.01-004",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Tavsiye olunan lastik basıncının önemli ölçüde altında kalınması, hangi sonuçlara yol açar?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 510,
+  "prev_id": 504,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Akaryakıt tüketimi çoğalır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Zararlı madde atığının azalmasına",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Lastiğin fazla aşınmasına",
+      "is_correct": true
+    }
+  ]
+}

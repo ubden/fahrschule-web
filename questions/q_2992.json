@@ -1,0 +1,39 @@
+{
+  "url_id": 2992,
+  "type": "video",
+  "question_code": "2.1.06-107-M",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Bu durumda moped sürücüsünü neden sollamamalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-06-107-VS-2_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-06-107-VS-2.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-06-107-VS-2_anfang.jpg"
+    ]
+  },
+  "next_id": 2708,
+  "prev_id": 2825,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çünkü gerekli yan mesafeyi koruyamıyorum",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Çünkü moped sürücüsünden çok daha hızlı sürüş yapamam",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çünkü o zaman moped sürücüsü düşebilir",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 1625,
+  "type": "image_choice",
+  "question_code": "1.4.42-133",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işareti ne anlatıyor?",
+  "pretext": "Şunun sonu",
+  "media": {
+    "images": [
+      "/media/1-4-42-133.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1791,
+  "prev_id": 503,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yaya öncelikli yol",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yaya bölgesi",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Oyun alanı",
+      "is_correct": false
+    }
+  ]
+}

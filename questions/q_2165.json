@@ -1,0 +1,33 @@
+{
+  "url_id": 2165,
+  "type": "choice",
+  "question_code": "2.7.06-108",
+  "points": 4,
+  "category": "Klasse CE",
+  "question_text": "Basınçlı hava freni bulunan bir römorklu kamyonun düz şeritte sarsılması veya savrulması tehlikesi ne zaman özellikle yüksektir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2310,
+  "prev_id": 2164,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Virajdan geçilirken kamyon römortan daha fazla fren yaptığında",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Virajdan geçerken retarder frene tam basıldığında",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yük ağırlıklı olarak işletme mili üzerine bindiğinde",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "url_id": 2262,
+  "type": "video",
+  "question_code": "1.2.07-116",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bir kavşakta sağa sapmak istiyorsunuz. Doğru davranış nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-07-116_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-07-116.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-07-116_anfang.jpg"
+    ]
+  },
+  "next_id": 2458,
+  "prev_id": 1704,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Direksiyonu belirgin bir şekilde sağa kırarım ve böylelikle de sağ şeritte bir boşluk meydana getiririm",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sağa sapmaktan vazgeçerim ve kendi şeridimde kalırım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bütün araçlar geçip gidinceye kadar beklerim ve ardından sağ şeride geçerim",
+      "is_correct": false
+    }
+  ]
+}

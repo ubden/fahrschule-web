@@ -1,0 +1,33 @@
+{
+  "url_id": 1227,
+  "type": "choice",
+  "question_code": "2.7.01-104",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Arkasına römork takılı otomobilinizle çift yönlü trafiği olan bir yolda giderken, sol tarafa dönüş yapmak istiyorsunuz. Durduktan sonra, tekrar harekete geçerken, özellikle önemli olan hususlar nelerdir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1228,
+  "prev_id": 1225,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Katarınızın uzunluğunu hesaba katmalısınız",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hızlanma yeteneğinizin daha az olduğunu hesaba katmalısınız",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Karşıdan gelen araçları, farlarla selektör yapmak suretiyle ikaz etmelisiniz",
+      "is_correct": false
+    }
+  ]
+}

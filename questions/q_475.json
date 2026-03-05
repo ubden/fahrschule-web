@@ -1,0 +1,35 @@
+{
+  "url_id": 475,
+  "type": "image_choice",
+  "question_code": "1.4.42-104",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Yerleşim yeri dışında, geçiş önceliği olan yolda nelere izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-42-104.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 478,
+  "prev_id": 473,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araç yolunun üzerinde park edilmesine",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Kenar şeridi üzerinde park edilmesine",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Araç yolunun sağ kenarında duraklanmasına",
+      "is_correct": true
+    }
+  ]
+}

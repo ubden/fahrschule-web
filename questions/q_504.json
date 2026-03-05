@@ -1,0 +1,33 @@
+{
+  "url_id": 504,
+  "type": "choice",
+  "question_code": "1.4.43-101",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Araçlar üzerindeki kırmızı-beyaz ikaz levhaları neye işaret edebilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 508,
+  "prev_id": 2551,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bir yerleşim yerinde bulunan araç yoluna bırakılan bir römorka",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Tehlikeli yük taşıyan bir araca",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Olağanüstü genişlikteki bir araca",
+      "is_correct": true
+    }
+  ]
+}

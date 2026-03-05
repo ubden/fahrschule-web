@@ -1,0 +1,33 @@
+{
+  "url_id": 2888,
+  "type": "choice",
+  "question_code": "2.2.22-130",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Aracınızın tavanında yük taşırken nelere dikkat etmelisiniz?",
+  "pretext": "Araç",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2889,
+  "prev_id": 2853,
+  "answers": [
+    {
+      "num": 1,
+      "text": "yan rüzgarlara karşı daha hassas tepki verebilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "daha yüksek yakıt tüketebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "keskin virajlarda yana doğru daha fazla yatabilir",
+      "is_correct": true
+    }
+  ]
+}

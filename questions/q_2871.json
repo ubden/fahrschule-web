@@ -1,0 +1,33 @@
+{
+  "url_id": 2871,
+  "type": "choice",
+  "question_code": "2.1.06-032",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Her yön için tek şeridi olan bir yolda sürüş yapıyorsunuz. Önünüzde kapalı formasyonda bir motorlu taşıt grubu ilerliyor. Tehlikeli durumları önlemek için neden sollama yapmaktan vazgeçmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2931,
+  "prev_id": 2870,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çünkü sollama mesafesi münferit araçlara göre önemli ölçüde daha fazladır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Çünkü erken sollama yaparak kapalı formasyonu bozmamalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çünkü kapalı formasyonun önündeki trafik durumunu göremiyorum",
+      "is_correct": true
+    }
+  ]
+}

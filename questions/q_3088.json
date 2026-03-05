@@ -1,0 +1,23 @@
+{
+  "url_id": 3088,
+  "type": "choice",
+  "question_code": "1.4.40-013",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Her yöne tek şeritli bir yolda ilerliyorsunuz. Karşıdan gelen trafiğe genellikle hangi trafik işaretlerinde öncelik vermek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 373,
+  "prev_id": 2921,
+  "answers": [
+    {
+      "num": 1,
+      "text": "",
+      "is_correct": false
+    }
+  ]
+}

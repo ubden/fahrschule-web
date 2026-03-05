@@ -1,0 +1,27 @@
+{
+  "url_id": 151,
+  "type": "number",
+  "question_code": "1.2.03-102",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Hızınızı iki katına çıkardığınızda, fren mesafesi nasıl değişir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 152,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap: Bu mesafe",
+      "label_before": "Cevap: Bu mesafe",
+      "label_after": "kat daha uzar",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: Bu mesafe 4 kat daha uzar"
+}

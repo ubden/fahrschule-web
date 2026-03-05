@@ -1,0 +1,33 @@
+{
+  "url_id": 1417,
+  "type": "choice",
+  "question_code": "2.7.06-213",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Yayla itilen fren tertibatında frenleme nasıl oluşur?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1418,
+  "prev_id": 1414,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sürücünün freni işletme gücü ile",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Yay gücü ile",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Akan basınçlı hava ile",
+      "is_correct": false
+    }
+  ]
+}

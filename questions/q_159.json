@@ -1,0 +1,33 @@
+{
+  "url_id": 159,
+  "type": "choice",
+  "question_code": "1.2.05-101",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Sollama işlemi nerelerde yasaktır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 161,
+  "prev_id": 2743,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Trafik durumunun belirsiz olduğu yerlerde",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Karşıdan gelen trafiğin engellenebileceği yerlerde",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Tek yönlü bütün yollarda",
+      "is_correct": false
+    }
+  ]
+}

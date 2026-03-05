@@ -1,0 +1,35 @@
+{
+  "url_id": 1777,
+  "type": "image_choice",
+  "question_code": "1.4.40-144",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretini gördüğünüzde neye hazırlıklı olmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-144.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2468,
+  "prev_id": 1776,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bisikletliler için trafik yasağına",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Yoldan geçen bisikletlilere",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bisikletliler için alt geçide",
+      "is_correct": false
+    }
+  ]
+}

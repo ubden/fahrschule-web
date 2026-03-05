@@ -1,0 +1,35 @@
+{
+  "url_id": 411,
+  "type": "image_choice",
+  "question_code": "1.4.41-008",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Bu işaretin bulunduğu bir durağa yaklaşıyorsunuz. Orada çocuklar gördüğünüzde, nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-008.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 415,
+  "prev_id": 410,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hızı azaltıp, fren yapmaya hazır olunur",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Otobüsün, yolun kenarındaki duruş alanında durması halinde, hızın azaltılmasına gerek yoktur",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Hızın azaltılması, sadece durakta bir okul otobüsünün durması halinde gereklidir",
+      "is_correct": false
+    }
+  ]
+}

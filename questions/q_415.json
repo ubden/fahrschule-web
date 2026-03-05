@@ -1,0 +1,35 @@
+{
+  "url_id": 415,
+  "type": "image_choice",
+  "question_code": "1.4.41-012",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu yolda hangi araçların kullanılması yasaktır?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-012.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 418,
+  "prev_id": 411,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Küçük motosikletler",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Hafif motosikletler",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Motorlu bisikletler",
+      "is_correct": true
+    }
+  ]
+}

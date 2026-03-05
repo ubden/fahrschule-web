@@ -1,0 +1,33 @@
+{
+  "url_id": 2622,
+  "type": "choice",
+  "question_code": "2.7.04-101",
+  "points": 2,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Motor yağı seviyesini nasıl kontrol edebilirsiniz?",
+  "pretext": "Motorlu taşıda bağlı olarak",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1378,
+  "prev_id": 2424,
+  "answers": [
+    {
+      "num": 1,
+      "text": "yağ seviye ölçme çubuğu aracılığıyla",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "mevcut tüketim göstergesi aracılığıyla",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "sürücü bilgi sistemi aracılığıyla",
+      "is_correct": true
+    }
+  ]
+}

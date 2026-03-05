@@ -1,0 +1,33 @@
+{
+  "url_id": 322,
+  "type": "choice",
+  "question_code": "1.2.38-102",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bir hizmet aracının üzerindeki mavi sinyal lambanın (siren çalmadan) yanıp sönmesi, ne anlama gelebilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1754,
+  "prev_id": 321,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Siren çalmadıkça, yanan mavi sinyal lambanın bir anlamı yoktur",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sözkonusu araç resmi hizmette seyretmektedir. Araca yol vermeniz gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Konvoy halinde seyreden bir taşıt kervanının trafikte olduğu",
+      "is_correct": true
+    }
+  ]
+}

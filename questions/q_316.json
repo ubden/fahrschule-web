@@ -1,0 +1,35 @@
+{
+  "url_id": 316,
+  "type": "image_choice",
+  "question_code": "1.2.37-102-B",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Sola dönmek istediğiniz halde, yanlışlıkla sağ şeritte yer aldınız. Hangi yönde yola devam etmenize izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-37-102-B.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3040,
+  "prev_id": 315,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bu gidiş yönünü düzenleyen trafik lambası \"Yeşil\" yanar yanmaz, sola giden yönde",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sağa giden yönde",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Doğru yönde",
+      "is_correct": true
+    }
+  ]
+}

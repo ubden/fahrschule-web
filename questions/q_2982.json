@@ -1,0 +1,39 @@
+{
+  "url_id": 2982,
+  "type": "video",
+  "question_code": "1.2.37-022-M",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Trafik lambası uzun süredir sizin yönünüz için \"yeşil\" yanıyor. Şimdi doğru davranış nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-37-022-VS-2_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-37-022-VS-2.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-37-022-VS-2_anfang.jpg"
+    ]
+  },
+  "next_id": 315,
+  "prev_id": 2863,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yeşil ışıkta kavşağı güvenli bir şekilde geçebilmek için hızlanırım",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Trafik lambasını dikkatle izlerim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Trafik ışıkları sarıya dönebileceğinden fren yapmaya hazır bir şekilde sürüşe devam ediyorum",
+      "is_correct": true
+    }
+  ]
+}

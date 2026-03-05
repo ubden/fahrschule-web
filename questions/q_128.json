@@ -1,0 +1,33 @@
+{
+  "url_id": 128,
+  "type": "choice",
+  "question_code": "1.1.09-006",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Kandaki 1,0 promil oranındaki alkol miktarının çözülmesi, genelde ne kadar zaman alır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 130,
+  "prev_id": 126,
+  "answers": [
+    {
+      "num": 1,
+      "text": "5 saat",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "1 saat",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "10 saat",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1538,
+  "type": "choice",
+  "question_code": "1.1.09-021",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Mutlak alkol yasağı, hangi sürücüler için geçerlidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1539,
+  "prev_id": 141,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Deneme süresinde bulunan bütün sürücüler için",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bütün sürücüler için",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "21 yasın altındaki bütün sürücüler için",
+      "is_correct": true
+    }
+  ]
+}

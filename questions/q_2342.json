@@ -1,0 +1,33 @@
+{
+  "url_id": 2342,
+  "type": "choice",
+  "question_code": "2.2.23-053",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Motorlu araç sahibi olarak yetkili ruhsat dairesinde hangi değişikliği derhal gecikmeye mahal vermeksizin bildirmeniz gerekir?",
+  "pretext": "-değişikliğinde",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2343,
+  "prev_id": 2143,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Mali sorumluluk sigortası",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "İsim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "İkamet",
+      "is_correct": true
+    }
+  ]
+}

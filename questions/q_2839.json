@@ -1,0 +1,35 @@
+{
+  "url_id": 2839,
+  "type": "image_choice",
+  "question_code": "2.4.41-207",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Karayolu taşımacılığında izin verilen toplam kütlesi 30 t olan bir araç kombinasyonunu kullanıyorsunuz. Bu trafik işaretinde hangi koşullar altında araç kullanmaya devam etmenize izin verilir?",
+  "pretext": "Eğer",
+  "media": {
+    "images": [
+      "/media/2-4-41-207.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2895,
+  "prev_id": 2665,
+  "answers": [
+    {
+      "num": 1,
+      "text": "yükü bir römorkta taşımak zorundaysam",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "kontrol ve dinlenme sürelerine uyabiliyorsam",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "belirli bir rotada ilerliyorsam",
+      "is_correct": true
+    }
+  ]
+}

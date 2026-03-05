@@ -1,0 +1,35 @@
+{
+  "url_id": 453,
+  "type": "image_choice",
+  "question_code": "1.4.41-134",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretleri, neye işaret eder?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-134.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 454,
+  "prev_id": 452,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araç yolu ve yan şeritte geçerli bir duruş yasağına",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sadece yan şeritte geçerli bir duruş yasağına",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sadece kamyonlar için geçerli bir duruş yasağına",
+      "is_correct": false
+    }
+  ]
+}

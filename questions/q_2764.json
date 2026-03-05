@@ -1,0 +1,39 @@
+{
+  "url_id": 2764,
+  "type": "video",
+  "question_code": "2.1.03-121",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Elektronik Stabilite Kontrol (ESC) göstergesi birkaç kez yanıp söndü. Bu durumda nasıl doğru davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-03-121_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-03-121.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-03-121_anfang.jpg"
+    ]
+  },
+  "next_id": 2821,
+  "prev_id": 2645,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hızımı yüksek olduğu için düşürürüm",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "ESC-Göstergesi bir arızaya işaret ettiği için tamirhaneye giderim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "ESC-Sistemi, yolculuğuma güvenle devam etmemi sağladığı için hızımı korurum",
+      "is_correct": false
+    }
+  ]
+}

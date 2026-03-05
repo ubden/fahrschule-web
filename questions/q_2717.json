@@ -1,0 +1,35 @@
+{
+  "url_id": 2717,
+  "type": "image_choice",
+  "question_code": "2.2.07-012-M",
+  "points": 4,
+  "category": "Klasse B, Klasse C, Klasse CE",
+  "question_text": "Bu durumda emniyet şeridinin kullanımı için ne geçerlidir?",
+  "pretext": "Emniyet şeridi",
+  "media": {
+    "images": [
+      "/media/2-2-07-012-VS-1.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2771,
+  "prev_id": 2576,
+  "answers": [
+    {
+      "num": 1,
+      "text": "sadece aracın bozulması durumunda kullanılabilir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "sağ şerit gibi kullanılmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "sadece Tır`lar tarafından kullanılabilir",
+      "is_correct": false
+    }
+  ]
+}

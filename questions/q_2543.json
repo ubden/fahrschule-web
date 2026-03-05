@@ -1,0 +1,35 @@
+{
+  "url_id": 2543,
+  "type": "image_choice",
+  "question_code": "1.4.40-156",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Manuel şanzımanlı bir motorlu taşıt kullanıyorsunuz. Bu trafik işaretine göre neye dikkat etmeniz gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-156.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2544,
+  "prev_id": 2475,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Frenleme etkisi, vites takılı olmadığında daha etkili olur",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Frene uzun süre basılırsa, frenleme etkisi azalabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Fren mesafesi uzar",
+      "is_correct": true
+    }
+  ]
+}

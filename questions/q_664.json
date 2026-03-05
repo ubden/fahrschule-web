@@ -1,0 +1,27 @@
+{
+  "url_id": 664,
+  "type": "number",
+  "question_code": "2.2.03-011",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "50 km/sa hızla gidiyorsunuz ve 1 saniyelik reaksiyon süreniz var. Pratik formüle göre reaksiyon mesafeniz kaç metredir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 665,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "metre",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 15 metre"
+}

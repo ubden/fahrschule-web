@@ -1,0 +1,35 @@
+{
+  "url_id": 2113,
+  "type": "image_choice",
+  "question_code": "1.2.02-109",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda doğru olan nedir?",
+  "pretext": "Bir sonraki kavşakta",
+  "media": {
+    "images": [
+      "/media/1-2-02-109.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2114,
+  "prev_id": 1980,
+  "answers": [
+    {
+      "num": 1,
+      "text": "önceliğim vardır",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "yaya öncelikli alan sona ermektedir",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "\"soldan önce sağ\" öncelik kuralı geçerlidir",
+      "is_correct": true
+    }
+  ]
+}

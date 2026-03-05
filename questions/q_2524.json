@@ -1,0 +1,35 @@
+{
+  "url_id": 2524,
+  "type": "image_choice",
+  "question_code": "1.2.06-101-M",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda nasıl doğru davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-06-101-M.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 172,
+  "prev_id": 2227,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Karşıdan gelen sürücüden önce geçerim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Geçiş önceliğini karşıdan gelen sürücü ile anlaşarak belirlerim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Karşıdan gelen sürücü geçene kadar beklerim",
+      "is_correct": true
+    }
+  ]
+}

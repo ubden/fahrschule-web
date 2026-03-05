@@ -1,0 +1,33 @@
+{
+  "url_id": 1743,
+  "type": "choice",
+  "question_code": "1.2.26-115",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Yaya geçitlerine yaklaşırken defansif araç kullanmak neden özellikle önemlidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1744,
+  "prev_id": 1742,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Arkadan gelen araçların kolaylıkla sollayabilmeleri için",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Arkadan çarpma kazalarının önlenmesi için",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yayaların tedirgin olmamaları için",
+      "is_correct": true
+    }
+  ]
+}

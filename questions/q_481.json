@@ -1,0 +1,35 @@
+{
+  "url_id": 481,
+  "type": "image_choice",
+  "question_code": "1.4.42-110",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Burada park edebilir misiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-42-110.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 482,
+  "prev_id": 480,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Evet, resmi park belgesine sahip ağır beden özürlü biri olarak",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Evet, resmi park belgesine sahip görme engelli bir şahsın refakatçisi olarak",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Evet, kısa sürecek alışverişler için",
+      "is_correct": false
+    }
+  ]
+}

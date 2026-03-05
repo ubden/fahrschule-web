@@ -1,0 +1,33 @@
+{
+  "url_id": 68,
+  "type": "choice",
+  "question_code": "1.1.05-003",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Dar virajlarda aracınızı nasıl kullanırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2221,
+  "prev_id": 67,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Virajdan önce hız azaltılır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Aracın hızı, ancak virajın tam ortasında azaltılır",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Ancak doğru yola geçişte tekrar hızlanılır",
+      "is_correct": true
+    }
+  ]
+}

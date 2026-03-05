@@ -1,0 +1,33 @@
+{
+  "url_id": 2675,
+  "type": "choice",
+  "question_code": "2.7.01-146",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Şeritten Ayrılma Uyarı Sisteminin işlevini neler etkileyebilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2676,
+  "prev_id": 2674,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Şerit işaretlerinin durumu",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hava koşulları",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Şantiye alanındaki ek şerit işaretleri",
+      "is_correct": true
+    }
+  ]
+}

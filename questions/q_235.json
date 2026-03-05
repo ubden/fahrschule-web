@@ -1,0 +1,33 @@
+{
+  "url_id": 235,
+  "type": "choice",
+  "question_code": "1.2.17-001",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Aracınızın ışıklandırma düzeni ile ilgili olarak nelere dikkat etmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2535,
+  "prev_id": 234,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Lambaların işler durumda olması gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Lambaların usülüne uygun olması gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Lambaların temiz olması gerekir",
+      "is_correct": true
+    }
+  ]
+}

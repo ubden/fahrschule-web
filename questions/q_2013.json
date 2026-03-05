@@ -1,0 +1,33 @@
+{
+  "url_id": 2013,
+  "type": "choice",
+  "question_code": "2.6.03-001",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Geri görüşünün engellendiği bir araç kombinasyonunda geri geri araç sürerken doğru olan hareket nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2205,
+  "prev_id": 2094,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yol gösteren kişiyle görsel bağlantım koparsa durmalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "İşletme arazisinde yol gösterici şart değildir",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sadece öncelikli yola girecek olursam birisinin yol göstericiliğine ihtiyaç vardır",
+      "is_correct": false
+    }
+  ]
+}

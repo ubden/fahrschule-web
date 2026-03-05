@@ -1,0 +1,39 @@
+{
+  "url_id": 2751,
+  "type": "video",
+  "question_code": "1.2.09-136-M",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda neyi hesaba katmanız gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-09-136-VS-1_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-09-136-VS-1.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-09-136-VS-1_anfang.jpg"
+    ]
+  },
+  "next_id": 2752,
+  "prev_id": 2700,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yeşil otobüs aniden yola çıkar",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sarı araba yoluna düz devam eder",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yaya bekler",
+      "is_correct": false
+    }
+  ]
+}

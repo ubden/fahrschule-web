@@ -1,0 +1,35 @@
+{
+  "url_id": 483,
+  "type": "image_choice",
+  "question_code": "1.4.42-112",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Burada hangi araçların park etmesine izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-42-112.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 487,
+  "prev_id": 482,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İzin verilmiş azami toplam kütlesi 2,8 tona kadar olan araçların",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "İzin verilmiş azami toplam kütlesi 3,5 tonu aşan araçların",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Motosikletlerin",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 437,
+  "type": "image_choice",
+  "question_code": "1.4.41-118",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu şekilde işaretlenmiş bir yolda hangi araçların kullanılması yasaktır?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-118.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 438,
+  "prev_id": 435,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Otomobiller",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kamyonlar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Motosikletler",
+      "is_correct": false
+    }
+  ]
+}

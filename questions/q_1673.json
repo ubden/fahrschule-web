@@ -1,0 +1,35 @@
+{
+  "url_id": 1673,
+  "type": "image_choice",
+  "question_code": "1.1.07-020-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Burada ne zaman tehlikeli bir durum meydana gelebilir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-020-VS-1.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2260,
+  "prev_id": 2975,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Eğer bisikletli kadın benim şeridime geçerse",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Eğer aynı hızda yoluma devam edersem",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Eğer bisikletli kadın bisiklet yolunun sonunda durursa",
+      "is_correct": false
+    }
+  ]
+}

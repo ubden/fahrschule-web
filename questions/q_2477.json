@@ -1,0 +1,39 @@
+{
+  "url_id": 2477,
+  "type": "video",
+  "question_code": "2.1.03-033",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Şimdi hangi şekilde doğru davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-03-033_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-03-033.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-03-033_anfang.jpg"
+    ]
+  },
+  "next_id": 2566,
+  "prev_id": 1969,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Ani direksiyon hareketlerinden kaçınırım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Direksiyonu kuvvetlice sağa doğru kırarım",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Hızımı düşürürüm",
+      "is_correct": true
+    }
+  ]
+}

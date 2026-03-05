@@ -1,0 +1,33 @@
+{
+  "url_id": 2035,
+  "type": "choice",
+  "question_code": "2.5.01-209",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "İnce toz plaketi olmayan hangi araçlar çevre bölgelerine girebilirler?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2037,
+  "prev_id": 2034,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Katalizatörlü bütün motorlu taşıtlar",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Tarım ve ormancılıkta kullanılan bütün çekici araçlar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "İki ve üç tekerlekli bütün motorlu taşıtlar",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 2516,
+  "type": "image_choice",
+  "question_code": "1.1.07-159-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Neye hazırlıklı olmanız gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-159-M.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2517,
+  "prev_id": 2455,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Karşı taraftan gelen araçlar sola sapabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Araçlar araç yoluna sapabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "İnsanlar araç yoluna girebilir",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2908,
+  "type": "choice",
+  "question_code": "2.7.02-138",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Yerleşim alanlarında karanlıkta araç kullanıyorsunuz. Karşıdan gelen sürücüler selektör yaparak sizi uyarıyor. Bu durumda bu ne anlama gelebilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2909,
+  "prev_id": 2792,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracım karşıdan gelen araçların gözlerini kamaştırıyor",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Uzun farları açmalıyım",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Kısa farları açmayı unuttum",
+      "is_correct": true
+    }
+  ]
+}

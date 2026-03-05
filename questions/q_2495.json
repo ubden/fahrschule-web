@@ -1,0 +1,33 @@
+{
+  "url_id": 2495,
+  "type": "choice",
+  "question_code": "2.2.29-001",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Yasadışı yol yarışlarına katılım ne tür sonuçlar doğurabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2408,
+  "prev_id": 933,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araç sürücüsüne ait sürücü ehliyetinin geri çekilmesi",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Ağır trafik kazalarının ortaya çıkması",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Araç sürücüsü için hapis cezasının düzenlenmesi",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1373,
+  "type": "choice",
+  "question_code": "2.7.03-206",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Kışın, motorun soğutma tertibatında nasıl hasar meydana gelebilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1374,
+  "prev_id": 1372,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Herhangi bir hasar meydana gelemez, çünkü kapalı sistemlerin bakım ihtiyacı yoktur",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Yeterli miktarda antifriz koyulmamasından",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yılda en az iki kez soğutma sıvısının değiştirilmemesinden",
+      "is_correct": false
+    }
+  ]
+}

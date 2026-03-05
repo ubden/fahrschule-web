@@ -1,0 +1,35 @@
+{
+  "url_id": 1638,
+  "type": "image_choice",
+  "question_code": "1.1.02-119",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Nasıl davranmanız gerekiyor?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-02-119.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1640,
+  "prev_id": 1603,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yoluma aynen devam ederim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Frene hazır halde olurum",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Adım hızına dek fren yaparım",
+      "is_correct": true
+    }
+  ]
+}

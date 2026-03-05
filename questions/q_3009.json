@@ -1,0 +1,35 @@
+{
+  "url_id": 3009,
+  "type": "image_choice",
+  "question_code": "2.4.42-008-M",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Bu trafik işaretine göre ne geçerlidir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-42-008-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 982,
+  "prev_id": 980,
+  "answers": [
+    {
+      "num": 1,
+      "text": "çok şeritli yol nedeniyle 50 km/s'den daha hızlı sürüş yapabilirim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "yönüm içim şeridi özgürce seçebilirim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "sağ şeritte sol şeritteki araçlardan daha hızlı sürüş yapabilirim",
+      "is_correct": true
+    }
+  ]
+}

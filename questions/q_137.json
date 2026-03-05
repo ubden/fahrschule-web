@@ -1,0 +1,33 @@
+{
+  "url_id": 137,
+  "type": "choice",
+  "question_code": "1.1.09-015",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Esrarın uyuşturucu etki maddesinin vücuttaki çözülmesi nasıl gerçekleşir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 139,
+  "prev_id": 130,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Düzenli olarak, saatte 0,1 gram miktarında",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Düzensiz olarak, belirsiz bir süre zarfında",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Düzenli olarak, saatte 0,1 promil",
+      "is_correct": false
+    }
+  ]
+}

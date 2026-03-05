@@ -1,0 +1,33 @@
+{
+  "url_id": 2898,
+  "type": "choice",
+  "question_code": "2.6.03-118",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Tam yüklü otomatik römork freni ile frenlenmiş bir römork ile bir binek otomobil kullanıyorsunuz. Hangi özelliğe dikkat edilmelidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2899,
+  "prev_id": 2897,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araç kombinasyonu yokuş yukarı bir eğimdeyken otomatik römork freni etkisizdir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Uzun yokuş aşağı yolculuklar sırasında römork freni aşırı ısınabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Araç kombinasyonunu ayırmadan önce römorkun sabitleme freni çekilmelidir",
+      "is_correct": true
+    }
+  ]
+}

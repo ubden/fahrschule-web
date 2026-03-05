@@ -1,0 +1,33 @@
+{
+  "url_id": 859,
+  "type": "choice",
+  "question_code": "2.2.22-210",
+  "points": 3,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Yükün bir mesnede yaslandırılması suretiyle sabitlenip güvene alınması, ne anlama gelmektedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 865,
+  "prev_id": 853,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yük parçalarının arasındaki boşlukların uygun malzemelerle doldurulması",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hiçbir yere yaslandırılmayan yükün, sadece gerdirme malzemeleri ile sabitlenmiş olması hali",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Yükün taşıdın ön ve kenar duvarlarına doğrudan yaslandırılması",
+      "is_correct": true
+    }
+  ]
+}

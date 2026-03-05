@@ -1,0 +1,33 @@
+{
+  "url_id": 2314,
+  "type": "choice",
+  "question_code": "2.7.09-225",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Araçta yük taşınmasına ve yüklerin sabitlenmesine ilişkin bilgileri nerede bulabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2381,
+  "prev_id": 1506,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Karayolu Trafik Yönetmeliği'nde (StVO)",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Ruhsatname Kısım II'de",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Teknikteki yük güvenliğine ilişkin genel kabul görmüş kurallarda",
+      "is_correct": true
+    }
+  ]
+}

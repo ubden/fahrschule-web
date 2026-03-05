@@ -1,0 +1,33 @@
+{
+  "url_id": 2048,
+  "type": "choice",
+  "question_code": "1.1.02-135",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Yayalar yola indiklerinde sizi ne bekliyor olabilir?",
+  "pretext": "Yayalar",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2800,
+  "prev_id": 1652,
+  "answers": [
+    {
+      "num": 1,
+      "text": "dikkatsiz olabilirler",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "yolun yarısında geri dönebilirler",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "birdenbire durabilirler",
+      "is_correct": true
+    }
+  ]
+}

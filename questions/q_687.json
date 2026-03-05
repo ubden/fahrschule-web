@@ -1,0 +1,27 @@
+{
+  "url_id": 687,
+  "type": "number",
+  "question_code": "2.2.03-301",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "İzin verilmiş toplam kütlesi 40 ton olan bir yük katarı ile, otoyollarda (otobanlarda) en çok hangi hızla gitmenize izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2076,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "km/sa",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 80 km/sa"
+}

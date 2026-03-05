@@ -1,0 +1,33 @@
+{
+  "url_id": 2792,
+  "type": "choice",
+  "question_code": "2.7.02-136",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Hızlanırken direksiyonun „yalpalamaya“ başladığını fark ettiniz. Nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2908,
+  "prev_id": 2733,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Ön tekerleklerde hasar olup olmadığını kontrol ederim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Direksiyon bağlantısını kontrol ederim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Ön tekerleklerin tekerlek bağlantısını kontrol ederim",
+      "is_correct": true
+    }
+  ]
+}

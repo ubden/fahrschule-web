@@ -1,0 +1,39 @@
+{
+  "url_id": 2070,
+  "type": "video",
+  "question_code": "2.1.06-012-M",
+  "points": 5,
+  "category": "Klasse B",
+  "question_text": "Buradaki doğru davranışınız nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-06-012-VS-2_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-06-012-VS-2.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-06-012-VS-2_anfang.jpg"
+    ]
+  },
+  "next_id": 2123,
+  "prev_id": 1971,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hafif bir fren yaparak arkamdakilerden daha fazla mesafe bırakmalarını isterim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Mavi renkli binek otosunu sollarım ve ardından orta şeride geçerim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Siyah renkli binek otosunu sollarım ve ardından orta şeride geçerim",
+      "is_correct": true
+    }
+  ]
+}

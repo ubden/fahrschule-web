@@ -1,0 +1,33 @@
+{
+  "url_id": 2937,
+  "type": "choice",
+  "question_code": "2.1.07-029",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Dar caddelerde sürüş yaparken nelere dikkat etmelisiniz?",
+  "pretext": "Dar cadelerde",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 602,
+  "prev_id": 2936,
+  "answers": [
+    {
+      "num": 1,
+      "text": "virajları çoğunlukla zor görüyorum",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "son derece defansif bir sürüş yapmalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "buzlanmaya karşı korunuyorum",
+      "is_correct": false
+    }
+  ]
+}

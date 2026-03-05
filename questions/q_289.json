@@ -1,0 +1,33 @@
+{
+  "url_id": 289,
+  "type": "choice",
+  "question_code": "1.2.34-103",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Yaralanmalı bir trafik kazasının olduğu yere ilk olarak siz geliyorsunuz. Genelde ilk önce ne yapmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 291,
+  "prev_id": 2973,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yaralanmaların ne kadar ağır olduğu kontrol edilir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Kaza yeri emniyet altına alınır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Araçla bir sonraki telefon kulübesine gidilir ve ambülansa haber verilir",
+      "is_correct": false
+    }
+  ]
+}

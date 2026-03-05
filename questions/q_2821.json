@@ -1,0 +1,35 @@
+{
+  "url_id": 2821,
+  "type": "image_choice",
+  "question_code": "2.1.03-122",
+  "points": 4,
+  "category": "Klasse B, Klasse C, Klasse CE",
+  "question_text": "Burada hesaba katmanız gereken şey nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-03-122.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2822,
+  "prev_id": 2764,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Karşı yönden gelen trafiği az görme",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yoldaki yayalar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Batmak üzere olan güneş yansıması",
+      "is_correct": false
+    }
+  ]
+}

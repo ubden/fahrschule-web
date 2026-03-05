@@ -1,0 +1,35 @@
+{
+  "url_id": 62,
+  "type": "image_choice",
+  "question_code": "1.1.04-103-B",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Böyle bir durumda gözlerinizin kamaşması halinde, ne yapmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-04-103-B.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1578,
+  "prev_id": 2632,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bakışınızı, yolun sağ kenarına yöneltirsiniz",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Işık hüzmesinden daha çabuk çıkabilmek için, aracınızı hızlandırırsınız",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Gerekirse, aracınızın hızını azaltırsınız",
+      "is_correct": true
+    }
+  ]
+}

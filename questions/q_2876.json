@@ -1,0 +1,33 @@
+{
+  "url_id": 2876,
+  "type": "choice",
+  "question_code": "2.2.04-005",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Önde giden araçla aranızda bırakmanız gereken minimum güvenli mesafe nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 693,
+  "prev_id": 2798,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Metre cinsinden hız göstergesinin üçte biri",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Metre cinsinden hız göstergesinin yarısı",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Metre cinsinden hız göstergesinin beşte biri",
+      "is_correct": false
+    }
+  ]
+}

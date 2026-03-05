@@ -1,0 +1,33 @@
+{
+  "url_id": 2732,
+  "type": "choice",
+  "question_code": "2.7.01-151",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Aktif şerit değiştirme asistanı hangi koşullar altında şerit değişikliği yapabilir?",
+  "pretext": "Asistan",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2784,
+  "prev_id": 2731,
+  "answers": [
+    {
+      "num": 1,
+      "text": "karşıdan gelen trafikte yeterli bir boşluk tespit ettiğinde",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "yeterince işaretlenmiş birkaç şeritli yolda bir şerit tanıdığında",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "ilgili güvenlik alanında herhangi bir araç tespit etmemişse",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1455,
+  "type": "choice",
+  "question_code": "2.7.07-304",
+  "points": 4,
+  "category": "Klasse CE",
+  "question_text": "Şu ana kadar kullanmadığınız bir yarı römork teslim alıyorsunuz. Römorku çekiciye bağlamadan önce, nelere dikkat etmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1456,
+  "prev_id": 1454,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Şoför kabini ile yarı römork arasında yeterli boşluk olmasına",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yarı römorkun ve yarı römork çekicisinin aynı büyüklükteki lastiklere sahip olmasına",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Kavrama piminin aşınmış veya hasarlı olmamasına",
+      "is_correct": true
+    }
+  ]
+}

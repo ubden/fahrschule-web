@@ -1,0 +1,33 @@
+{
+  "url_id": 2554,
+  "type": "choice",
+  "question_code": "1.5.01-126",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Manuel şanzımanlı bir motorlu taşıt kullanıyorsunuz. Şehir içinde hangi sürüş tarzı yüksek yakıt tüketimine yol açar?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2555,
+  "prev_id": 2553,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yüksek motor devir sayısında sürüş yapmak",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Aniden hızlanmak",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yüksek viteste sürmek",
+      "is_correct": false
+    }
+  ]
+}

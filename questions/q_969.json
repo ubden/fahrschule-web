@@ -1,0 +1,35 @@
+{
+  "url_id": 969,
+  "type": "image_choice",
+  "question_code": "2.4.41-106",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Bu trafik işaretinin hangi araçlar tarafından ihlal edilmesi, ağır kazalara yol açabilir?",
+  "pretext": "Yükü ile birlikte, aşağıda belirtilen ebatlara sahip araçlar:",
+  "media": {
+    "images": [
+      "/media/2-4-41-106.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 970,
+  "prev_id": 968,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Uzunluğu 8 metre, genişliği 2,5 metre, yüksekliği 4 metre",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Uzunluğu 10 metre, genişliği 3,9 metre, yüksekliği 3 metre",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Uzunluğu 4 metre, genişliği 2,5 metre, yüksekliği 2,5 metre",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2290,
+  "type": "choice",
+  "question_code": "2.2.23-119",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Araç koltuklarında kafa desteklerini ayarlarken neye dikkat edilmelidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2407,
+  "prev_id": 2199,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kafanın arkası ile kafa desteği arasındaki mesafe mümkün mertebe düşük olmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kafanın en yüksek noktası kafa desteğinin üst kenarıyla yaklaşık aynı hizada olmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kafa desteğinin üst kenarı üst boyun omuruyla son bulmalıdır",
+      "is_correct": false
+    }
+  ]
+}

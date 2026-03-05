@@ -1,0 +1,33 @@
+{
+  "url_id": 2560,
+  "type": "choice",
+  "question_code": "1.5.01-132",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Manuel şanzımanlı bir motorlu taşıt kullanıyorsunuz. Hangi sürüş tarzı çevreye zarar verir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2561,
+  "prev_id": 2559,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yokuş aşağı yüksek vitesle inmek",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Dengesiz bir sürüş tarzı",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Lambada beklerken sıkça gaza basmak",
+      "is_correct": true
+    }
+  ]
+}

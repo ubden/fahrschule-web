@@ -1,0 +1,23 @@
+{
+  "url_id": 3093,
+  "type": "choice",
+  "question_code": "1.4.41-175",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Hangi trafik işaretinden itibaren 60 km/s hız sınırını aşmanız yasaktır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 464,
+  "prev_id": 3092,
+  "answers": [
+    {
+      "num": 1,
+      "text": "",
+      "is_correct": false
+    }
+  ]
+}

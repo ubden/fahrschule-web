@@ -1,0 +1,33 @@
+{
+  "url_id": 2250,
+  "type": "choice",
+  "question_code": "2.1.07-119",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Yola çıkmış bir yabani hayvanla çarpışmanız kaçınılmazsa nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2404,
+  "prev_id": 2248,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İstikametimi korurum",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hep kaçarım",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Mümkün olduğunca sert fren yaparım",
+      "is_correct": true
+    }
+  ]
+}

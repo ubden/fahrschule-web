@@ -1,0 +1,33 @@
+{
+  "url_id": 155,
+  "type": "choice",
+  "question_code": "1.2.03-106",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "30 km/sa hızla gidiyorsunuz. Buurada pratik formüle göre, normal frenlemede fren mesafesi 9 metredir. Aynı koşullarda, 60 km/sa hızla giderken fren mesafesi kaç metredir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2978,
+  "prev_id": 154,
+  "answers": [
+    {
+      "num": 1,
+      "text": "27 metre",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "18 metre",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "36 metre",
+      "is_correct": true
+    }
+  ]
+}

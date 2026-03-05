@@ -1,0 +1,33 @@
+{
+  "url_id": 2374,
+  "type": "choice",
+  "question_code": "2.7.06-228",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Aracınızın elektronik bir fren sistemi (EBS) bulunmaktadır. EBS devre dışı kaldığında ne meydana gelir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2375,
+  "prev_id": 1426,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sistemdeki hata kontrol ışıkları ile gösterilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Motorlu aracın freni hava basıncı ile frenler",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Motorlu araç sadece el freniyle yavaşlayabilir",
+      "is_correct": false
+    }
+  ]
+}

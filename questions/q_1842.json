@@ -1,0 +1,33 @@
+{
+  "url_id": 1842,
+  "type": "choice",
+  "question_code": "2.2.05-005",
+  "points": 5,
+  "category": "Klasse B",
+  "question_text": "Şehir dışındaki bir yolda saatte 100 km hızla yol alıyorsunuz. Önünüzde saatte 70 km hızla bir ağır vasıta gidiyor. Sollamaya başlamadan önce tırmanma yokuşu bitiminden en az ne kadar mesafede olmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2131,
+  "prev_id": 2080,
+  "answers": [
+    {
+      "num": 1,
+      "text": "800 m",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "200 m",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "400 m",
+      "is_correct": false
+    }
+  ]
+}

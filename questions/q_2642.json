@@ -1,0 +1,35 @@
+{
+  "url_id": 2642,
+  "type": "image_choice",
+  "question_code": "1.4.40-011",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretinde nasıl davranmanız gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-011.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2921,
+  "prev_id": 2542,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Fren tutmaya hazırlıklı olmalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yaya geçidine düşük hızla yaklaşmalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Özellikle dikkatli olmalıyım",
+      "is_correct": true
+    }
+  ]
+}

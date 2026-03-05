@@ -1,0 +1,33 @@
+{
+  "url_id": 1479,
+  "type": "choice",
+  "question_code": "2.7.08-207",
+  "points": 3,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Aracınızda öngörülen kontrollerin yapılması, neden gereklidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1480,
+  "prev_id": 1476,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çevrenin temizliği açısından önem taşıyan araç parçalarının işlev görür durumda olup olmadığının kontrol edilmesi için",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Güvenlik açısından önem taşıyan araç parçalarının işlev görür durumda olup olmadığının kontrol edilmesi için",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Güvenlik açısından önem taşıyan araç parçalarının aşınma seviyesinin zamanında tespit edilmesi için",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2757,
+  "type": "choice",
+  "question_code": "1.2.34-008",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Otoparkta bir kazaya karıştınız. Ufak çaplı bir maddi hasar oluştu. Olaya karışan taraflar polise haber vermekten kaçınıyor. Hasar masraflarının karşılanabilmesi için şimdi ne yapılırsa yararlı olur?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2814,
+  "prev_id": 2756,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Olaya karışan taraflarla bilgi alışverişinde bulunmak",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kaza raporunda kaza seyrini anlatmak",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kaza mahallini birkaç yönden fotoğraf çekmek",
+      "is_correct": true
+    }
+  ]
+}

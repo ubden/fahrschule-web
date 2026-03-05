@@ -1,0 +1,35 @@
+{
+  "url_id": 2430,
+  "type": "image_choice",
+  "question_code": "2.7.05-223",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Lastiklerin üzerinde kırmızı işaretlenmiş sembol ne anlama gelir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-7-05-223.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2432,
+  "prev_id": 2373,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bu lastik sadece kar zinciriyle birlikte kullanılabilir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Bu lastik kış hava şartlarına uygundur",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bu lastik karda da gidiş özelliklerini destekler",
+      "is_correct": true
+    }
+  ]
+}

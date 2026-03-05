@@ -1,0 +1,33 @@
+{
+  "url_id": 822,
+  "type": "choice",
+  "question_code": "2.2.21-112",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Bir otomobilde iki adet ön hava yastığı mevcuttur. Hangi koltuklarda emniyet kemerinin takılması zorunludur?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 824,
+  "prev_id": 821,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bütün koltuklarda",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Ön koltuklarda zorunlu değildir",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sadece ön koltuklarda",
+      "is_correct": false
+    }
+  ]
+}

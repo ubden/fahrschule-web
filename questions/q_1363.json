@@ -1,0 +1,33 @@
+{
+  "url_id": 1363,
+  "type": "choice",
+  "question_code": "2.7.02-211",
+  "points": 3,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Pnömatik (hava yastıklı) yayın önemli ölçüde sızıntı yapması, trafik güvenliği açısından hangi sonuçlara yol açabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2417,
+  "prev_id": 1356,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yüke bağımlı otomatik fren gücü ayarlama düzenine (ALB) gelen yanlış basınçtan dolayı fren gücü olumsuz etkilenir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Araç yan yatar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Ön fren devresinin depo hattındaki basınçlı hava azalır",
+      "is_correct": false
+    }
+  ]
+}

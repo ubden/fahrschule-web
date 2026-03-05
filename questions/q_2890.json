@@ -1,0 +1,33 @@
+{
+  "url_id": 2890,
+  "type": "choice",
+  "question_code": "2.2.22-132",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Pedelec'leri (elektirkli bisiklet) römork bağlantı kaplini için bir arka taşıyıcı sistem üzerinde taşırken nelere dikkat edilmelidir?",
+  "pretext": "Pedelec'lerin yüksek ağırlığı için",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 850,
+  "prev_id": 2889,
+  "answers": [
+    {
+      "num": 1,
+      "text": "römork bağlantı kaplininin destek yükü uygun olmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "aracın lastik basıncı uygun şekilde ayarlanmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "arka taşıyıcı sistemi uygun olmalıdır",
+      "is_correct": true
+    }
+  ]
+}

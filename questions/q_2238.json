@@ -1,0 +1,35 @@
+{
+  "url_id": 2238,
+  "type": "image_choice",
+  "question_code": "2.1.05-105-M",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Bu durumda kendinizi neye hazırlamalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-05-105-M.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2395,
+  "prev_id": 587,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kendi şeridimde yavaş giden bir araca",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Virajı kesen, karşıdan gelen trafiğe",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yola yabani hayvan çıkmasına",
+      "is_correct": true
+    }
+  ]
+}

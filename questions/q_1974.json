@@ -1,0 +1,39 @@
+{
+  "url_id": 1974,
+  "type": "video",
+  "question_code": "2.1.08-016",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Burada nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-08-016_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-08-016.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-08-016_anfang.jpg"
+    ]
+  },
+  "next_id": 2072,
+  "prev_id": 1820,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Tehlike sinyallerimi yakarım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Aracımı frenlerim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Boş koridora girerim",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1936,
+  "type": "choice",
+  "question_code": "2.6.02-030",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Aracınızdaki teknik bir değişiklikten dolayı işletme müsaadeniz iptal oldu. Buna rağmen aracınızla trafiğe çıkacak olursanız ne gibi sonuçlara hazırlıklı olmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2294,
+  "prev_id": 1888,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sigortamın iptali",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Merkezi trafik siciline kayıt",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Para cezası",
+      "is_correct": true
+    }
+  ]
+}

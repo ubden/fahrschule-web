@@ -1,0 +1,33 @@
+{
+  "url_id": 1051,
+  "type": "choice",
+  "question_code": "2.6.02-201",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "C sınıfı sürücü iznine sahipsiniz. Kamyonunuz aşağıdaki nitelikleri haizdir: - Boş kütle 9.000 kg - İzin verilmiş toplam kütle 18.000 kg - İzin verilmiş römork yükü 22.000 kg Bu durumda hangi römorku çekmenize izin verilmiştir?",
+  "pretext": "İzin verilmiş toplam kütlesi,",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1074,
+  "prev_id": 2781,
+  "answers": [
+    {
+      "num": 1,
+      "text": "18.000 kg olan römork",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "22.000 kg olan römork",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "750 kg olan römork",
+      "is_correct": true
+    }
+  ]
+}

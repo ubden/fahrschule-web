@@ -1,0 +1,27 @@
+{
+  "url_id": 2742,
+  "type": "number",
+  "question_code": "1.2.05-004",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Yerleşim yeri içinde bir bisiklet sürücüsünü sollamak istiyorsunuz. Bu esnada korumanız gereken minimum kenar mesafesi nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2743,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "m",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 1,50 m"
+}

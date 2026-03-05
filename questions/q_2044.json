@@ -1,0 +1,33 @@
+{
+  "url_id": 2044,
+  "type": "choice",
+  "question_code": "2.6.07-220",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Araç kullanırken hangi faaliyetler riskli bir şekilde dikkatinizi dağıtabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2412,
+  "prev_id": 1177,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Mesaj yazmak",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Eller serbest konumunda da olsa telefonda konuşmak",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Navigasyon cihazına adres girmek",
+      "is_correct": true
+    }
+  ]
+}

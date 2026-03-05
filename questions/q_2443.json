@@ -1,0 +1,33 @@
+{
+  "url_id": 2443,
+  "type": "choice",
+  "question_code": "2.7.06-319",
+  "points": 4,
+  "category": "Klasse CE",
+  "question_text": "Hava basınçlı fren sistemi olan çekici bir araç kullanıyorsunuz. Sağ ön tekerleğin fren hattı kırılıyor. Bunun, römorkun hareketine etkisi ne olur?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2444,
+  "prev_id": 2442,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çekici aracın frenleme gücü sınırlıdır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Römork hemen kendiliğinden frenlenir",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Römorkta ayak freni tertibatı tamamen çalışır durumda kalır",
+      "is_correct": true
+    }
+  ]
+}

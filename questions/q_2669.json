@@ -1,0 +1,33 @@
+{
+  "url_id": 2669,
+  "type": "choice",
+  "question_code": "2.5.01-125",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Hava direnci, bir aracın yakıt tüketimini etkiler. Hava direncini en çok etkileyen şey nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2670,
+  "prev_id": 2668,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sürülen hız",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yolcu sayısı",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Lastiklerin profil derinliği",
+      "is_correct": false
+    }
+  ]
+}

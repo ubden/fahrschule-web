@@ -1,0 +1,33 @@
+{
+  "url_id": 2504,
+  "type": "choice",
+  "question_code": "2.8.01-201",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Kamyonla ticari yük taşımacılığı yapıyorsunuz. 5 yıl süresince katılmak zorunda olduğunuz 35 saatlik eğitim kursunun hedefi nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2739,
+  "prev_id": 3029,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Karayolu Mal Taşımacılığı yönetmelikleri hakkındaki bilgilerin tazelenmesi",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Ek bir ehliyet sınıfının alınması",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sağlık bilincinin arttırılması",
+      "is_correct": true
+    }
+  ]
+}

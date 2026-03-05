@@ -1,0 +1,33 @@
+{
+  "url_id": 1454,
+  "type": "choice",
+  "question_code": "2.7.07-303",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Kavrama cıvatasının, yükseklik itibarı ile azami boşluğu ne kadar olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1455,
+  "prev_id": 1453,
+  "answers": [
+    {
+      "num": 1,
+      "text": "4 mm",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "2 mm",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "6 mm",
+      "is_correct": false
+    }
+  ]
+}

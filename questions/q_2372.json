@@ -1,0 +1,35 @@
+{
+  "url_id": 2372,
+  "type": "image_choice",
+  "question_code": "2.7.05-221",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Yandaki tekerlek tanımında \"156/150\" işareti ne anlama geliyor: 315/80 R 22.5 156/150 L?",
+  "pretext": "Bu işaret",
+  "media": {
+    "images": [
+      "/media/2-7-05-221.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2373,
+  "prev_id": 2371,
+  "answers": [
+    {
+      "num": 1,
+      "text": "tek veya ikiz tekerlek için taşıma kapasitesi numarası hakkında bilgi veriyor",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "hava basıncına bağlı olarak yuvarlanma kapsamı hakkında bilgi veriyor",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "yüksekliğin genişliğe göre oranı hakkında bilgi veriyor",
+      "is_correct": false
+    }
+  ]
+}

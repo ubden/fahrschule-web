@@ -1,0 +1,35 @@
+{
+  "url_id": 2665,
+  "type": "image_choice",
+  "question_code": "2.4.41-206",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Bu trafik işaretindeki „12 t“ göstergesi neyi ifade ediyor?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-41-206.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2839,
+  "prev_id": 2092,
+  "answers": [
+    {
+      "num": 1,
+      "text": "aracın izin verilen toplam kütlesini",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "yükün izin verilen gerçek kütlesini",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "aracın gerçek kütlesini",
+      "is_correct": true
+    }
+  ]
+}

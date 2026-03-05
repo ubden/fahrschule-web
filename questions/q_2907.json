@@ -1,0 +1,33 @@
+{
+  "url_id": 2907,
+  "type": "choice",
+  "question_code": "2.7.02-040",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Aracınızın fren lambası çalışmıyor. Doğru davranış nasıl olmalıdır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2968,
+  "prev_id": 2681,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Fren hidroliğinin değiştirilmesini sağlıyorum",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sebebini tespit etmeye çalışıyor ve arızayı kendim gideriyorum",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Aracımı bir atölyede tamir ettiriyorum",
+      "is_correct": true
+    }
+  ]
+}

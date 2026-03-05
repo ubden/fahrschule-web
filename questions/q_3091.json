@@ -1,0 +1,23 @@
+{
+  "url_id": 3091,
+  "type": "choice",
+  "question_code": "1.4.41-033",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Hangi trafik işareti işaretli alana girmenizi yasaklamaktadır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 425,
+  "prev_id": 3090,
+  "answers": [
+    {
+      "num": 1,
+      "text": "",
+      "is_correct": false
+    }
+  ]
+}

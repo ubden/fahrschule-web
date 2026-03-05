@@ -1,0 +1,35 @@
+{
+  "url_id": 1677,
+  "type": "image_choice",
+  "question_code": "1.1.07-137",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Sağa sapmak istiyorsunuz. Nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-137.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1678,
+  "prev_id": 1634,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bisikletlinin geçmesine izin vermeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "\"Kör noktayı\" kontrol etmeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bisikletliden önce sapmalıyım",
+      "is_correct": false
+    }
+  ]
+}

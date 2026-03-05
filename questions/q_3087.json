@@ -1,0 +1,27 @@
+{
+  "url_id": 3087,
+  "type": "number",
+  "question_code": "2.6.04-230",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Ticari yük taşımacılığında sürüş ve dinlenme süreleri kimler için öngörülmüştür?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1121,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap: Müsaade edilen şu toplam ağırlığa sahip kamyon ve araç kombinasyonlarının sürücüleri için",
+      "label_before": "Cevap: Müsaade edilen şu toplam ağırlığa sahip kamyon ve araç kombinasyonlarının sürücüleri için",
+      "label_after": "Ton",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: Müsaade edilen şu toplam ağırlığa sahip kamyon ve araç kombinasyonlarının sürücüleri için 2,80 Ton"
+}

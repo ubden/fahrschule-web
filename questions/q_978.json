@@ -1,0 +1,35 @@
+{
+  "url_id": 978,
+  "type": "image_choice",
+  "question_code": "2.4.42-004",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Bu türdeki trafik işaretleri, neye işaret eder?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-42-004.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 979,
+  "prev_id": 976,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bir Avrupa karayolu numarasına",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Bir otoyolun (otobanın) numarasına",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "En yakın akaryakıt istasyonuna olan mesafeye",
+      "is_correct": false
+    }
+  ]
+}

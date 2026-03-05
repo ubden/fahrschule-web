@@ -1,0 +1,35 @@
+{
+  "url_id": 1607,
+  "type": "image_choice",
+  "question_code": "1.1.07-103-M",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Yolun ardında neye hazırlıklı olmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-103-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 102,
+  "prev_id": 96,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Benim şeridimde yavaş gitmekte olan bir araç bulunabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Orada bir araç duruyor olabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Karşıdan benim şeridimi kullanmakta olan bir araç geliyor olabilir",
+      "is_correct": true
+    }
+  ]
+}

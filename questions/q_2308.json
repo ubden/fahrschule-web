@@ -1,0 +1,33 @@
+{
+  "url_id": 2308,
+  "type": "choice",
+  "question_code": "2.7.05-218",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "İki dingilli motorlu taşıtınızın ön sağ tekerleğini değiştirmeniz gerekiyor. Aracınızın istem dışı kaçmasını önlemek için aracınızı bir takozla güvenceye alıyorsunuz. Bu sırada neye dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2309,
+  "prev_id": 2163,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracı mümkün mertebe sağlam bir zeminde emniyete alırım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Arka dingildeki bir tekerleği güvenceye alırım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Ön dingildeki hasar görmemiş tekerleği güvenceye alırım",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2303,
+  "type": "choice",
+  "question_code": "2.7.01-135",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Salt elektrikli bir araçla uzun bir yolculuğa çıkmayı planlıyorsunuz. Neye dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2304,
+  "prev_id": 2302,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Elektrikli şarj istasyonlarının bulunup bulunmadığına",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Akünün şarj süresine",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sıra dışı dış sıcaklıkların gidilebilen mesafe üzerindeki etkisine",
+      "is_correct": true
+    }
+  ]
+}

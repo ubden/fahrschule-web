@@ -1,0 +1,33 @@
+{
+  "url_id": 201,
+  "type": "choice",
+  "question_code": "1.2.10-005",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Kaldırım kenarı alçaltılmış bir yoldan gelip diğer bir yola dönmek istiyorsunuz. Sol taraftan bir otomobil geliyor. Bu durumda hangi kurala uyulur?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3034,
+  "prev_id": 2811,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kaldırım kenarı alçaltılmış bir yoldan gelip diğer bir yola dönmek isteyen araç beklemekle yükümlüdür",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bu durumda \"sağdaki soldakinden önce\" trafik kuralı geçerlidir",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Alçaltılmış kaldırım kenarının bekleme yükümlülüğü açısından önemi yoktur",
+      "is_correct": false
+    }
+  ]
+}

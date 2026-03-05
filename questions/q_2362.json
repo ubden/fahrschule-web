@@ -1,0 +1,33 @@
+{
+  "url_id": 2362,
+  "type": "choice",
+  "question_code": "2.7.02-127",
+  "points": 2,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Duruş esnasında aracın direksiyonunu çevirmeniz nasıl bir etkiye yol açar?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2618,
+  "prev_id": 1345,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Ön dingilin mekaniğinde çok fazla yüklenme olur",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Lastiklerin yerle temas eden yüzeyinde hasarlar meydana gelir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Direksiyon daha kolay kavranabiliyor",
+      "is_correct": false
+    }
+  ]
+}

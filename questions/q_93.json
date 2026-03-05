@@ -1,0 +1,33 @@
+{
+  "url_id": 93,
+  "type": "choice",
+  "question_code": "1.1.07-011",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Önünüzde büyük bir biçerdöğer sağa dönmek istemektedir. Doğru olan nedir?",
+  "pretext": "Biçerdöğer,",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 95,
+  "prev_id": 92,
+  "answers": [
+    {
+      "num": 1,
+      "text": "arka tekerlek kumandalı olduğu için, açılma hareketi yapamayacaktır",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "dönüş yapmadan önce çok yavaşlayacaktır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "dönüş manevrasında, oldukça fazla sola doğru açılma hareketi yapacaktır",
+      "is_correct": true
+    }
+  ]
+}

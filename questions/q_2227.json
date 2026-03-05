@@ -1,0 +1,39 @@
+{
+  "url_id": 2227,
+  "type": "video",
+  "question_code": "1.2.06-006",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Burada nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-06-006_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-06-006.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-06-006_anfang.jpg"
+    ]
+  },
+  "next_id": 2524,
+  "prev_id": 170,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Karşıdan kimsenin gelmediğini anladığımda yola devam ederim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Karşıdan gelen muhtemel trafiğe engel olmamak için yoluma devam ederim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Karşıdan gelen muhtemel trafik durmak zorunda olduğundan yoluma devam ederim",
+      "is_correct": false
+    }
+  ]
+}

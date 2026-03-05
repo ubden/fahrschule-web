@@ -1,0 +1,33 @@
+{
+  "url_id": 2902,
+  "type": "choice",
+  "question_code": "2.7.01-162",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Aktif park asistanı park ederken size nasıl destek olablir?",
+  "pretext": "Aktif park asistanı",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2903,
+  "prev_id": 2901,
+  "answers": [
+    {
+      "num": 1,
+      "text": "yeterince büyük park boşluklarını algılar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "park etme sırasında tüm engelleri algılar",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "belirli bir yere park edilmesine izin verilip verilmediğini kontrol eder",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 2863,
+  "type": "image_choice",
+  "question_code": "1.2.37-021",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Trafik ışıkları ve ek işaretlerin bulunduğu bu kavşakta ne geçerlidir?",
+  "pretext": "Bu kavşakta",
+  "media": {
+    "images": [
+      "/media/1-2-37-021.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2982,
+  "prev_id": 2640,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Trafik ışığı \"kırmızı\"yı gösterse bile motorlu araçlar sağa dönebilir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Trafik ışığı \"kırmızı\"yı gösterse bile bisiklet sürücüleri sağa dönebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bisiklet sürücülerinin sağa dönmesi zorunludur",
+      "is_correct": false
+    }
+  ]
+}

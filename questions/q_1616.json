@@ -1,0 +1,35 @@
+{
+  "url_id": 1616,
+  "type": "image_choice",
+  "question_code": "1.3.01-016-M",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Hangi davranış doğrudur?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-3-01-016-M.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1617,
+  "prev_id": 1921,
+  "answers": [
+    {
+      "num": 1,
+      "text": "mavi kamyonun geçmesine izin vermem gerekiyor",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Traktörün sapağa girmesine izin vermem gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Mavi kamyon geçmeme izin vermelidir",
+      "is_correct": false
+    }
+  ]
+}

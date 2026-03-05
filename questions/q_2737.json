@@ -1,0 +1,33 @@
+{
+  "url_id": 2737,
+  "type": "choice",
+  "question_code": "2.7.06-242",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Bir motorlu araçta acil fren asistanı hangi nedenden ötürü kendini otomatik olarak devre dışı bırakabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3081,
+  "prev_id": 2628,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Radar sensörünün işlevi kar nedeniyle sekteye uğradığında",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bir kaza nedeniyle sensörlerin pozisyonu değiştiğinde",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Adaptif hız sabitleyici (AGR) açık olduğunda",
+      "is_correct": false
+    }
+  ]
+}

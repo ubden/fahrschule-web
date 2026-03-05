@@ -1,0 +1,33 @@
+{
+  "url_id": 47,
+  "type": "choice",
+  "question_code": "1.1.03-003",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Araç yolunun özellikle buz tutabileceğini düşünmeniz gereken yerler neresidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2219,
+  "prev_id": 45,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Köprülerde",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Ormanlardan geçen yollarda",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Trafiğin yoğun olduğu yollarda",
+      "is_correct": false
+    }
+  ]
+}

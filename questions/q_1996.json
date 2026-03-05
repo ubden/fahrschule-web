@@ -1,0 +1,33 @@
+{
+  "url_id": 1996,
+  "type": "choice",
+  "question_code": "1.5.01-118",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Düşük sürtünmeli yağların kullanımı neden avantajlıdır?",
+  "pretext": "Çünkü bu yağlar",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1999,
+  "prev_id": 1599,
+  "answers": [
+    {
+      "num": 1,
+      "text": "yakıt sarfiyatını azaltır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "motorda daha az sürtünmeye neden olur",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "ev çöpleriyle birlikte bertaraf edilebilir",
+      "is_correct": false
+    }
+  ]
+}

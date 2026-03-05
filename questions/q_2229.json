@@ -1,0 +1,35 @@
+{
+  "url_id": 2229,
+  "type": "image_choice",
+  "question_code": "1.2.26-008-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda hangisi geçerlidir?",
+  "pretext": "Burada bisikletliyi",
+  "media": {
+    "images": [
+      "/media/1-2-26-008-VS-1.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2537,
+  "prev_id": 1966,
+  "answers": [
+    {
+      "num": 1,
+      "text": "sollayamam",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "sadece orta hızda sollayabilirim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "sollayabilirim, çünkü karşıdan gelen bir trafik gözükmüyor",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2366,
+  "type": "choice",
+  "question_code": "2.7.03-213",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Diferansiyel kilidi, aracınıza zarar vermeyecek şekilde ne zaman devreye sokabilirsiniz?",
+  "pretext": "Eğer motorlu aracım,",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2423,
+  "prev_id": 2365,
+  "answers": [
+    {
+      "num": 1,
+      "text": "duruyorsa",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "bir viraja dışa doğru giriyorsa",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "adım hızıyla sürüyorsa",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 563,
+  "type": "choice",
+  "question_code": "2.1.03-025",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Araç yolunun aniden kötüleşmesi, hangi sonuçlara yol açabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1968,
+  "prev_id": 554,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Savrulma ve kayma tehlikesine",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Lastik seslerinin değişmesine",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Reaksiyon mesafesinin daha da uzamasına",
+      "is_correct": false
+    }
+  ]
+}

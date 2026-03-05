@@ -1,0 +1,33 @@
+{
+  "url_id": 2521,
+  "type": "choice",
+  "question_code": "1.1.09-031",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Esrar ürünü kullanımının sürücü üzerinde nasıl bir etkisi olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2860,
+  "prev_id": 2520,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Şöförün konsantrasyonunda azalma olur",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Göz kamaşma hassasiyetinde azalma olur",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Trafik durumuna olan dikkatte azalma olur",
+      "is_correct": true
+    }
+  ]
+}

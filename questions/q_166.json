@@ -1,0 +1,33 @@
+{
+  "url_id": 166,
+  "type": "choice",
+  "question_code": "1.2.05-108",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Hangi durumlarda bir tramvayı sol tarafından geçmenize izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 167,
+  "prev_id": 165,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Tek yönlü yollarda",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Tramvayın sağındaki araç yolunun (tek yönlü yol değil) diğer araçlar tarafından kapatılmış olması halinde",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Raylar yolun çok sağında ise",
+      "is_correct": true
+    }
+  ]
+}

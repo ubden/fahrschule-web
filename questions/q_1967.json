@@ -1,0 +1,39 @@
+{
+  "url_id": 1967,
+  "type": "video",
+  "question_code": "2.1.02-003",
+  "points": 4,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Neden fren yapmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-02-003_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-02-003.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-02-003_anfang.jpg"
+    ]
+  },
+  "next_id": 2763,
+  "prev_id": 1797,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çünkü tramvaydan inenler var",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Çünkü ağır vasıta şerit değiştiriyor",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Çünkü yolda yürüyen birisi var",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "url_id": 2508,
+  "type": "number",
+  "question_code": "2.2.30-202",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Tatil Seyahat Yönetmeliğinin sürüş yasağı ne zaman geçerlidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2509,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap: Temmuz ve Ağustos aylarının tüm Cumartesi günlerinde",
+      "label_before": "Cevap: Temmuz ve Ağustos aylarının tüm Cumartesi günlerinde",
+      "label_after": "ile",
+      "placeholder": null,
+      "unit": null
+    },
+    {
+      "label": "ile",
+      "label_before": "ile",
+      "label_after": "arası",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: Temmuz ve Ağustos aylarının tüm Cumartesi günlerinde 7 ile 20 arası"
+}

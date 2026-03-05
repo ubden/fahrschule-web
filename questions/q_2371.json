@@ -1,0 +1,35 @@
+{
+  "url_id": 2371,
+  "type": "image_choice",
+  "question_code": "2.7.05-220",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Yandaki tekerlek tanımında yer alan \"L\" işareti ne anlama geliyor: 315/80 R 22.5 156/150 L?",
+  "pretext": "Bu işaret",
+  "media": {
+    "images": [
+      "/media/2-7-05-220.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2372,
+  "prev_id": 2309,
+  "answers": [
+    {
+      "num": 1,
+      "text": "tekerleğin müsaade edilen azami hızı hakkında bilgi veriyor",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "tekerleğin taşıma kapasitesi hakkında bilgi veriyor",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "tekerlekteki hava basıncı toleransı hakkında bilgi veriyor",
+      "is_correct": false
+    }
+  ]
+}

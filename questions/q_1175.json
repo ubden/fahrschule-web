@@ -1,0 +1,33 @@
+{
+  "url_id": 1175,
+  "type": "choice",
+  "question_code": "2.6.07-216",
+  "points": 4,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Uzun bir mesafede canlı hayvan nakliyatı yapmak istiyorsunuz. Güzergâhınızı planlarken, hangi hususları dikkate almak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1177,
+  "prev_id": 1173,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Akaryakıt ikmali ve dinlenme molaları vermek zorunda olduğunuzu",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yükünüzün kontrol ve bakımını yapmak zorunda olduğunuzu",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Hayvanları Koruma ve Taşıma Yönetmeliği’nin hükümlerini",
+      "is_correct": true
+    }
+  ]
+}

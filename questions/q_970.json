@@ -1,0 +1,35 @@
+{
+  "url_id": 970,
+  "type": "image_choice",
+  "question_code": "2.4.41-107",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Hangi araçlarla, bu şekilde işaretlenmiş caddeye girmeniz yasaktır?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-41-107.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2776,
+  "prev_id": 969,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yükü ile birlikte 9 metre uzunluğunda olan kamyonlar",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Karavan takılı otomobil, katarın toplam uzunluğu 11 metre",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Römork takılı traktör, katarın toplam uzunluğu 12 metre",
+      "is_correct": true
+    }
+  ]
+}

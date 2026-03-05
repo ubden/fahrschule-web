@@ -1,0 +1,33 @@
+{
+  "url_id": 1888,
+  "type": "choice",
+  "question_code": "2.6.02-027",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Ruhsat gerektiren bir araç kullanırken üzerinizde hangi belgeleri bulundurmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1936,
+  "prev_id": 2293,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araç ruhsatı (Fahrzeugschein)",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sürücü belgesi",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Motorlu araç sahiplik belgesi (Fahrzeugbrief)",
+      "is_correct": false
+    }
+  ]
+}

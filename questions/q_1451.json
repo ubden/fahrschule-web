@@ -1,0 +1,33 @@
+{
+  "url_id": 1451,
+  "type": "choice",
+  "question_code": "2.7.07-209",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Çok dingilli bir römorku, otomatik etki gösteren römork kavramasına bağladıktan sonra, neleri kontrol etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1453,
+  "prev_id": 1450,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kavrama cıvatasının bütünü ile yerine oturmuş olmasını",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Römork çekme çatalının eğim açısını",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Kontrol piminin hangi konumda olduğunu",
+      "is_correct": true
+    }
+  ]
+}

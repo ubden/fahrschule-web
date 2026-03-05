@@ -1,0 +1,33 @@
+{
+  "url_id": 2940,
+  "type": "choice",
+  "question_code": "2.1.08-103",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Bir otoyolda, belirtilen gidiş yönünün tersine araç kullanmanın tehlikesini nasıl azaltabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 624,
+  "prev_id": 2874,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Doğru sürüş yönü için özellikle otoyol girişlerinde doğru trafik işaretlerine bakıyorum",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yol çalışması olduğunda sadece navigasyon sisteminin sağladığı bilgileri takip ediyorum",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Trafik yönü değiştiğinde işaretlere tamamen dikkat ederim",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1372,
+  "type": "choice",
+  "question_code": "2.7.03-205",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Motorun soğutma devresindeki soğutucu termostatın görevi nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1373,
+  "prev_id": 1370,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Motorun işletme derecesini ayarlamak",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Motorun işletme derecesini göstermek",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Radyatördeki soğutma sıvısının seviyesini göstermek",
+      "is_correct": false
+    }
+  ]
+}

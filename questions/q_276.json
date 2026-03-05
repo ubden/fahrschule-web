@@ -1,0 +1,33 @@
+{
+  "url_id": 276,
+  "type": "choice",
+  "question_code": "1.2.26-005",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Zebra çizgilerinin hemen önünde ve üzerinde hangi kurallar geçerlidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1966,
+  "prev_id": 2266,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sollama yapılması yasaktır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Duraklamak yasaktır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Park edilmesi yasaktır",
+      "is_correct": true
+    }
+  ]
+}

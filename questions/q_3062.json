@@ -1,0 +1,33 @@
+{
+  "url_id": 3062,
+  "type": "choice",
+  "question_code": "2.2.30-204",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Ticari amaçlarla veya ücret karşılığında mal taşımak istiyorsunuz. Tatil Seyahati Yönetmeliği hangi motorlu araç veya araç kombinasyonu için geçerlidir?",
+  "pretext": "Şu kamyonlar için",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 939,
+  "prev_id": 2509,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Römork çeken",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Toplam ağırlığı 7,5 tonun üzerinde olan",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Toplam ağırlığı 7,5 tona kadar olan",
+      "is_correct": false
+    }
+  ]
+}

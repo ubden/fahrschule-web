@@ -1,0 +1,33 @@
+{
+  "url_id": 2769,
+  "type": "choice",
+  "question_code": "2.1.08-031",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Otoyollarda neden önerilen 130 km/sa hız sınırına uymalısınız?",
+  "pretext": "Çünkü bu şekilde",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2873,
+  "prev_id": 2713,
+  "answers": [
+    {
+      "num": 1,
+      "text": "olası kazaların şiddeti azaltılabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "trafik kazaları önlenebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "eşit bir trafik akışına ulaşılması sağlanabilir",
+      "is_correct": true
+    }
+  ]
+}

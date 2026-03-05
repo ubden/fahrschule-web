@@ -1,0 +1,33 @@
+{
+  "url_id": 1090,
+  "type": "choice",
+  "question_code": "2.6.03-301",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "İzin verilmiş toplam kütlesi 10 ton olan bir kamyon tarafından çekilen römork, boydan boya fren tertibatının mevcut olması halinde, azami ne kadar ağır olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1091,
+  "prev_id": 3071,
+  "answers": [
+    {
+      "num": 1,
+      "text": "15 ton",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "20 ton",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "10 ton",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2343,
+  "type": "choice",
+  "question_code": "2.2.23-054",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Ruhsatlı bir aracın yeni sahibisiniz. Ne yapmanız gerekir?",
+  "pretext": "Yapmam gereken",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2952,
+  "prev_id": 2342,
+  "answers": [
+    {
+      "num": 1,
+      "text": "izin veren makama araca ilişkin mali sorumluluk sigortasının varlığına dair bir belge sunmam gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "araç sahibi değişikliği hususundaki yetkili ruhsat dairesini bilgilendirmem gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "araç sahibi değiştiğinde genel anlamda bir ana muayene yaptırılmalıdır",
+      "is_correct": false
+    }
+  ]
+}

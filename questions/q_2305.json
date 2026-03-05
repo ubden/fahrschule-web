@@ -1,0 +1,33 @@
+{
+  "url_id": 2305,
+  "type": "choice",
+  "question_code": "2.7.01-137",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Salt elektrikli araçları içten yanmalı motorlu araçlardan ayıran şey nedir?",
+  "pretext": "Salt elektrikli araçlarda",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2306,
+  "prev_id": 2304,
+  "answers": [
+    {
+      "num": 1,
+      "text": "hava direnci daha düşüktür",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "doğrudan zararlı madde salınımı yoktur",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "motor gürültüsü daha düşüktür",
+      "is_correct": true
+    }
+  ]
+}

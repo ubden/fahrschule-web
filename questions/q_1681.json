@@ -1,0 +1,33 @@
+{
+  "url_id": 1681,
+  "type": "choice",
+  "question_code": "1.1.07-141",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bisiklet kullandığınızda neden özellikle tehlike altındasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1682,
+  "prev_id": 1679,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kazalarda yaralanma riskim yüksektir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hızım hafife alınabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kolaylıkla gözden kaçabilirim",
+      "is_correct": true
+    }
+  ]
+}

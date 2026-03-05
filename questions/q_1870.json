@@ -1,0 +1,33 @@
+{
+  "url_id": 1870,
+  "type": "choice",
+  "question_code": "2.2.23-046",
+  "points": 4,
+  "category": "Klasse C",
+  "question_text": "\"Kör açı\" terimiyle ilgili olarak hangi ifadeler doğrudur?",
+  "pretext": "\"Kör açı\" aracın etrafındaki bir alandır ve",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2003,
+  "prev_id": 905,
+  "answers": [
+    {
+      "num": 1,
+      "text": "özellikle de bisikletliler için tehlikelidir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "aynalardan da görülemez",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "dönüş çapı nedeniyle bu alana girilemez",
+      "is_correct": false
+    }
+  ]
+}

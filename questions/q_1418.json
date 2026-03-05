@@ -1,0 +1,33 @@
+{
+  "url_id": 1418,
+  "type": "choice",
+  "question_code": "2.7.06-214",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Yayla itilen fren tertibatı nasıl çalışır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1419,
+  "prev_id": 1417,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araç dururken, fren pedalını işletmek sureti ile yayla itilen fren silindirine basınçlı hava girer. Bu esnada basınçlı hava, frenlemeyi sağlar",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "El freni supapını işletirken yayla itilen fren silindirine basınçlı hava girer. Bu esnada basınçlı hava, frenlemeyi sağlar",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "El freni supapını işletirken yayla itilen fren silindirinin havası boşalır. Bu esnada yay gücü, frenlemeyi sağlar",
+      "is_correct": true
+    }
+  ]
+}

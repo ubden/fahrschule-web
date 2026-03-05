@@ -1,0 +1,33 @@
+{
+  "url_id": 2310,
+  "type": "choice",
+  "question_code": "2.7.06-110",
+  "points": 2,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Hız sabitleyiciyi çok geç kapatmanız neye neden olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2311,
+  "prev_id": 2165,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Öndeki araca fazla yaklaşmaya",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Viraja giriş hızının yüksek olmasına",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "İzin verilen azami hızın aşılmasına",
+      "is_correct": true
+    }
+  ]
+}

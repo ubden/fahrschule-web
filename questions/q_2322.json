@@ -1,0 +1,33 @@
+{
+  "url_id": 2322,
+  "type": "choice",
+  "question_code": "1.2.04-104",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Önden giden araca yeterli bir mesafenin korunmasının ne gibi faydaları olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2741,
+  "prev_id": 2017,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kaza riskini azaltmak için",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "İhtiyatlı sürüş için",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Görüş mesafesinin kısalışı için",
+      "is_correct": false
+    }
+  ]
+}

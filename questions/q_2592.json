@@ -1,0 +1,33 @@
+{
+  "url_id": 2592,
+  "type": "choice",
+  "question_code": "2.2.22-219",
+  "points": 3,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Aracınızın yükü, yük dağıtım planına uygunluk göstermiyorsa hangi sonuç doğabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2593,
+  "prev_id": 2591,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Lastiklerde hasar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Frenleme davranışı üzerinde olumsuz bir etki",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yönlendirme yeteneği üzerinde bir etki",
+      "is_correct": true
+    }
+  ]
+}

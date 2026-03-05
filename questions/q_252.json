@@ -1,0 +1,35 @@
+{
+  "url_id": 252,
+  "type": "image_choice",
+  "question_code": "1.2.19-109",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretinin anlamı nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-19-109.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 253,
+  "prev_id": 250,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Herhangi bir ray aracının yaklaşması halinde, daima beklemek zorunda olduğunuzu gösterir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Elektrikli havai hatların (katenerlerin) bulunduğuna işaret eder",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Ray araçlarının daima öncelikli olduğunu gösterir",
+      "is_correct": true
+    }
+  ]
+}

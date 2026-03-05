@@ -1,0 +1,35 @@
+{
+  "url_id": 1678,
+  "type": "image_choice",
+  "question_code": "1.1.07-138",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Neye hazır olmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-138.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1679,
+  "prev_id": 1677,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Ticari aracın yanındaki kişi yola çıkabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Motosikletli sola doğru yoldan çıkabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yayalar ticari aracın önünden karşıya geçebilirler",
+      "is_correct": true
+    }
+  ]
+}

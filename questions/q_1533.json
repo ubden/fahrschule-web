@@ -1,0 +1,33 @@
+{
+  "url_id": 1533,
+  "type": "choice",
+  "question_code": "1.1.01-110",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Sürüş esnasındaki yorgunluk, hangi sonuçlara yol açar?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1565,
+  "prev_id": 1532,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Algılama yeteneğinin kısıtlanmasına",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Dikkat yeteneğinin azalmasına",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Reaksiyonların gecikmesine",
+      "is_correct": true
+    }
+  ]
+}

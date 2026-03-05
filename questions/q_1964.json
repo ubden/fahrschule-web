@@ -1,0 +1,39 @@
+{
+  "url_id": 1964,
+  "type": "video",
+  "question_code": "1.2.09-126",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Burada doğru davranış nedir?",
+  "pretext": "Mopeti",
+  "media": {
+    "images": [
+      "/media/1-2-09-126_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-09-126.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-09-126_anfang.jpg"
+    ]
+  },
+  "next_id": 2018,
+  "prev_id": 1963,
+  "answers": [
+    {
+      "num": 1,
+      "text": "yan tarafta yeterli mesafe bırakarak sollayabilirim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "demiryolu geçidinden önce sollayamam",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "bisikletli uzaklaştığında demiryolu geçidinden önce sollayabilirim",
+      "is_correct": false
+    }
+  ]
+}

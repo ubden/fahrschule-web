@@ -1,0 +1,27 @@
+{
+  "url_id": 710,
+  "type": "number",
+  "question_code": "2.2.07-002",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Hangi araçlar için yerleşim yerleri dahilinde şerit seçmek serbesttir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2996,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap: İzin verilmiş toplam kütlesi",
+      "label_before": "Cevap: İzin verilmiş toplam kütlesi",
+      "label_after": "tona kadar olan bütün motorlu araçlar için",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: İzin verilmiş toplam kütlesi 3,50 tona kadar olan bütün motorlu araçlar için"
+}

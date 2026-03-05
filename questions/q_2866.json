@@ -1,0 +1,39 @@
+{
+  "url_id": 2866,
+  "type": "video",
+  "question_code": "1.4.42-010-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Şerit işaretlemesi nedeniyle bu durumda ne geçerlidir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-42-010-VS-1_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-4-42-010-VS-1.mp4"
+    ],
+    "video_posters": [
+      "/media/1-4-42-010-VS-1_anfang.jpg"
+    ]
+  },
+  "next_id": 3094,
+  "prev_id": 2865,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Mavi arabaya geçiş hakkı vermeliyim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Kavşağa dikkatlice yaklaşmalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Şerit işaretinin önünde durmalıyım",
+      "is_correct": false
+    }
+  ]
+}

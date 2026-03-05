@@ -1,0 +1,35 @@
+{
+  "url_id": 2715,
+  "type": "image_choice",
+  "question_code": "2.2.02-101-M",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Bu tek yönlü yolda şimdi nasıl doğru davranırısnız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-02-101-VS-1.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2826,
+  "prev_id": 652,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İşler, yola devam etmemi sağlayana dek beklerim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Geri geri giderim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Dönerim ve geriye giderim",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "url_id": 1020,
+  "type": "choice",
+  "question_code": "2.6.01-106",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Ruhsatlı karavan römorkunuzu kış sezonu boyunca bir kamping yerinde bıraktınız. Bu karavanın esas kontrolü hakkında hangi kural geçerlidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2630,
+  "prev_id": 2292,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kontrol plaketinde belirtilen kontrole tabi tutma tarihi, aracın kullanılmadan durduğu süre kadar ertelenir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Kontrol plaketinde belirtilen kontrole tabi tutma tarihine uyulması gerekmektedir",
+      "is_correct": true
+    }
+  ]
+}

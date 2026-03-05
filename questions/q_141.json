@@ -1,0 +1,33 @@
+{
+  "url_id": 141,
+  "type": "choice",
+  "question_code": "1.1.09-019",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Esrar tüketiminin yol açabileceği sonuçlar nelerdir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1538,
+  "prev_id": 140,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Taşıt hızı ve mesafeler ile ilgili yanlış tahminlere yol açabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Tehlike bilinci azalabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Algılanan bilgilerin değerlendirilmesinde ortaya çıkan hatalar çoğalabilir",
+      "is_correct": true
+    }
+  ]
+}

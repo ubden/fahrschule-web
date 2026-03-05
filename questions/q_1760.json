@@ -1,0 +1,35 @@
+{
+  "url_id": 1760,
+  "type": "image_choice",
+  "question_code": "1.3.01-116",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Hangi davranış doğrudur?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-3-01-116.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1761,
+  "prev_id": 1758,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Mavi renkli ağır vasıta ilk olarak gidebilir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Bisikletlinin sapmasına izin vermeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bisikletliden önce sapabilirim",
+      "is_correct": false
+    }
+  ]
+}

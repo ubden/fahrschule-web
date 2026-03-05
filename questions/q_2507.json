@@ -1,0 +1,27 @@
+{
+  "url_id": 2507,
+  "type": "number",
+  "question_code": "1.2.02-111",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Otoyolu (otobanı) kullanmak istiyorsunuz. Bunun için Araç Tescil Belgesi Kısım 1 veya Ruhsatname'ye aracın yapısı itibariyle işlenmesi gereken azami hız ne kadardır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 148,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap: Bundan daha fazla",
+      "label_before": "Cevap: Bundan daha fazla",
+      "label_after": "km/sa",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: Bundan daha fazla 60 km/sa"
+}

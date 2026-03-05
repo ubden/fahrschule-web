@@ -1,0 +1,33 @@
+{
+  "url_id": 2885,
+  "type": "choice",
+  "question_code": "2.2.21-126",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Sürüşe başlamadan önce neleri kontrol etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2886,
+  "prev_id": 2884,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Ruhsattın II. bölümünü yanımda taşıdığımı",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Yeterli trafik gözlemi sağlayıp sağlayamayacağımı",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Her bir yolcunun emniyet kemeri takıp takmadığını",
+      "is_correct": true
+    }
+  ]
+}

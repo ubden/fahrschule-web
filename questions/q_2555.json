@@ -1,0 +1,33 @@
+{
+  "url_id": 2555,
+  "type": "choice",
+  "question_code": "1.5.01-127",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Manuel şanzımanlı bir motorlu taşıt kullanıyorsunuz. Aracınızın yakıt tüketimini nasıl azaltabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2556,
+  "prev_id": 2554,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Erken zamanda bir üst vitese takarak",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sıkça hız değişimlerini önlemek amacıyla, öngörülü şekilde sürüş yaparak",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yüksek motor devir sayısında sürerek",
+      "is_correct": false
+    }
+  ]
+}

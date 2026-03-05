@@ -1,0 +1,33 @@
+{
+  "url_id": 2787,
+  "type": "choice",
+  "question_code": "2.7.01-155",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Sürüş sırasında aracınızda Şeritten Ayrılma Uyarı Sistemi kullanıyorsunuz. Şeritten ayrıldığınızda sistem tepki vermiyor. Bunun nedeni ne olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2788,
+  "prev_id": 2786,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yetersiz yol ışıklandırması",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Eksik şerit işaretleri",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Şiddetli yağmur",
+      "is_correct": true
+    }
+  ]
+}

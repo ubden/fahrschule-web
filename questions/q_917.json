@@ -1,0 +1,33 @@
+{
+  "url_id": 917,
+  "type": "choice",
+  "question_code": "2.2.23-201",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "İki dingilli bir kamyon, çok dik bir yerde aşağıya doğru kendiliğinden harekete geçmemesi için nasıl emniyete alınır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2347,
+  "prev_id": 3060,
+  "answers": [
+    {
+      "num": 1,
+      "text": "El freni çekilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Arka tekerleklerin birinin altına takoz konulur",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Geciktirici fren çalıştırılır",
+      "is_correct": false
+    }
+  ]
+}

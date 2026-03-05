@@ -1,0 +1,35 @@
+{
+  "url_id": 2207,
+  "type": "image_choice",
+  "question_code": "2.6.05-226",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Bu takografla (kontrol cihazı) ne kaydedilir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-6-05-226.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2208,
+  "prev_id": 1138,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Taşıtın kullanıldığı hız",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yakıt sarfiyatı",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sürüş süresi",
+      "is_correct": true
+    }
+  ]
+}

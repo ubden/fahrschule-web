@@ -1,0 +1,33 @@
+{
+  "url_id": 96,
+  "type": "choice",
+  "question_code": "1.1.07-101",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Arkaya doğru sarkan gereç takılı bir tarımsal traktörü geçmek istiyorsunuz. Neye dikkat etmeniz gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1607,
+  "prev_id": 2803,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Traktörler, düşük sürate sahip oldukları için, daima tehlike oluşmadan geçilebilir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Arka lambalar kirlenmiş veya örtülmüş olabileceğinden, yanan sinyal lambaları kötü farkedilir veya hiç farkedilmez",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Dönüş yaparken gereç sağa-sola sarkabilir",
+      "is_correct": true
+    }
+  ]
+}

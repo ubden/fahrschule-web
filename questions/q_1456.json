@@ -1,0 +1,33 @@
+{
+  "url_id": 1456,
+  "type": "choice",
+  "question_code": "2.7.07-305",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Yarı römorku çekiciden ayırmadan önce, neleri yapmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1457,
+  "prev_id": 1455,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çekici araç ile yarı römork arasındaki bütün hortum ve kablo bağlantılarını ayırmak",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yarı römorkun tekerleklerini tesbit edip, destek tertibatını dışarı sürmek",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kavrama kilidini emniyetten çıkarmak ve yarı römork kavramasının kilidini açmak",
+      "is_correct": true
+    }
+  ]
+}

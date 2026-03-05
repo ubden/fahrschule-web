@@ -1,0 +1,35 @@
+{
+  "url_id": 88,
+  "type": "image_choice",
+  "question_code": "1.1.07-006-B",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Burada, neden özellikle dikkatli olmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-006-B.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 91,
+  "prev_id": 84,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çünkü, fren esnasında kayma tehlikesi daha yüksektir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Çünkü, sağ taraftan taşıt gelebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çünkü, soldan gelmekte olan araç, geçiş önceliğine sahiptir",
+      "is_correct": false
+    }
+  ]
+}

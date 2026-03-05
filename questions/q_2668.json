@@ -1,0 +1,33 @@
+{
+  "url_id": 2668,
+  "type": "choice",
+  "question_code": "2.5.01-124",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Araba sürerken çok yüksek sesli müzik dinlemenin ne etkisi olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2669,
+  "prev_id": 2667,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Diğer yol kullanıcıları taciz edilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Trafikteki diğer araçlardan gelen sinyaller algılanmaz",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sürücünün tepki yeteneği artar",
+      "is_correct": false
+    }
+  ]
+}

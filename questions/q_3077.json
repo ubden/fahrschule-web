@@ -1,0 +1,33 @@
+{
+  "url_id": 3077,
+  "type": "choice",
+  "question_code": "2.7.01-260",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Ağır yüklü bir kamyonla dar bir virajda giderken ne beklenmeli?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2361,
+  "prev_id": 2845,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kamyon viraj boyunca daha stabil gider",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Hız çok yüksekse kamyon devrilebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yeterince emniyete alınmamış yükler kayabilir",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1475,
+  "type": "choice",
+  "question_code": "2.7.08-203",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Soğuk mevsimin başlamasından önce, aracınızı neden kontrol etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1476,
+  "prev_id": 1474,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Cam silecekleri tertibatı donmuş olabileceğinden",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Motorun soğutma suyu tertibatı donmuş olabileceğinden",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Akünün devre dışı kalması söz konusu olabileceğinden",
+      "is_correct": true
+    }
+  ]
+}

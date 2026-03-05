@@ -1,0 +1,39 @@
+{
+  "url_id": 2168,
+  "type": "video",
+  "question_code": "1.1.02-050-M",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Burada neden yavaş ve fren yapmaya hazır halde sürmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-02-050-VS-1_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-1-02-050-VS-1.mp4"
+    ],
+    "video_posters": [
+      "/media/1-1-02-050-VS-1_anfang.jpg"
+    ]
+  },
+  "next_id": 2799,
+  "prev_id": 2452,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çünkü yolda bir çocuk duruyor",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Çünkü trafiğin durumunu öngörmek mümkün değil",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çünkü kırmızı renkli ticari araç hareket ediyor",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2369,
+  "type": "choice",
+  "question_code": "2.7.05-101",
+  "points": 2,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Kriko ile tekerlek değiştirirken nelere dikkat etmek gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2370,
+  "prev_id": 2910,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Zemin daima sağlam ve kaymaya karşı dirençli olmalı",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kriko daima aracın uzunlamasına olan tarafın orta kısmında yer alır",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Krikolar sadece araç üreticisi tarafından belirlenmiş olan noktalarda uygulanabilir",
+      "is_correct": true
+    }
+  ]
+}

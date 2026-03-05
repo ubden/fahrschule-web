@@ -1,0 +1,27 @@
+{
+  "url_id": 2850,
+  "type": "number",
+  "question_code": "1.2.12-133",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Şimdi yolun sağ kenarında bir park imkanı arıyorsunuz. Yolun sağında bir bisiklet yolu var. Bir kavşağın veya yol ağzının kaç metre önüne park etmenize izin verilmiyor?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2534,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "m",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 8 m"
+}

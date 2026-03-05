@@ -1,0 +1,33 @@
+{
+  "url_id": 2683,
+  "type": "choice",
+  "question_code": "2.7.02-130",
+  "points": 2,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Aracınızın direksiyonu her zamankinden oldukça zor çevriliyor. Nasıl doğru davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2684,
+  "prev_id": 2682,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sonraki yolculuklarda özellikle direksiyonun bu davranışına dikkat ederim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Ön akstaki lastik basıncını düşürürüm",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Aracı ivedilikle bir tamirhanede kontrol ettiririm",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 2527,
+  "type": "image_choice",
+  "question_code": "1.2.09-019-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Sola sapmak istiyorsunuz. Hangi şeritte yer almanız gerekiyor?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-09-019-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2917,
+  "prev_id": 2526,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Her iki sürüş hattı da mümkündür",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Soldaki sürüş hattı",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sağdaki sürüş hattı",
+      "is_correct": true
+    }
+  ]
+}

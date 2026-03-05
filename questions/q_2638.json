@@ -1,0 +1,35 @@
+{
+  "url_id": 2638,
+  "type": "image_choice",
+  "question_code": "1.2.05-125-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda bisiklet sürücülerini sollarken nelere dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-05-125-M.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2809,
+  "prev_id": 2523,
+  "answers": [
+    {
+      "num": 1,
+      "text": "En az 1,5 m kenar mesafesi bırakarak sollamalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "En az 1,0 m kenar mesafesi bırakarak sollamalıyım",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Bisiklet sürücüleri yolun eğimi nedeniyle yalpalar",
+      "is_correct": true
+    }
+  ]
+}

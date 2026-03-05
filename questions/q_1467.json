@@ -1,0 +1,33 @@
+{
+  "url_id": 1467,
+  "type": "choice",
+  "question_code": "2.7.07-317",
+  "points": 4,
+  "category": "Klasse CE",
+  "question_text": "Römork kavramasının çekme çubuğunda, uzunlamasına doğru boşluk payı bulunmasının sonuçları ne olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1469,
+  "prev_id": 1465,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Arka dingildeki amortisörlere fazla yüklenim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Römork kavramasının kopması",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Römork kavramasının takıldığı çapraz traverste çatlak oluşumu",
+      "is_correct": true
+    }
+  ]
+}

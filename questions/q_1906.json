@@ -1,0 +1,33 @@
+{
+  "url_id": 1906,
+  "type": "choice",
+  "question_code": "2.6.06-407",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "İş amaçlı mal taşımacılığında motorlu taşıtlar veya araç kombinasyonları için Karayolları Mal Taşımacılığı Kanunu (Güterkraftverkehrsgesetz) hükümlerinin geçerli olması için izin verilen toplam ağırlık en az ne olmalıdır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2155,
+  "prev_id": 2960,
+  "answers": [
+    {
+      "num": 1,
+      "text": "3,0 tondan itibaren",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "3,5 tonun üzerinde",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "2,8 tondan itibaren",
+      "is_correct": false
+    }
+  ]
+}

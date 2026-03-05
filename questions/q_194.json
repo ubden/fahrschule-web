@@ -1,0 +1,35 @@
+{
+  "url_id": 194,
+  "type": "image_choice",
+  "question_code": "1.2.09-107-B",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Burada kim yön değiştireceğini bildirmek zorundadır?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-09-107-B.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 196,
+  "prev_id": 191,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Ben",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Motosiklet",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Hiç kimse",
+      "is_correct": false
+    }
+  ]
+}

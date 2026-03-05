@@ -1,0 +1,33 @@
+{
+  "url_id": 2,
+  "type": "choice",
+  "question_code": "1.1.01-002",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Arkadaki taşıdın öndeki taşıda çarpması suretiyle kaza yapmasının nedenleri neler olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2110,
+  "prev_id": 1,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Beklenmedik sıkı fren yapılması",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Dikkatsizlik",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Öndeki araca çok yaklaşmak",
+      "is_correct": true
+    }
+  ]
+}

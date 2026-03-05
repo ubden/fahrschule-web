@@ -1,0 +1,33 @@
+{
+  "url_id": 156,
+  "type": "choice",
+  "question_code": "1.2.04-101",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Öndeki araca olan mesafe neye bağlıdır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2017,
+  "prev_id": 2978,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yolun durumuna",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Görüş koşullarına",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Aracınızın hızına",
+      "is_correct": true
+    }
+  ]
+}

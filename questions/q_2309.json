@@ -1,0 +1,33 @@
+{
+  "url_id": 2309,
+  "type": "choice",
+  "question_code": "2.7.05-219",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Üç dingilli motorlu taşıtınızın ön sağ tekerleğini düz bir zeminde değiştirmek zorundasınız. Bu sırada neye dikkat etmelisiniz?",
+  "pretext": "Aracı mümkün mertebe sağlam bir zeminde",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2371,
+  "prev_id": 2308,
+  "answers": [
+    {
+      "num": 1,
+      "text": "ön dingildeki hasar görmemiş tekerlekte iki takozla güvenceye alırım",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "arka dingildeki bir tekerlekte iki takozla güvenceye alırım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "arka dingildeki iki tekerlekte birer takozla güvenceye alırım",
+      "is_correct": false
+    }
+  ]
+}

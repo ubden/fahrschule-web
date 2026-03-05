@@ -1,0 +1,33 @@
+{
+  "url_id": 1368,
+  "type": "choice",
+  "question_code": "2.7.03-201",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Dizel motoruna sıkıştırma ateşlemeli motor da denmesinin nedeni nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1370,
+  "prev_id": 2620,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bu motorların, ateşleme kıvılcımı ile çalışmaya başlaması",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Bu motorların, püskürtülen akaryakıtın sıkıştırılmış havada ateşlenmesi ile çalışmaya başlaması",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bu motorların, basınca duyarlı akaryakıtla çalışmaya başlaması",
+      "is_correct": false
+    }
+  ]
+}

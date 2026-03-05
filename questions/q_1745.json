@@ -1,0 +1,33 @@
+{
+  "url_id": 1745,
+  "type": "choice",
+  "question_code": "1.2.26-117",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bir bisikletli (bisikletinden inmeden) yaya geçidinde karşıdan karşıya geçmek istiyor. Nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1746,
+  "prev_id": 1744,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bisikletlinin şeridi geçmesini beklerim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yaya geçidinin hemen önüne geldiğimde fren yaparım",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Kornaya basarım ve bisikletlinin önünden yoluma devam ederim",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 1603,
+  "type": "image_choice",
+  "question_code": "1.1.02-116",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Tramvay durakta durmak üzere. Hangi davranış doğrudur?",
+  "pretext": "Binen ve inen yolcular",
+  "media": {
+    "images": [
+      "/media/1-1-02-116.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1638,
+  "prev_id": 42,
+  "answers": [
+    {
+      "num": 1,
+      "text": "tehlikeye atılmamalıdırlar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "için engel teşkil edilmemelidir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "klaksonla uyarılabilirler",
+      "is_correct": false
+    }
+  ]
+}

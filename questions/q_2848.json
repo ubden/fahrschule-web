@@ -1,0 +1,33 @@
+{
+  "url_id": 2848,
+  "type": "choice",
+  "question_code": "2.8.01-208",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Profesyonel bir sürücü olarak çalışmanız, temel bir nitelik ve düzenli ileri eğitim gerektiriyor. Kanıtlar nerede belgeleniyor?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2849,
+  "prev_id": 2739,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kayıtlı olduğum ehliyet dairesinin internet sitesinde",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sürücü yeterlilik belgesinde",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Profesyonel sürücü kalifikasyonu için Federal Motorlu Taşımacılık Kurumu (KBA) sicilinde",
+      "is_correct": true
+    }
+  ]
+}

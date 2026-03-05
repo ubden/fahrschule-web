@@ -1,0 +1,33 @@
+{
+  "url_id": 2491,
+  "type": "choice",
+  "question_code": "2.2.22-126",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Arabanızın çatısında yük taşımak istiyorsunuz. Bunun arabanızın sürüş davranışı üzerindeki etkisi nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2589,
+  "prev_id": 2490,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Ani hızlanma gücü azalır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Fren durma mesafesi uzar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yan rüzgar hassasiyeti azalır",
+      "is_correct": false
+    }
+  ]
+}

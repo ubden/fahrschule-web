@@ -1,0 +1,27 @@
+{
+  "url_id": 223,
+  "type": "number",
+  "question_code": "1.2.12-112",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Durak levhasının ne kadar önüne ve arkasına park etmenize izin verilmiyor?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 224,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap: Her iki halde de",
+      "label_before": "Cevap: Her iki halde de",
+      "label_after": "metre",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: Her iki halde de 15 metre"
+}

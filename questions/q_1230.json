@@ -1,0 +1,33 @@
+{
+  "url_id": 1230,
+  "type": "choice",
+  "question_code": "2.7.01-107",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Karavan takılı otomobille yola çıkmadan önce, neleri kontrol etmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1231,
+  "prev_id": 1228,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Arkaya olan görüşünüzün, dikiz aynaları ile yeterince temin edilip edilmediğini",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Karavanın ışıklandırma tertibatının işlev görüp görmediğini",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Karavandaki yolcuların emniyet kemeri takıp takmadıklarını",
+      "is_correct": false
+    }
+  ]
+}

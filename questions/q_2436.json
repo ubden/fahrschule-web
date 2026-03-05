@@ -1,0 +1,33 @@
+{
+  "url_id": 2436,
+  "type": "choice",
+  "question_code": "2.7.06-231",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Aracınızın fren pedalına tamamen basıyorsunuz. Hava deposunun tamamen doldurulmuş olması halinde fren sisteminde hangi azami basınç düşüşü normaldir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2437,
+  "prev_id": 2435,
+  "answers": [
+    {
+      "num": 1,
+      "text": "1,5 bar",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "0,7 bar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "1,2 bar",
+      "is_correct": false
+    }
+  ]
+}

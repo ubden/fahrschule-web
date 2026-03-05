@@ -1,0 +1,35 @@
+{
+  "url_id": 386,
+  "type": "image_choice",
+  "question_code": "1.4.40-114",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretini gördüğünüzde, nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-114.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 387,
+  "prev_id": 384,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Artık sollama yapılmaz",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hız azaltılır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yolun daraldığı yere gelmeden önce daima durulur",
+      "is_correct": false
+    }
+  ]
+}

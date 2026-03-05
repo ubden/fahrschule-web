@@ -1,0 +1,35 @@
+{
+  "url_id": 1712,
+  "type": "image_choice",
+  "question_code": "1.2.09-121",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Hangi davranış doğrudur?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-09-121.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1714,
+  "prev_id": 1711,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Durma çizgisinde durmalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bisikletliden önce sapabilirim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Bisikletlinin geçmesine izin vermek zorundayım",
+      "is_correct": true
+    }
+  ]
+}

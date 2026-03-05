@@ -1,0 +1,33 @@
+{
+  "url_id": 172,
+  "type": "choice",
+  "question_code": "1.2.07-001",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Şerit değiştirmek istediğinizde, ne yapmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2810,
+  "prev_id": 2524,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Şerit değiştirmeden önce, daima sıkı fren yaparsınız",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Şerit değiştirmek istediğinizi zamanında bildirirsiniz",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Arkadan gelen trafiğe dikkat edersiniz",
+      "is_correct": true
+    }
+  ]
+}

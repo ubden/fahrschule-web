@@ -1,0 +1,33 @@
+{
+  "url_id": 1912,
+  "type": "choice",
+  "question_code": "2.7.01-058",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Islanmış dar bir karayolunda binek otosu ve römork sürüyorsunuz ve görebildiğiniz fakat dar bir sol dönemece yaklaşıyorsunuz. Nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2609,
+  "prev_id": 1218,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Dönemeç öncesinde hızımı azaltırım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Şeridin ortasında kalırım ve ancak düzlüğe çıktığımda yeniden hızlanırım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Ancak dönemeçteki eğrinin tepe noktasında fren yaparım",
+      "is_correct": false
+    }
+  ]
+}

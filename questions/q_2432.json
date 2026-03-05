@@ -1,0 +1,33 @@
+{
+  "url_id": 2432,
+  "type": "choice",
+  "question_code": "2.7.05-225",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Lastikteki işaretlere dayanarak lastiklerinizin izinli olup olmadığını ne zaman kontrol etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2433,
+  "prev_id": 2430,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracın tamirhaneye verildiği her seferde",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Her tekerlek değişikliğinde",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yabancı bir aracın her teslim alınışında",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1103,
+  "type": "choice",
+  "question_code": "2.6.04-205",
+  "points": 4,
+  "category": "Klasse C",
+  "question_text": "İzin verilmiş toplam kütlesi 16 ton olan bir kamyonu, günde en çok kaç saat kullanmanıza izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1106,
+  "prev_id": 1101,
+  "answers": [
+    {
+      "num": 1,
+      "text": "9 saat, haftada iki kezle sınırlı olmak üzere 10 saat",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "9 saat, haftada üç kezle sınırlı olmak üzere 10 saat",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Her gün 10 saat",
+      "is_correct": false
+    }
+  ]
+}

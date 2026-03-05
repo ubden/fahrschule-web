@@ -1,0 +1,35 @@
+{
+  "url_id": 2818,
+  "type": "image_choice",
+  "question_code": "1.3.01-043-M",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Burada hangi davranış doğrudur?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-3-01-043-VS-1.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2864,
+  "prev_id": 1620,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yeşil aracın önüne geçebilirim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Mavi araç yeşil aracın önüne geçebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Mavi aracın önüne geçebilirim",
+      "is_correct": false
+    }
+  ]
+}

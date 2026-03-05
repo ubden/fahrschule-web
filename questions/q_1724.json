@@ -1,0 +1,33 @@
+{
+  "url_id": 1724,
+  "type": "choice",
+  "question_code": "1.2.11-108",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Hangi durumlarda \"yeşil\" ışık yandığı halde kavşağa giremezsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2058,
+  "prev_id": 1722,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bir polis memuru \"dur\" komutu vermişse",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Trafik sıkışık olduğundan kavşakta durmak zorundaysam",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kavşakta bir trafik levhasında \"Dur. Öncelik Tanı\" yazıyorsa",
+      "is_correct": false
+    }
+  ]
+}

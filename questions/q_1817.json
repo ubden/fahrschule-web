@@ -1,0 +1,39 @@
+{
+  "url_id": 1817,
+  "type": "video",
+  "question_code": "2.1.08-011",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-08-011_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-08-011.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-08-011_anfang.jpg"
+    ]
+  },
+  "next_id": 1819,
+  "prev_id": 2482,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hızımı ve şeridimi korurum",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Hız keserim ve şeridimi korurum",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sol şeride geçerim",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1489,
+  "type": "choice",
+  "question_code": "2.7.09-204",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Aracın arkasına doğru sarkan bir yükün işaretlenmesi gerekmektedir. Gündüzleri hangi işaretlerin kullanılmasına izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1493,
+  "prev_id": 1488,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Turuncu renkte bir ikaz tabelası",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Açık kırmızı renkte, en az 30 x 30 cm ebatında, buruşmaması için çubuğa takılı bir bayrak",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "En az 30 x 30 cm ebatında, açık kırmızı renkte, sürüş istikameti enine sallanacak şekilde asılı bir tabela",
+      "is_correct": true
+    }
+  ]
+}

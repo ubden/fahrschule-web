@@ -1,0 +1,33 @@
+{
+  "url_id": 120,
+  "type": "choice",
+  "question_code": "1.1.07-125",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Tünelden geçerken uymanız gereken temel davranış kuralları nelerdir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1634,
+  "prev_id": 117,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Gündüzleri de iyi aydınlatılmış tünelden geçerken kısa farları yakmak",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Dönüş manevrası yapmamak",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Tünel personelinin talimat ve bilgilerine uymak",
+      "is_correct": true
+    }
+  ]
+}

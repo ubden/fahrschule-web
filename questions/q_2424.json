@@ -1,0 +1,33 @@
+{
+  "url_id": 2424,
+  "type": "choice",
+  "question_code": "2.7.04-002",
+  "points": 2,
+  "category": "Klasse B, Klasse C",
+  "question_text": "İçten yanmalı motorlarda motor yağının görevi nedir?",
+  "pretext": "Motor yağı",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2622,
+  "prev_id": 2423,
+  "answers": [
+    {
+      "num": 1,
+      "text": "temizliğe yarar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "aşınmayı engellemeye yarar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "soğutmaya yarar",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2361,
+  "type": "choice",
+  "question_code": "2.7.01-310",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Sapma esnasında bir araç kombinasyonunun (römorklu araç) dönemeç hareket özellikleri nasıl bir etki yaratıyor?",
+  "pretext": "Römork",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1321,
+  "prev_id": 3077,
+  "answers": [
+    {
+      "num": 1,
+      "text": "virajı kesebilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "normalde çekici aracın şeridinde devam eder",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "dışarı doğru sallanabilir",
+      "is_correct": true
+    }
+  ]
+}

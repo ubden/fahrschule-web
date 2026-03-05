@@ -1,0 +1,33 @@
+{
+  "url_id": 1177,
+  "type": "choice",
+  "question_code": "2.6.07-218",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "1:200.000 ölçekli bir yol haritası üzerinde seferinizi planladığınızı varsayın. Haritadaki 1 cm, gerçekte kaç kilometreye tekabül eder?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2044,
+  "prev_id": 1175,
+  "answers": [
+    {
+      "num": 1,
+      "text": "10 km",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "20 km",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "2 km",
+      "is_correct": true
+    }
+  ]
+}

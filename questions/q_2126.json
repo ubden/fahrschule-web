@@ -1,0 +1,35 @@
+{
+  "url_id": 2126,
+  "type": "image_choice",
+  "question_code": "2.1.08-021",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Yeşil renkli ağır vasıtadan saatte en az 20 km daha hızlı gidiyorsunuz. Nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-08-021.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2252,
+  "prev_id": 2072,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Geçiş şeridinin sonunda dururum ve mavi ağır vasıtanın ardından otoyola girerim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Yeşil ağır vasıtanın önünden otoyola girerim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Fren yaparım ve yeşil ağır vasıtanın arkasından otoyola girerim",
+      "is_correct": false
+    }
+  ]
+}

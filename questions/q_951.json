@@ -1,0 +1,33 @@
+{
+  "url_id": 951,
+  "type": "choice",
+  "question_code": "2.2.34-207",
+  "points": 4,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Trafik kazasına karışan kavramı kimleri ifade eder?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3008,
+  "prev_id": 945,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kazanın meydana gelmesine ilişkin ifade verebilecek olan tanığı",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Trafik kazasına sebebiyet vermiş olan kişiyi",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Davranışı ile trafik kazasına muhtemelen sebebiyet vermiş olan kişiyi",
+      "is_correct": true
+    }
+  ]
+}

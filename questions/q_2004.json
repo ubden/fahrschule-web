@@ -1,0 +1,35 @@
+{
+  "url_id": 2004,
+  "type": "image_choice",
+  "question_code": "2.4.42-103",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Bu trafik işareti ne anlatıyor?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-42-103.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2005,
+  "prev_id": 983,
+  "answers": [
+    {
+      "num": 1,
+      "text": "LPG istasyonu",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Doğalgaz yakıt istasyonu",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Hidrojen yakıt dolum istasyonu",
+      "is_correct": true
+    }
+  ]
+}

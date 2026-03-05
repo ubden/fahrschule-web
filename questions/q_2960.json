@@ -1,0 +1,33 @@
+{
+  "url_id": 2960,
+  "type": "choice",
+  "question_code": "2.6.06-308",
+  "points": 2,
+  "category": "Klasse CE",
+  "question_text": "Sabit çeki demirli römork ve bir çekici araçtan oluşan bir araç kombinasyonunun izin verilen toplam çekilebilir kütlesini nasıl belirlersiniz?",
+  "pretext": "Çekici aracın izin verilen toplam kütlesi artı",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1906,
+  "prev_id": 1155,
+  "answers": [
+    {
+      "num": 1,
+      "text": "römorkun izin verilen toplam kütlesi eksi römorkun destekleyici yükü, eğer bu, çekici aracın izin verilen destek yükünden daha az ise",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "römorkun yükü eksi römorkun destekleyici yükü, eğer bu yük çeken aracın izin verilen destekleyici yükünden fazlaysa",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "römorkun izin verilen toplam kütlesi eksi römorkun destekleyici yükü, eğer çekici aracın izin verilen destekleyici yükünden fazlaysa",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1472,
+  "type": "choice",
+  "question_code": "2.7.07-322",
+  "points": 4,
+  "category": "Klasse CE",
+  "question_text": "Bir römorku çekiciye bağladıktan sonra, römorkun otomatik etki gösteren kavramasında nelere dikkat etmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2259,
+  "prev_id": 1471,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kontrol piminin hangi konumda olduğunu",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kavrama cıvatasının bütünü ile yerine oturması gerekmektedir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kavrama cıvatasının yerine oturmasının ardından, tutma çenesinin artık kenarlara doğru sallanmasının mümkün olmaması gerekir",
+      "is_correct": false
+    }
+  ]
+}

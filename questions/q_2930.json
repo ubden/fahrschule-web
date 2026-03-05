@@ -1,0 +1,33 @@
+{
+  "url_id": 2930,
+  "type": "choice",
+  "question_code": "2.1.04-106",
+  "points": 3,
+  "category": "Klasse B, Klasse C, Klasse CE",
+  "question_text": "Kaza riskini neler artırır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 581,
+  "prev_id": 1805,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Buzlu yan camlarla sürüş",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Buğulu bir ön camla sürüş",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Güneş karşıda alçaktayken sürüş",
+      "is_correct": true
+    }
+  ]
+}

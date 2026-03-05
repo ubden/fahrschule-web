@@ -1,0 +1,27 @@
+{
+  "url_id": 2852,
+  "type": "number",
+  "question_code": "2.2.04-107",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Taşıt kombinasyonunun hangi uzunluğundan itibaren yerleşim yeri dışında öndeki araca, sollayan bir aracın araya girebileceği kadar büyük bir mesafe bırakmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2077,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap: Üzerinde uzunluktan sonra",
+      "label_before": "Cevap: Üzerinde uzunluktan sonra",
+      "label_after": "m",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: Üzerinde uzunluktan sonra 7 m"
+}

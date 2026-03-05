@@ -1,0 +1,27 @@
+{
+  "url_id": 2913,
+  "type": "number",
+  "question_code": "2.6.06-103",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Çıkıntılı yük olmadan bir binek otomobil ve römorktan oluşan bir araç kombinasyonunun maksimum uzunluğu ne olmalıdır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3073,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "m",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 18 m"
+}

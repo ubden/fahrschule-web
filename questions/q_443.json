@@ -1,0 +1,35 @@
+{
+  "url_id": 443,
+  "type": "image_choice",
+  "question_code": "1.4.41-124",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işareti, neye işaret eder?",
+  "pretext": "Burada;",
+  "media": {
+    "images": [
+      "/media/1-4-41-124.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 444,
+  "prev_id": 440,
+  "answers": [
+    {
+      "num": 1,
+      "text": "önerilen seyir hızı 30 km/sa",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "öngörülen en az hız 30 km/sa",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "izin verilen en fazla hız 30 km/sa",
+      "is_correct": true
+    }
+  ]
+}

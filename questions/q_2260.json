@@ -1,0 +1,33 @@
+{
+  "url_id": 2260,
+  "type": "choice",
+  "question_code": "1.1.07-023",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Karayolunda elektrikli bisiklet (e-bike) kullanırken neye dikkat etmelisiniz?",
+  "pretext": "Elektrikli bisikletler",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2803,
+  "prev_id": 1673,
+  "answers": [
+    {
+      "num": 1,
+      "text": "görünüş bakımından geleneksel bisikletlerden kolay kolay ayırt edilemeyebilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "motor sesi sayesinde kolaylıkla ayırt edilebilir",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "hız bakımından kolaylıkla hafife alınabilir",
+      "is_correct": true
+    }
+  ]
+}

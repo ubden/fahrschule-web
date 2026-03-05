@@ -1,0 +1,33 @@
+{
+  "url_id": 526,
+  "type": "choice",
+  "question_code": "1.5.01-114",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Akaryakıt tasarrufuna ve çevreye verilen zararın azaltılmasına katkıda bulunabilecek faktörler nelerdir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1599,
+  "prev_id": 522,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Mümkün olduğunca, varılacak yere toplu taşıma araçlarıyla, bisikletle veya yaya olarak gidilmesi",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Öngörülü sürüş tarzı ile trafik akımının düzenli olmasına özen gösterilmesi",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Motorlu taşıt satın alırken, akaryakıt tüketiminin dikkate alınması",
+      "is_correct": true
+    }
+  ]
+}

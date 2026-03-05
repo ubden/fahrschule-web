@@ -1,0 +1,33 @@
+{
+  "url_id": 1285,
+  "type": "choice",
+  "question_code": "2.7.01-238",
+  "points": 4,
+  "category": "Klasse C",
+  "question_text": "Basınçlı hava freni tertibatına sahip bir araç, günlerden beri çalıştırılmadı. Bu araçla en erken ne zaman hareket edebilirsiniz (araç tamamen dolu)?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1292,
+  "prev_id": 1252,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yayla itilen frenin otomatik olarak açılmasının hemen ardından",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Basınç ikaz tertibatı sinyallerinin sönmesinin ardından",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "3 bar miktarında yedek basınç gösterilmesi halinde",
+      "is_correct": false
+    }
+  ]
+}

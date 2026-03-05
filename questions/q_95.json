@@ -1,0 +1,33 @@
+{
+  "url_id": 95,
+  "type": "choice",
+  "question_code": "1.1.07-013",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Römorkundaki yükü yükseğe taşan bir zirai aracın arkasından gidiyorsunuz. Neyi hesaba katmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1944,
+  "prev_id": 93,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracın fren mesafesi, yükünden dolayı özellikle kısadır",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Özellikle frenleme veya dönüş esnasında yükün bazı parçaları düşebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Dönüş sinyal lambaları yükten ötürü görülmeyebileceği için, aracın dönüş yapmak istediğini farketmeniz güçleşir",
+      "is_correct": true
+    }
+  ]
+}

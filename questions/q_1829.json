@@ -1,0 +1,33 @@
+{
+  "url_id": 1829,
+  "type": "choice",
+  "question_code": "2.1.11-120",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Bir trafik tıkanıklığının içinde beklerken, dikiz aynasından bir motosikletlinin beklemekte olan araç kuyruğu arasından \"kıvrılarak yol aldığını\" görüyorsunuz. Nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1830,
+  "prev_id": 1828,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Geçmesine izin veririm",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Onun da durmasını sağlarım",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Kornaya basarım ve plaka numarasını not ederim",
+      "is_correct": false
+    }
+  ]
+}

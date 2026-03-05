@@ -1,0 +1,33 @@
+{
+  "url_id": 2698,
+  "type": "choice",
+  "question_code": "1.1.07-167",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bir tünelin içinden geçiyorsunuz. Bu esnada hangi özellik sözkonusudur?",
+  "pretext": "Tünelde",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2749,
+  "prev_id": 2697,
+  "answers": [
+    {
+      "num": 1,
+      "text": "acil çıkışlar ve acil durum telefonları gibi emniyet tertibatlarını gösteren tabelalar mevcuttur",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "ışık etkileri altında dikkatim dağılabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "kuvvetli araç sesleri dikkatimi dağıtabilir",
+      "is_correct": true
+    }
+  ]
+}

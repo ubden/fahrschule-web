@@ -1,0 +1,35 @@
+{
+  "url_id": 2221,
+  "type": "image_choice",
+  "question_code": "1.1.05-107-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Burada neyi hesaba katmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-05-107-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 72,
+  "prev_id": 68,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yola çocukların çıkabileceğini",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yol katılımlarının gözden kaçabileceğini",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çok hızlı gidildiğini",
+      "is_correct": true
+    }
+  ]
+}

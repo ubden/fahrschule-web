@@ -1,0 +1,35 @@
+{
+  "url_id": 2016,
+  "type": "image_choice",
+  "question_code": "1.2.02-104-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Yanlışlıkla sol şeride geçtiniz fakat sağa sapmak istiyorsunuz. Doğru davranış nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-02-104-VS-1.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1687,
+  "prev_id": 146,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Düz devam ederim veya sola saparım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Düz devam ederim ve kavşakta sağa saparım",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Dikkatle sağ şeride geçerim",
+      "is_correct": false
+    }
+  ]
+}

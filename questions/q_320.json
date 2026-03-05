@@ -1,0 +1,33 @@
+{
+  "url_id": 320,
+  "type": "choice",
+  "question_code": "1.2.38-003",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bir taşıt üzerindeki sarı sinyal lambasının yanması neye ikaz edebilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 321,
+  "prev_id": 3040,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yavaş seyreden ve büyük hacimli bir nakliyatın yapıldığına",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Olağanüstü genişlikteki bir taşıdın trafikte olduğuna",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bir iş yada kaza mahallinde tehlikeler bulunduğuna",
+      "is_correct": true
+    }
+  ]
+}

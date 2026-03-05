@@ -1,0 +1,39 @@
+{
+  "url_id": 2996,
+  "type": "video",
+  "question_code": "2.2.07-004",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Şimdi doğru davranış nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-07-004_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-2-07-004.mp4"
+    ],
+    "video_posters": [
+      "/media/2-2-07-004_anfang.jpg"
+    ]
+  },
+  "next_id": 2135,
+  "prev_id": 710,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sağ şeride geçerim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sol şeride geçerim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Orta şeritte kalırım",
+      "is_correct": false
+    }
+  ]
+}

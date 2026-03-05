@@ -1,0 +1,33 @@
+{
+  "url_id": 2127,
+  "type": "choice",
+  "question_code": "2.1.11-126",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Yola çıkmadan önce sinirlendiniz. Aracınızı sürerken bunun ne gibi sonuçlarından kaçınmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2128,
+  "prev_id": 1930,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Dikkate neden olmasından",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Dikkatimi dağıtmasından",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sinir yapmasından",
+      "is_correct": true
+    }
+  ]
+}

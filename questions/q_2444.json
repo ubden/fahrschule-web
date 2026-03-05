@@ -1,0 +1,33 @@
+{
+  "url_id": 2444,
+  "type": "choice",
+  "question_code": "2.7.06-320",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Kesintisiz hava basınçlı fren sistemi olan römorklu bir kamyon kullanıyorsunuz. Bu durumda el freni ventilinin kontrol vaziyeti hangi fonksiyonu üstlenir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2688,
+  "prev_id": 2443,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Römorkun ayak fren tertibatı serbest kalır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Çekici araç yaylı hafıza freni ile frenlenir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Römorkun ayak fren tertibatı devreye girer",
+      "is_correct": false
+    }
+  ]
+}

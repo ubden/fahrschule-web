@@ -1,0 +1,35 @@
+{
+  "url_id": 2760,
+  "type": "image_choice",
+  "question_code": "1.4.41-023",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işareti yolun sağ tarafında yer almaktadır. Bu hangi anlama gelmektedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-023.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2761,
+  "prev_id": 2759,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Önünde park edebilirim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Önünde durmamalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Arkasında durmamalıyım",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 473,
+  "type": "image_choice",
+  "question_code": "1.4.42-102",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Hangi trafik işareti, geçiş önceliği sağlar?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-42-102.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 475,
+  "prev_id": 3095,
+  "answers": [
+    {
+      "num": 1,
+      "text": "2 numaralı trafik işareti",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "1 numaralı trafik işareti",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "3 numaralı trafik işareti",
+      "is_correct": false
+    }
+  ]
+}

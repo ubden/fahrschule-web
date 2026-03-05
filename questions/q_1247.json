@@ -1,0 +1,33 @@
+{
+  "url_id": 1247,
+  "type": "choice",
+  "question_code": "2.7.01-124",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Otomatik frenli bir römork, uzun süre bir yerde durduktan sonra kullanıldığında, hangi tehlikeler oluşabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1248,
+  "prev_id": 1246,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kablo bağlantılarında hasar olabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Römorkun freni, pastan dolayı tutmayabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Lastik basıncı, güneş ışınlarından dolayı önemli ölçüde yükselmiş olabilir",
+      "is_correct": false
+    }
+  ]
+}

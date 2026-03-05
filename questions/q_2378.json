@@ -1,0 +1,33 @@
+{
+  "url_id": 2378,
+  "type": "choice",
+  "question_code": "2.7.06-315",
+  "points": 2,
+  "category": "Klasse CE",
+  "question_text": "Elektronik frens sisteminin (EBS) römorka olan bağlantısı kopmuş. Frene basılması esnasında bunun römorka nasıl bir etkisi olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2441,
+  "prev_id": 2377,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Römorkun freni hava basıncı ile çalıştırılır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Fren ışıkları çalışmaz",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Otomatik kilitlenme önleyici (ABV) kapanabilir",
+      "is_correct": true
+    }
+  ]
+}

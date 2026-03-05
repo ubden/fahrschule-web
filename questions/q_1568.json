@@ -1,0 +1,35 @@
+{
+  "url_id": 1568,
+  "type": "image_choice",
+  "question_code": "1.1.02-039-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-02-039-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1570,
+  "prev_id": 1549,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hızımı değiştirmeden yoluma devam ederim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Frene hazır durumda olurum",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çocukları gözlemlerim",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 464,
+  "type": "image_choice",
+  "question_code": "1.4.42-001",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işareti, neye işaret eder?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-42-001.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 468,
+  "prev_id": 3093,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sadece işaretten sonraki ilk kavşak veya yolağzında geçerli geçiş önceliğine",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bu yerleşim yerinin bitimine kadar geçerli geçiş önceliğine",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Bu yolun bütün kavşak ve yolağızlarında geçerli geçiş önceliğine",
+      "is_correct": false
+    }
+  ]
+}

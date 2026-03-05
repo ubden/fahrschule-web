@@ -1,0 +1,35 @@
+{
+  "url_id": 2602,
+  "type": "image_choice",
+  "question_code": "2.4.40-007",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Bu trafik işareti ile neyi hesaba katmanız gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-40-007.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2497,
+  "prev_id": 962,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araç yoluna düşen dallar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Önden giden ve aniden fren tutan araçlar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Önden giden ve aniden sola sapan araçlar",
+      "is_correct": true
+    }
+  ]
+}

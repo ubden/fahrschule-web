@@ -1,0 +1,35 @@
+{
+  "url_id": 1679,
+  "type": "image_choice",
+  "question_code": "1.1.07-139",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Motosikletin önünde bir binek otomobil geri viteste yola çıkmak istiyor. Neye hazırlıklı olmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-139.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1681,
+  "prev_id": 1678,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Motosikletlinin birdenbire fren yapmak zorunda kalmasına",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Binek otomobilin daha fazla geriye doğru hareket etmesine",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Fren mesafesinin normalden uzun olabileceğine",
+      "is_correct": true
+    }
+  ]
+}

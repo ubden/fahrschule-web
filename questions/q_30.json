@@ -1,0 +1,33 @@
+{
+  "url_id": 30,
+  "type": "choice",
+  "question_code": "1.1.02-022",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Çocukların lambada beklemeleri halinde, neleri hesaba katmakı gerekir?",
+  "pretext": "Çocukların,",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1534,
+  "prev_id": 13,
+  "answers": [
+    {
+      "num": 1,
+      "text": "benim sürüş yönümdeki lambanın, henüz yeşilden sarıya geçtiği an yola koşacaklarını",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "sabırsızlıktan dolayı kırmızı lambaya rağmen yola koşacaklarını",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "birbirlerini yola iteceklerini",
+      "is_correct": true
+    }
+  ]
+}

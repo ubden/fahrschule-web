@@ -1,0 +1,33 @@
+{
+  "url_id": 587,
+  "type": "choice",
+  "question_code": "2.1.05-101",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "İki tarafı ağaçlarla çevrili dar yollarda giderken seçeceğiniz hız konusunda özellikle önemli olan hususlar nelerdir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2238,
+  "prev_id": 2989,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Karşı yönden geniş bir aracın gelmesi halinde, bazı koşullar altında yarı yolda etrafı görülür bir yerde durmak zorunda kalabileceğiniz hususu",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Ağaçlara ve karşı yönden gelen araçlara olan mesafenin aynı anda tahmin edilmesi",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sık sık değişen ışık koşulları, kenar mesafelerinin tahmin edilmesini kolaylaştırır",
+      "is_correct": false
+    }
+  ]
+}

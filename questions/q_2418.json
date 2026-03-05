@@ -1,0 +1,33 @@
+{
+  "url_id": 2418,
+  "type": "choice",
+  "question_code": "2.7.02-214",
+  "points": 3,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Dingil yayının önemli kısımlarındaki hasarın trafik güvenliğine nasıl etkisi olur?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2419,
+  "prev_id": 2417,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araçta daha fazla hasar ortaya oluşabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Tekerleklerde aşınmalar ortaya çıkabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Aracı kullanma şekli etkilenebilir",
+      "is_correct": true
+    }
+  ]
+}

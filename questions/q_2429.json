@@ -1,0 +1,33 @@
+{
+  "url_id": 2429,
+  "type": "choice",
+  "question_code": "2.7.05-106",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Aracınıza kışlık lastik takıldıktan sonra neye dikkat etmek gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2969,
+  "prev_id": 2428,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Tekerleklerin izinli azami hızı dikkate alınmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hava basıncı yaz lastikleri için üreticinin belirttiğinden 0,5 bar daha az olmalı",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Tekerleğin havası üreticinin verilerine göre kontrol edilmelidir",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2159,
+  "type": "choice",
+  "question_code": "2.7.01-128",
+  "points": 4,
+  "category": "Klasse CE",
+  "question_text": "Çok akslı römork bağlanırken doğru olan hangisidir?",
+  "pretext": "Uygun bir kişi",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2212,
+  "prev_id": 1250,
+  "answers": [
+    {
+      "num": 1,
+      "text": "römorkun kuplajına oturuncaya kadar bağlantı çatalını tutmalıdır",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "sürücünün görüş alanında durmalı ve yönlendirmelidir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "sürücünün göremediği engellere ve trafikteki diğer katılımcılara karşı uyarmalıdır",
+      "is_correct": true
+    }
+  ]
+}

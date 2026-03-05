@@ -1,0 +1,33 @@
+{
+  "url_id": 2892,
+  "type": "choice",
+  "question_code": "2.2.34-103",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Ciddi bir kaza durumunda eCall sisteminin işlevi nedir?",
+  "pretext": "eCall sistemi otomatik olarak şunları iletir",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2893,
+  "prev_id": 2837,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Motorlu taşıttaki kişilerin yaralanma derecesini",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Kaza zamanını",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Aracın konumunu",
+      "is_correct": true
+    }
+  ]
+}

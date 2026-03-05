@@ -1,0 +1,39 @@
+{
+  "url_id": 2807,
+  "type": "video",
+  "question_code": "1.1.07-172-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda nasıl doğru hareket edersiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-172-VS-2_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-1-07-172-VS-2.mp4"
+    ],
+    "video_posters": [
+      "/media/1-1-07-172-VS-2_anfang.jpg"
+    ]
+  },
+  "next_id": 2859,
+  "prev_id": 2806,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hızlanıyorum",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Tehlikeli durum frenlemesi yaparım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Fren yapmaya hazır bir şekilde ilerliyorum",
+      "is_correct": false
+    }
+  ]
+}

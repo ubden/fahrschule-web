@@ -1,0 +1,39 @@
+{
+  "url_id": 2873,
+  "type": "video",
+  "question_code": "2.1.08-032-M",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Neleri hesaba katmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-08-032-VS-1_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-08-032-VS-1.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-08-032-VS-1_anfang.jpg"
+    ]
+  },
+  "next_id": 2939,
+  "prev_id": 2769,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Motosiklet araç sıralarının arasından geçer",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sarı kamyonun sürücüsü trafik sıkışıklığının sonunu çok geç görür",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kırmızı araba önüme kırıyor",
+      "is_correct": false
+    }
+  ]
+}

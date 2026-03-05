@@ -1,0 +1,28 @@
+{
+  "url_id": 2181,
+  "type": "choice",
+  "question_code": "2.1.11-130",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Yanınızdaki yolcu yolculuk sırasında sizinle tartışmak istiyor. Nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2182,
+  "prev_id": 2130,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Konuşmamıza konsantre olurum",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sürüşüme konsantre olurum",
+      "is_correct": true
+    }
+  ]
+}

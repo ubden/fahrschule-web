@@ -1,0 +1,35 @@
+{
+  "url_id": 2512,
+  "type": "image_choice",
+  "question_code": "1.1.03-112-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda nasıl doğru davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-03-112-M.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1604,
+  "prev_id": 58,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Dikkatlice fren tutarım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sağdaki yayanın araç yolunu geçmesine izin veririm",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yolda hiçbir işaret olmadığı için dikkatli bir şekilde ilerliyorum",
+      "is_correct": false
+    }
+  ]
+}

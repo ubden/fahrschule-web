@@ -1,0 +1,39 @@
+{
+  "url_id": 1930,
+  "type": "video",
+  "question_code": "2.1.11-125",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Sollamak istiyorsunuz. Size engel olan şey nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-11-125_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-11-125.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-11-125_anfang.jpg"
+    ]
+  },
+  "next_id": 2127,
+  "prev_id": 1832,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Şeridin durumu",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Yolun seyri",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Karşıdan gelen trafik",
+      "is_correct": true
+    }
+  ]
+}

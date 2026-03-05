@@ -1,0 +1,33 @@
+{
+  "url_id": 2261,
+  "type": "choice",
+  "question_code": "1.1.09-028",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "\"Crystal Meth\" adı verilen uyuşturucu tüketildikten sonra neden araç kullanılmaz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2391,
+  "prev_id": 2226,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çünkü hezeyanlara neden olabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Çünkü birdenbire bitkinlik baş gösterebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çünkü kişi kendi becerilerini fazlasıyla abartabilir",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1544,
+  "type": "choice",
+  "question_code": "2.5.01-117",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Atık madde emisyonu düşük araçların işaretlendirilmesine yarayan ince toz plaketinin araçta nereye yapıştırılması gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2354,
+  "prev_id": 1005,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Ön siper camının iç tarafına, iyi görünür şekilde",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Aracın arka camının iç tarafına, iyi görünür şekilde",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Ön siper camının dış tarafına, iyi görünür şekilde",
+      "is_correct": false
+    }
+  ]
+}

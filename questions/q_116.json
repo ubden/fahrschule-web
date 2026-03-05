@@ -1,0 +1,33 @@
+{
+  "url_id": 116,
+  "type": "choice",
+  "question_code": "1.1.07-121",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Tünelde meydana gelen bir trafik tıkanıklığında nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 117,
+  "prev_id": 115,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Trafik duruyorsa, öndeki araca takriben 5 metre kadar güvenlik mesafesi bırakırsınız",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Dörtlü ikaz lambalarını yakarsınız",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Aracınızı emniyet altına alıp derhal terk edersiniz",
+      "is_correct": false
+    }
+  ]
+}

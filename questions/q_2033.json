@@ -1,0 +1,33 @@
+{
+  "url_id": 2033,
+  "type": "choice",
+  "question_code": "2.5.01-207",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Araçla yolculuklarınızı planlarken çevrenin korunmasına nasıl katkıda bulunabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2034,
+  "prev_id": 2032,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kendi aracım yerine toplu taşıma araçlarını kullanarak",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Başka araç sahipleriyle birlikte yolculuk ederek",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Birden çok hedefe tek bir yolculukta giderek",
+      "is_correct": true
+    }
+  ]
+}

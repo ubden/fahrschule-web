@@ -1,0 +1,33 @@
+{
+  "url_id": 3055,
+  "type": "choice",
+  "question_code": "2.2.22-224",
+  "points": 3,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Yükünüzü aşağıya doğru bağlayarak sağlam bir şekilde sabitlemek istiyorsunuz. Burada neye dikkat etmeniz gerekiyor?",
+  "pretext": "Şu şekilde davranmalıyım",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 868,
+  "prev_id": 2951,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bağlama ekipmanının ön gerilimini düzenli olarak kontrol etmeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Boyutsal olarak stabil yükleri yalnızca aşağı doğru bağlayarak emniyete almalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Mümkün olan en küçük bağlama açısını seçmeliyim",
+      "is_correct": false
+    }
+  ]
+}

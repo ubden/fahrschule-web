@@ -1,0 +1,39 @@
+{
+  "url_id": 2187,
+  "type": "video",
+  "question_code": "2.2.07-007",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-07-007_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-2-07-007.mp4"
+    ],
+    "video_posters": [
+      "/media/2-2-07-007_anfang.jpg"
+    ]
+  },
+  "next_id": 2188,
+  "prev_id": 2135,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sağ şeride geçerim ve hız keserim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Orta şeritte kalırım ve hız keserim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sol şeride geçerim ve önümdeki kırmızı renkli binek otosunu sollarım",
+      "is_correct": false
+    }
+  ]
+}

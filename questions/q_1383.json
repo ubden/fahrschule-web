@@ -1,0 +1,33 @@
+{
+  "url_id": 1383,
+  "type": "choice",
+  "question_code": "2.7.04-206",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Dizel motor yağları, hangi işlevleri yerine getirir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2368,
+  "prev_id": 1380,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aşınmayı azaltmak",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Isıya dayanıklık",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Soğukta akıcı olma yeteneği",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 974,
+  "type": "image_choice",
+  "question_code": "2.4.41-204",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Bu trafik işareti, neye işaret eder?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-41-204.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2092,
+  "prev_id": 973,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bütün kamyon ve katarlar için geçerli yasağa",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Gerçek dingil ağırlığı 3,5 tonu aşmayan taşıtlar için geçerli yasağa",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Tehlikeli madde taşıyan ve yükünü işaretlemekle yükümlü motorlu taşıtlar için geçerli yasağa",
+      "is_correct": true
+    }
+  ]
+}

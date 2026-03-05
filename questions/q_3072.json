@@ -1,0 +1,33 @@
+{
+  "url_id": 3072,
+  "type": "choice",
+  "question_code": "2.6.04-228",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Ticari yük veya yolcu taşımacılığında araç kullanıyorsunuz. Kısaltılmış haftalık dinlenme süresini en geç ne zamana kadar telafi etmeniz gerekmektedir?",
+  "pretext": "Şu dönemlerin sonuna kadar",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3086,
+  "prev_id": 3010,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sonraki üçüncü hafta",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sonraki dördüncü hafta",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sonraki ikinci hafta",
+      "is_correct": false
+    }
+  ]
+}

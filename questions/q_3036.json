@@ -1,0 +1,39 @@
+{
+  "url_id": 3036,
+  "type": "video",
+  "question_code": "1.2.19-118-M",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Şimdi ne yapmanız gerekir?",
+  "pretext": "Şunları yapmaya mecburum",
+  "media": {
+    "images": [
+      "/media/1-2-19-118-VS-2_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-19-118-VS-2.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-19-118-VS-2_anfang.jpg"
+    ]
+  },
+  "next_id": 257,
+  "prev_id": 3035,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bariyer açıkken sürüşe devam etmeliyim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Demiryolunu hızlı bir şekilde geçmeliyim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Demiryolu işaretinin önünde durmalıyım",
+      "is_correct": true
+    }
+  ]
+}

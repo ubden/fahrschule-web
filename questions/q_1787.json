@@ -1,0 +1,35 @@
+{
+  "url_id": 1787,
+  "type": "image_choice",
+  "question_code": "1.4.41-152",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işareti ne anlatıyor?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-152.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1788,
+  "prev_id": 1784,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sadece düz gidebilirim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Karşıdan gelen trafiğe göre önceliğim var",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Tek yönlü bir yoldayım",
+      "is_correct": false
+    }
+  ]
+}

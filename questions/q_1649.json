@@ -1,0 +1,35 @@
+{
+  "url_id": 1649,
+  "type": "image_choice",
+  "question_code": "1.1.02-130-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Kendinizi neye hazırlamalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-02-130-M.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1650,
+  "prev_id": 1648,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yayaların yola atlayarak önüme geçmelerine",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Araçların arasından birden bire çocukların çıkmasına",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Ben geçinceye kadar yayaların beklemesine",
+      "is_correct": false
+    }
+  ]
+}

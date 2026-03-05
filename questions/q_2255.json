@@ -1,0 +1,39 @@
+{
+  "url_id": 2255,
+  "type": "video",
+  "question_code": "2.2.05-015",
+  "points": 4,
+  "category": "Klasse C",
+  "question_text": "İzin verilen toplam ağırlığı 3,5 tonun üzerinde olan bir ağır vasıta kullanıyorsunuz. Doğru davranış biçimi nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-05-015_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-2-05-015.mp4"
+    ],
+    "video_posters": [
+      "/media/2-2-05-015_anfang.jpg"
+    ]
+  },
+  "next_id": 2281,
+  "prev_id": 2134,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hızımı düşürürüm",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hızlanırım",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sollama yapmam",
+      "is_correct": true
+    }
+  ]
+}

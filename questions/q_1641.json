@@ -1,0 +1,35 @@
+{
+  "url_id": 1641,
+  "type": "image_choice",
+  "question_code": "1.1.02-122",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Böylesi duraklarda ne gibi bir davranış beklemek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-02-122.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1642,
+  "prev_id": 1640,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yayalar durağın bulunduğu cepten dikkatsizce çıkarlar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yayalar yoldan geçerek durağın bulunduğu cebe koşarlar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yayalar, yol boşalıncaya kadar beklerler",
+      "is_correct": false
+    }
+  ]
+}

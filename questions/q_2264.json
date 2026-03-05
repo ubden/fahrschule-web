@@ -1,0 +1,39 @@
+{
+  "url_id": 2264,
+  "type": "video",
+  "question_code": "1.2.20-107-M",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu durumdaki doğru davranış nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-20-107-VS-1_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-20-107-VS-1.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-20-107-VS-1_anfang.jpg"
+    ]
+  },
+  "next_id": 2812,
+  "prev_id": 1731,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Tramvayın sağından geçip giderim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Tramvayın arkasında dururum",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Tramvayı soldan geçerim",
+      "is_correct": false
+    }
+  ]
+}

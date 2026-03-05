@@ -1,0 +1,33 @@
+{
+  "url_id": 840,
+  "type": "choice",
+  "question_code": "2.2.22-105",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Aracınızın bagajına takılan bir düzenekte bisikletler taşımak istediğinizde, neleri kontrol etmeniz gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 843,
+  "prev_id": 839,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Takacağınız düzeneğin, üreticinin verilerine istinaden aracınızın türüne uygun olup olmadığını",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Düzeneğin ve bisikletlerin sağlam bir şekilde araca takılı olup olmadığını",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Aracın aydınlatma düzeninin ve plakasının kapanıp kapanmadığını",
+      "is_correct": true
+    }
+  ]
+}

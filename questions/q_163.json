@@ -1,0 +1,33 @@
+{
+  "url_id": 163,
+  "type": "choice",
+  "question_code": "1.2.05-105",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Sollama işlemi esnasındaki hız hakkında şart koşulan faktörler nelerdir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 164,
+  "prev_id": 162,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sollayan aracın hızı, diğerine göre önemli ölçüde yüksek olmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "İzin verilen azami hız sınırının aşılması yasaktır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sollanan aracın, hızını yükseltmesi yasaktır",
+      "is_correct": true
+    }
+  ]
+}

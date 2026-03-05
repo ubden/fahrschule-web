@@ -1,0 +1,33 @@
+{
+  "url_id": 1426,
+  "type": "choice",
+  "question_code": "2.7.06-223",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Dört devreli bir emniyet supapının basınçlı hava fren tertibatındaki görevi nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2374,
+  "prev_id": 1423,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sağlam devrelerin basınçlı hava ile beslenmelerini sağlamak",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Basınçlı hava tertibatının bütün devrelerini, fazla yüksek basınca karşı korumak",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sızıntı yapan bir devreyi, diğer devrelere karşı kapatmak",
+      "is_correct": true
+    }
+  ]
+}

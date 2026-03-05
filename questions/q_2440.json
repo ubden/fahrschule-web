@@ -1,0 +1,33 @@
+{
+  "url_id": 2440,
+  "type": "choice",
+  "question_code": "2.7.06-235",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Aracınızın bir elektrik frenleme sistemi (EBS) var. EBS neye etki eder?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2501,
+  "prev_id": 2439,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Fren tutma sağlamlığı daha iyi olur",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Fren balatalarının aşınma tepkisi optimal hale getirlir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Fren mesafesi kısalır",
+      "is_correct": true
+    }
+  ]
+}

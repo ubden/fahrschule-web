@@ -1,0 +1,33 @@
+{
+  "url_id": 2163,
+  "type": "choice",
+  "question_code": "2.7.05-217",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Tekerlek değiştirildikten sonra tekerlek bağlantılarının sıkılmamasının sonuçları ne olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2308,
+  "prev_id": 2162,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Lastik janttan çıkabilir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Tekerlek hasar görebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Tekerlek yerinden çıkabilir",
+      "is_correct": true
+    }
+  ]
+}

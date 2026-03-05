@@ -1,0 +1,33 @@
+{
+  "url_id": 67,
+  "type": "choice",
+  "question_code": "1.1.05-002",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Aşırı hızlı araç sürmek, özellikle nerelerde tehlikelidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 68,
+  "prev_id": 66,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İlerisi görülemeyen virajlarda",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Demiryolu geçitlerinde",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Araç yolunun daraldığı yerlerde",
+      "is_correct": true
+    }
+  ]
+}

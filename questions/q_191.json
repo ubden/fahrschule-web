@@ -1,0 +1,35 @@
+{
+  "url_id": 191,
+  "type": "image_choice",
+  "question_code": "1.2.09-104-B",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Sola döndükten hemen sonra sağa dönmek istiyorsunuz. Nasıl pozisyon alırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-09-104-B.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 194,
+  "prev_id": 190,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kırmızı otomobil gibi",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yeşil otomobil gibi",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Mavi otomobil gibi",
+      "is_correct": false
+    }
+  ]
+}

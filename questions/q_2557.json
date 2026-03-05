@@ -1,0 +1,33 @@
+{
+  "url_id": 2557,
+  "type": "choice",
+  "question_code": "1.5.01-129",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Çevreyi korumak için ne yapmanız gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2558,
+  "prev_id": 2556,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Gereksiz git gel yapılan sürüşlerden vazgeçerim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Uzun süreli durma durumunda motoru kapatırım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Egzoz sisteminden aşırı duman geliyorsa, motorlu aracı kontrol ettiririm",
+      "is_correct": true
+    }
+  ]
+}

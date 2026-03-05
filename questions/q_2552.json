@@ -1,0 +1,33 @@
+{
+  "url_id": 2552,
+  "type": "choice",
+  "question_code": "1.5.01-016",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Düzenli araç bakımı neye katkıda bulunabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3046,
+  "prev_id": 1995,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yakıt tüketimini düşük tutmaya",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Emisyon değerlerini düşük tutmaya",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Trafik güvenliğini sağlamaya",
+      "is_correct": true
+    }
+  ]
+}

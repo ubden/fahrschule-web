@@ -1,0 +1,35 @@
+{
+  "url_id": 1943,
+  "type": "image_choice",
+  "question_code": "2.1.03-116-M",
+  "points": 4,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Burada nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-03-116-M.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2478,
+  "prev_id": 1956,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hızımı büyük ölçüde azaltmalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kendi şeridimde devam etmeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yoldaki bozukluğun solundan gitmeliyim",
+      "is_correct": false
+    }
+  ]
+}

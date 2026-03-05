@@ -1,0 +1,35 @@
+{
+  "url_id": 1642,
+  "type": "image_choice",
+  "question_code": "1.1.02-123-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Sağa sapmak istiyorsunuz. Kendinizi neye göre ayarlamalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-02-123-M.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1643,
+  "prev_id": 1641,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yaya ağır vasıtanın geçmesini bekleyip benim önümden karşıya geçebilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Ağır vasıta saptıktan sonra yolun karşı tarafından yayalar gelebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Ağır vasıta duracak",
+      "is_correct": true
+    }
+  ]
+}

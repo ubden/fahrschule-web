@@ -1,0 +1,33 @@
+{
+  "url_id": 2535,
+  "type": "choice",
+  "question_code": "1.2.17-102",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Kısa huzmeli farların karşı yönden gelen trafiğin gözlerini kamaştırması nasıl önlenebilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 238,
+  "prev_id": 235,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Işıklandırma aralığı araç yüküne bağlı olarak düzenlenmelidir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Farlarda yapılan her tamirattan sonra ayarları tekrar kontrol edilmelidir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sadece ilgili farlar için izin verilmiş lambalar kullanılmalıdır",
+      "is_correct": true
+    }
+  ]
+}

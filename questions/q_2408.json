@@ -1,0 +1,33 @@
+{
+  "url_id": 2408,
+  "type": "choice",
+  "question_code": "2.2.30-103",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Ticari ve ücret karşılığnda mal taşımacılığı yapan hangi motorlu taşıtların pazar günleri ve resmi tatillerde yola çıkma yasağı vardır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2508,
+  "prev_id": 2495,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Azami yük ağırlığı 7,5 ton üzerinde olan TIR’ların",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Römorku olan TIR’ların",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Römorku olan arabaların",
+      "is_correct": false
+    }
+  ]
+}

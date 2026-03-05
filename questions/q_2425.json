@@ -1,0 +1,33 @@
+{
+  "url_id": 2425,
+  "type": "choice",
+  "question_code": "2.7.05-002",
+  "points": 2,
+  "category": "Klasse B, Klasse C, Klasse CE",
+  "question_text": "Lastiklerin havasını ne zaman kontrol etmeniz gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2847,
+  "prev_id": 2368,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hemen her yolculuktan sonra",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Düzenli olarak tekerlekler soğuk iken",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Her lastik değişikliğinden hemen sonra",
+      "is_correct": true
+    }
+  ]
+}

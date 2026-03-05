@@ -1,0 +1,33 @@
+{
+  "url_id": 2320,
+  "type": "choice",
+  "question_code": "1.1.06-111",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Öndeki aracı geçmek açık ve düz şeritlerde niçin tehlikeye neden olabilir?",
+  "pretext": "Çünkü",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1923,
+  "prev_id": 78,
+  "answers": [
+    {
+      "num": 1,
+      "text": "karşı yönden gelen trafik tahmin edilendan daha yavaş yaklaşıyor",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "geçme mesafasi tahmin edilenden daha uzun",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "karşı yönden gelen trafik sanıldığından daha hızlı yaklaşyor",
+      "is_correct": true
+    }
+  ]
+}

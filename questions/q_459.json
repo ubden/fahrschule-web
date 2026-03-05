@@ -1,0 +1,30 @@
+{
+  "url_id": 459,
+  "type": "image_choice",
+  "question_code": "1.4.41-140-B",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Ne zaman dönüş işareti vermek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-140-B.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 460,
+  "prev_id": 455,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Dönel kavşağa girerken",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Dönel kavşaktan çıkarken",
+      "is_correct": true
+    }
+  ]
+}

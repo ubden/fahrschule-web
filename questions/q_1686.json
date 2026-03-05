@@ -1,0 +1,33 @@
+{
+  "url_id": 1686,
+  "type": "choice",
+  "question_code": "1.2.01-003",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Trafiğe iştirak eden elemanlardan hangilerine karşı özellikle dikkatli davranmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 146,
+  "prev_id": 2977,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çocuklara karşı",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Fark edilebilir engeli bulunan insanlara karşı",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Taksi şoförlerine karşı",
+      "is_correct": false
+    }
+  ]
+}

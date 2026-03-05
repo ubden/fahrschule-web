@@ -1,0 +1,33 @@
+{
+  "url_id": 2448,
+  "type": "choice",
+  "question_code": "2.7.07-326",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Çekme kancasının çekme çubuğunun boyuna boşluğu en çok ne kadar olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2449,
+  "prev_id": 2447,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Azami 1,5 mm'lik bir boyuna boşluk",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "İzinli boyuna boşluk çekme tesisatının çapına bağlıdır",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Boyuna bir boşluğun olması yasaktır",
+      "is_correct": true
+    }
+  ]
+}

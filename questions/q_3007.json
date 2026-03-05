@@ -1,0 +1,33 @@
+{
+  "url_id": 3007,
+  "type": "choice",
+  "question_code": "2.2.23-125",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Sürüş sırasında aracınızın ön camı içeriden buğulanıyor. Buna karşı nasıl önlem alabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3058,
+  "prev_id": 2725,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Dışarıdaki nemi yüksek olduğunda pencereleri açarım",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Havalandırmayı maksimum güçle ön cama doğru yönlendiriyorum",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Klimayı açarım",
+      "is_correct": true
+    }
+  ]
+}

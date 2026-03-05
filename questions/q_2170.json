@@ -1,0 +1,39 @@
+{
+  "url_id": 2170,
+  "type": "video",
+  "question_code": "1.2.11-112",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Yolunuza düz devam etmek istiyorsunuz. Nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-11-112_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-11-112.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-11-112_anfang.jpg"
+    ]
+  },
+  "next_id": 2639,
+  "prev_id": 2059,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Doğrudan sarı renkli taşıtın arkasında dururum",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Durma çizgisinde dururum",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sarı ve mavi renli taşıtların arasında dururum",
+      "is_correct": false
+    }
+  ]
+}

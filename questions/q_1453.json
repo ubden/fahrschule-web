@@ -1,0 +1,33 @@
+{
+  "url_id": 1453,
+  "type": "choice",
+  "question_code": "2.7.07-302",
+  "points": 4,
+  "category": "Klasse CE",
+  "question_text": "Yarı römorku çekici araca bağladıktan sonra, neler yapmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1454,
+  "prev_id": 1451,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bütün hortum ve kablo bağlantılarını sağlamak ve kontrol etmek",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yarı römorkun geri hareket kilidini açmak",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Römork kavramasının kapama ve emniyet sistemini kontrol etmek",
+      "is_correct": true
+    }
+  ]
+}

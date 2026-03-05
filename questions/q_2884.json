@@ -1,0 +1,33 @@
+{
+  "url_id": 2884,
+  "type": "choice",
+  "question_code": "2.2.21-125",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Üç noktalı emniyet kemerinin işlevini neler kısıtlar?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2885,
+  "prev_id": 2883,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kemerin her iki kolun altından geçirilmesi",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kalın bir kışlık mont giyilmesi",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kemerin tokaya tam olarak oturmaması",
+      "is_correct": true
+    }
+  ]
+}

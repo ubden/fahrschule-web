@@ -1,0 +1,35 @@
+{
+  "url_id": 375,
+  "type": "image_choice",
+  "question_code": "1.4.40-103",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretlerini gördüğünüzde, neleri hesaba katmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-103.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 377,
+  "prev_id": 373,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araç yolunun kardan veya buzdan dolayı kaygan olabileceğini",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kış sporlarının sadece yaya yolu üzerinde yapıldığını",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Araç yolu üzerinde kış sporları yapılabileceğini",
+      "is_correct": true
+    }
+  ]
+}

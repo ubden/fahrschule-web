@@ -1,0 +1,33 @@
+{
+  "url_id": 2265,
+  "type": "choice",
+  "question_code": "1.2.23-007",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Araç kullanırken telefon görüşmesi yapmak istiyorsunuz. Neye dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2266,
+  "prev_id": 1735,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araç adım hızıyla gidiyorsa eller serbest tertibatı olmadan telefon görüşmesi yapabilirim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Eller serbest tertibatına ihtiyacım var",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Eğer araç uygun bir yerde duruyorsa ve motor tamamen kapatılmışsa eller serbest tertibatı olmadan da telefon görüşmesi yapabilirim",
+      "is_correct": true
+    }
+  ]
+}

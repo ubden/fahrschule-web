@@ -1,0 +1,33 @@
+{
+  "url_id": 2887,
+  "type": "choice",
+  "question_code": "2.2.21-128",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Yolculuk sırasında tekerlekli sandalyede oturmak zorunda olan bir kişiyi motorlu bir taşıtla taşımak istiyorsunuz. Nelere dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 839,
+  "prev_id": 2886,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Motorlu taşıtta bir tekerlekli sandalye alanı bulunmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kişi bir tekerlekli sandalye kullanıcısı emniyet sistemi ile emniyete alınmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Tekerlekli sandalye, tekerlekli sandalye bağlama sistemi ile sabitlenmelidir",
+      "is_correct": true
+    }
+  ]
+}

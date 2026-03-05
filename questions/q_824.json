@@ -1,0 +1,33 @@
+{
+  "url_id": 824,
+  "type": "choice",
+  "question_code": "2.2.21-114",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Çocukların doğum günü kutlamasından sonra çok sayıda çocuğu eve götürmek istiyorsunuz. Çocukları otomobilinizde taşırken dikkat etmek zorunda olduğunuz hususlar nelerdir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 828,
+  "prev_id": 822,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çocuklara sadece mevcut emniyet kemerlerini takmak yeterlidir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Çocukların şart koşulmuş oturma tertibatları ile emniyet altına alınması zorunludur",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çocuklara mahsus oturma tertibatlarının yerleşim yerleri dahilinde kullanılmasına gerek yoktur",
+      "is_correct": false
+    }
+  ]
+}

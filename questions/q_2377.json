@@ -1,0 +1,33 @@
+{
+  "url_id": 2377,
+  "type": "choice",
+  "question_code": "2.7.06-314",
+  "points": 4,
+  "category": "Klasse CE",
+  "question_text": "Bir kamyonda sadece çekici araçta otomatik blokaj engelleyici (ABV) bulunmaktadır. Islak yolda frene tamamen basılması durumunda bu nasıl bir etkiye neden olabilir?",
+  "pretext": "Römorkun tekerleklerinin kilitlenmesi esnasında",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2378,
+  "prev_id": 2376,
+  "answers": [
+    {
+      "num": 1,
+      "text": "çekici güvenli bir şekilde gerilebilir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "römork sökülebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "fren mesafesi uzar",
+      "is_correct": true
+    }
+  ]
+}

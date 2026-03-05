@@ -1,0 +1,33 @@
+{
+  "url_id": 294,
+  "type": "choice",
+  "question_code": "1.2.34-109",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Tünelden geçerken bir kaza olduğunu görüyorsunuz. Ne yaparsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1747,
+  "prev_id": 291,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Acil imdat istasyonundan acil yardım çağırırım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Aracımın dörtlü ikaz lambalarını yakarım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Aracımı terk etmem",
+      "is_correct": false
+    }
+  ]
+}

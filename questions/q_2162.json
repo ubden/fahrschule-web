@@ -1,0 +1,33 @@
+{
+  "url_id": 2162,
+  "type": "choice",
+  "question_code": "2.7.05-216",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Aracınızın lastik basıncı hakkındaki bilgileri nerede bulabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2163,
+  "prev_id": 1395,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kullanma kılavuzunda",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Ruhsatname Kısım I'de (araç ruhsat belgesi)",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Yük evraklarında",
+      "is_correct": false
+    }
+  ]
+}

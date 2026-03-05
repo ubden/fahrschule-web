@@ -1,0 +1,35 @@
+{
+  "url_id": 2550,
+  "type": "image_choice",
+  "question_code": "1.4.42-146",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işareti neye dikkat çekmektedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-42-146.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2551,
+  "prev_id": 2236,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bir acil durma ve arıza park yerinin varlığına",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Molalara ve şöför değişim imkânına",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Geçici bir ek şeride",
+      "is_correct": false
+    }
+  ]
+}

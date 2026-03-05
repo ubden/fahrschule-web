@@ -1,0 +1,35 @@
+{
+  "url_id": 2762,
+  "type": "image_choice",
+  "question_code": "1.4.41-025",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretinde neye dikkat etmelisiniz?",
+  "pretext": "Bu trafik işaretinin arkasındaki bölgede",
+  "media": {
+    "images": [
+      "/media/1-4-41-025.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2983,
+  "prev_id": 2761,
+  "answers": [
+    {
+      "num": 1,
+      "text": "kısa süreli yükleme yapmak için durabilirim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "duramam",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "durup, yolcularımın inmesini sağlayabilirim",
+      "is_correct": false
+    }
+  ]
+}

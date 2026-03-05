@@ -1,0 +1,33 @@
+{
+  "url_id": 2989,
+  "type": "choice",
+  "question_code": "2.1.05-010",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Otoyolda çok yüksek hızlarda araç kullanırken neleri göz önünde bulundurmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 587,
+  "prev_id": 2646,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Diğer trafik katılımcıları hızımı hafife alıyor",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Tehlikelere muhtemelen zamanında tepki veremeyebilirim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yan rüzgarlar sürüş dengemi olumsuz etkileyebilir",
+      "is_correct": true
+    }
+  ]
+}

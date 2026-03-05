@@ -1,0 +1,33 @@
+{
+  "url_id": 2678,
+  "type": "choice",
+  "question_code": "2.7.01-149",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Sürücü asistan sistemleri sizi nasıl destekleyebilir?",
+  "pretext": "Sürücü asistan sistemleri",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2731,
+  "prev_id": 2676,
+  "answers": [
+    {
+      "num": 1,
+      "text": "tehlikeye karşı beni uyarabilirler",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "kritik trafik durumlarında otomatik olarak müdahalede bulunabilirler",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "sürüş esnasındaki zorlukların üstesinden gelmemde bana yardımcı olabilirler",
+      "is_correct": true
+    }
+  ]
+}

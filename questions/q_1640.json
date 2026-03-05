@@ -1,0 +1,35 @@
+{
+  "url_id": 1640,
+  "type": "image_choice",
+  "question_code": "1.1.02-121-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Burada ne yapmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-02-121-M.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1641,
+  "prev_id": 1638,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İnsanların karşıya geçmelerine olanak tanımak için dururum",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "İnsanların benim bulunduğum şeride varıncaya kadar yeterince vakit olduğundan yoluma devam ederim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Yoluma devam ederim, çünkü yalnızca sol yol kenarında insan var",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 815,
+  "type": "choice",
+  "question_code": "2.2.21-105",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Otomobilinizde beş yaşındaki bir çocuğu nasıl taşımanıza izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 821,
+  "prev_id": 1858,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Taşıdın arka koltuğunda, bel emniyet kemerini takmak suretiyle",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Çocuk için uygun olan sertifikalı bir çocuk koltuğunda",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Arka koltukta, taşıdın seri imalatında mevcut, üç noktalı emniyet kemerini takmak suretiyle",
+      "is_correct": false
+    }
+  ]
+}

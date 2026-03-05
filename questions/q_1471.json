@@ -1,0 +1,33 @@
+{
+  "url_id": 1471,
+  "type": "choice",
+  "question_code": "2.7.07-321",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Bir römorku çekici araca bağlarken, nelere dikkat etmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1472,
+  "prev_id": 1470,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bağlama işleminden sonra el freni çözülür ve takozlar çekilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Değişik renkteki kavrama kafaları birbirlerine bağlanmaz",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Önce depo hattı bağlanır",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 2548,
+  "type": "image_choice",
+  "question_code": "1.4.41-168",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "İkamet etmiş olduğunuz, bu şekilde işaretlenmiş bisiklet caddesine girmek istiyorsunuz. Bu durumda neye dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-168.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2549,
+  "prev_id": 2235,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bisiklet trafiği engellenmemelidir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Araçlar 30 km/sa ´dan daha hızlı gidemezler",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bisikletler yanyana sürebilirler",
+      "is_correct": true
+    }
+  ]
+}

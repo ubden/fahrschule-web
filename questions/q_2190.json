@@ -1,0 +1,39 @@
+{
+  "url_id": 2190,
+  "type": "video",
+  "question_code": "2.2.07-010",
+  "points": 5,
+  "category": "Klasse B",
+  "question_text": "Doğru davranışınız nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-07-010_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-2-07-010.mp4"
+    ],
+    "video_posters": [
+      "/media/2-2-07-010_anfang.jpg"
+    ]
+  },
+  "next_id": 2576,
+  "prev_id": 2189,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hızımı korurum ve sağ şeride geçerim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Hızımı düşürürüm ve orta şeritte kalırım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Hızımı korurum ve orta şeritte kalırım",
+      "is_correct": false
+    }
+  ]
+}

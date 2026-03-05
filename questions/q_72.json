@@ -1,0 +1,33 @@
+{
+  "url_id": 72,
+  "type": "choice",
+  "question_code": "1.1.06-002",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Kavşağa az bir mesafe kala bir yük katarını geçmek tehlikeli olabilir mi?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2802,
+  "prev_id": 2221,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Evet, çünkü yük katarı, önemli trafik işaretlerini görmenizi engelleyebilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hayır, çünkü yük katarları genel olarak yavaş giderler",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Evet, çünkü yük katarı, çapraz yönlerden gelen trafiği görmenizi engelleyebilir",
+      "is_correct": true
+    }
+  ]
+}

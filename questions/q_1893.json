@@ -1,0 +1,33 @@
+{
+  "url_id": 1893,
+  "type": "choice",
+  "question_code": "2.6.02-408",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Araç kullanıcıların tehlikeli madde nakliyesi konusundaki eğitimiyle ilgili ADR belgesi ne kadar süreyle geçerlidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2043,
+  "prev_id": 3070,
+  "answers": [
+    {
+      "num": 1,
+      "text": "5 yıl",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "3 yıl",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sınırsız",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 689,
+  "type": "choice",
+  "question_code": "2.2.04-001",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Bir otomobilin arkasından 80 km/sa hızla gidiyorsunuz. Bu araç ile aranızda bırakmak zorunda olduğunuz güvenlik mesafesi ne kadardır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 690,
+  "prev_id": 2076,
+  "answers": [
+    {
+      "num": 1,
+      "text": "”İki saniyelik mesafe” kadar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "15 metrelik mesafe kadar",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "”Bir saniyelik mesafe” kadar",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 52,
+  "type": "choice",
+  "question_code": "1.1.03-104",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Yolun kısa bir kısmının buz tuttuğunu farzedin. Bu durumda mümkün mertebe önlemeniz gereken şeyler nelerdir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 53,
+  "prev_id": 50,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hızlanma",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Frenleme",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Direksiyon hareketleri",
+      "is_correct": true
+    }
+  ]
+}

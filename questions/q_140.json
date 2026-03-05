@@ -1,0 +1,33 @@
+{
+  "url_id": 140,
+  "type": "choice",
+  "question_code": "1.1.09-018",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Esrar tüketimi nelere yol açabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 141,
+  "prev_id": 139,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Algılama yeteneğinin tehlikeli bir şekilde yanılgıya uğradığı ve tepki yeteneğinin azaldığı sarhoşluk haline",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Şaşkınlık halleri ve depresyonlar içeren sarhoşluğa",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Daha iyi zaman tahmini yapılabilmesine",
+      "is_correct": false
+    }
+  ]
+}

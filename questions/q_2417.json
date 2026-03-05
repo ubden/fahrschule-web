@@ -1,0 +1,33 @@
+{
+  "url_id": 2417,
+  "type": "choice",
+  "question_code": "2.7.02-213",
+  "points": 4,
+  "category": "Klasse C",
+  "question_text": "Aracınızda tekerlek fren silindiri fren hattı çok sızdırıyor. Bu hasarı nasıl farkedersiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2418,
+  "prev_id": 1363,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yolculuk sırasında zayıf fren etkisinde",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sızan basınçlı havanının çıkardığı gürültünün oluşmasından",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Basınç uyarı sistemindeki göstergede",
+      "is_correct": true
+    }
+  ]
+}

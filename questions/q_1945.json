@@ -1,0 +1,35 @@
+{
+  "url_id": 1945,
+  "type": "image_choice",
+  "question_code": "1.2.09-112-M",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Kimin sinyal vermesi gerekiyor?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-09-112-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1612,
+  "prev_id": 2459,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Siyah binek otosunun",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Kırmızı ağır vasıtanın",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Benim",
+      "is_correct": true
+    }
+  ]
+}

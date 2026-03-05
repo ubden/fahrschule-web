@@ -1,0 +1,33 @@
+{
+  "url_id": 1714,
+  "type": "choice",
+  "question_code": "1.2.09-123",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Sola sapmak istiyorsunuz. Kime öncelik tanımalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1715,
+  "prev_id": 1712,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Karşıdan gelen bisikletlilere",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Saptığım yolda karşıya geçmek isteyen yayalara",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Karşıdan gelen motorlu taşıtlara",
+      "is_correct": true
+    }
+  ]
+}

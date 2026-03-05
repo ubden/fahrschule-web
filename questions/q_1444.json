@@ -1,0 +1,33 @@
+{
+  "url_id": 1444,
+  "type": "choice",
+  "question_code": "2.7.07-201",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Yarı römork kavramasında hangi kontrol ve bakım işlerinin düzenli olarak yapılması zorunludur?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1450,
+  "prev_id": 1917,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yarı römork kavramaları hiçbir bakım gerektirmez",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Yarı römork kavramasının yağlanması",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çerçevedeki bağlantının kontrol edilmesi",
+      "is_correct": true
+    }
+  ]
+}

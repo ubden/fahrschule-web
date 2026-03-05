@@ -1,0 +1,33 @@
+{
+  "url_id": 2739,
+  "type": "choice",
+  "question_code": "2.8.01-206",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "İlk kez C sınıfı sürücü belgesi aldıktan sonra ticari yük taşımacılığı yapmak istiyorsunuz. Bu koşulu hangi şekilde karşılamış olursunuz?",
+  "pretext": "Başarıyla tamamlanan",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2848,
+  "prev_id": 2504,
+  "answers": [
+    {
+      "num": 1,
+      "text": "35 saatlik ek eğitim kursu",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "hızlandırılmış temel yeterlilik",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "otobüs veya kamyon sürücü eğitimi",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1645,
+  "type": "choice",
+  "question_code": "1.1.02-126",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Yaşça büyük yayalar trafikte gençlere oranla neden daha fazla tehlike altındadırlar?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1647,
+  "prev_id": 1644,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araçların hızlarını çoğunlukla yanlış tahmin ederler",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Çoğu zaman daha az işitir ve daha kötü görürler",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çoğu zaman daha yavaş tepki verirler ve daha az hareketlidirler",
+      "is_correct": true
+    }
+  ]
+}

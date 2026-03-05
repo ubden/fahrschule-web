@@ -1,0 +1,33 @@
+{
+  "url_id": 2688,
+  "type": "choice",
+  "question_code": "2.7.06-321",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Çekici araçta el freni kolu etkinleştirilirse (kontrol konumunda değil), yük katarına nasıl bir etkisi ne olur?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1917,
+  "prev_id": 2444,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Römork mekanik olarak frenlenir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Römork bu esnada genellikle basınçlı hava ile ayak freni tertibatı tarafından frenlenir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çekici araç mekanik olarak frenlenir",
+      "is_correct": true
+    }
+  ]
+}

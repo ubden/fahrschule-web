@@ -1,0 +1,33 @@
+{
+  "url_id": 1401,
+  "type": "choice",
+  "question_code": "2.7.06-103",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Otomatik bloke önleyici tertibatı (ABS), hangi avantajları sağlar?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1402,
+  "prev_id": 1399,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Fren yaparken tekerleklerin bloke etmesi önlenir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Virajlarda önemli ölçüde daha hızlı gidilebilir",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sıkı fren esnasında bile, aracı yönlendirme yeteneği, büyük ölçüde korunur",
+      "is_correct": true
+    }
+  ]
+}

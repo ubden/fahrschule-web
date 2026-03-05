@@ -1,0 +1,33 @@
+{
+  "url_id": 2325,
+  "type": "choice",
+  "question_code": "1.2.22-109",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Aracınızı yüklerken neye dikkat etmeniz gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 267,
+  "prev_id": 1734,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracım müsaade edilen maksimum toplam hacmi % 5 oranından daha fazla aşmamalıdır",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Yükün emniyetini uygun araçlarla kaymaya karşı almam gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Aracım müsaade edilen dingil yükünü aşmamalıdır",
+      "is_correct": true
+    }
+  ]
+}

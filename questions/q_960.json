@@ -1,0 +1,35 @@
+{
+  "url_id": 960,
+  "type": "image_choice",
+  "question_code": "2.4.40-002",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Otoyolda bu trafik işaretini görünce, nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-40-002.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 961,
+  "prev_id": 2838,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Trafik tıkanıklığında kenar şeride geçer ve buradan yola devam edersiniz",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Daha dikkatli gider, tedbiren mesafeyi açarsınız",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Trafik tıkanıklığında fren yapar ve dörtlü ikaz lambalarını yakarsınız",
+      "is_correct": true
+    }
+  ]
+}

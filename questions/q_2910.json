@@ -1,0 +1,33 @@
+{
+  "url_id": 2910,
+  "type": "choice",
+  "question_code": "2.7.05-006",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Aracınızın lastiklerini düzenli olarak kontrol ederken nelere dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2369,
+  "prev_id": 2847,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Diş derinliğine",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Dış hasarlara",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Hava basıncına",
+      "is_correct": true
+    }
+  ]
+}

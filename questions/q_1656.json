@@ -1,0 +1,35 @@
+{
+  "url_id": 1656,
+  "type": "image_choice",
+  "question_code": "1.1.04-108",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu yolda araç kullanmak neden tehlikeli olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-04-108.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1658,
+  "prev_id": 1578,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çünkü karşıdan gelen motorlu taşıtlar gecikmeli olarak fark edilirler",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Yoldaki insanları fark etmeyebilirim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Aydınlatması kötü olan araçlar zor fark edilirler",
+      "is_correct": true
+    }
+  ]
+}

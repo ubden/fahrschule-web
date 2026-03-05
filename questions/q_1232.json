@@ -1,0 +1,33 @@
+{
+  "url_id": 1232,
+  "type": "choice",
+  "question_code": "2.7.01-109",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Otomobilinize tek dingilli bir karavan takmak istiyorsunuz. Neleri kontrol etmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1233,
+  "prev_id": 1231,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İzin verilmiş azami römork yükünün veya otomobilin izin verilmiş azami destek yükünün aşılıp aşılmadığını",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Karavanın genişliğinden dolayı, ek dikiz aynaları monte edilmesinin zorunlu olup olmadığını",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Karavanın, yolcuları taşıma ruhsatına sahip olup olmadığını",
+      "is_correct": false
+    }
+  ]
+}

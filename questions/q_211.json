@@ -1,0 +1,33 @@
+{
+  "url_id": 211,
+  "type": "choice",
+  "question_code": "1.2.12-002",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Nerede park etmek yasaktır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 214,
+  "prev_id": 210,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yerleşim yerleri dışında, geçiş önceliği olan yollarda",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yerleşim yerleri içinde, geçiş önceliği olan yollarda",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Araç yolunun kenarında, eğer işaretlenmiş park alanlarının kullanımı engelleniyorsa",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url_id": 2796,
+  "type": "number",
+  "question_code": "1.2.12-131",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Yolun sağ tarafında park yeri arıyorsunuz. Şeridinizin sağ tarafında bisiklet yolu bulunmuyor. Bir kavşağın kaç metre önünde ve arkasında park etmenize izin verilmemiştir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2755,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "m",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 5 m"
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 945,
+  "type": "choice",
+  "question_code": "2.2.34-201",
+  "points": 4,
+  "category": "Klasse C",
+  "question_text": "Kamyonunuzla otoyolda giderken bir kazaya maruz kalıyorsunuz. Hangi sıraya göre davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 951,
+  "prev_id": 2893,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Durur ve polis çağırır, bunun ardından dörtlü ikaz lambalarını yakar ve beklersiniz",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Derhal durur ve tanıklar ararsınız. Bunun ardından trafiği emniyete alır ve yaralılara yardım edersiniz",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Derhal durur, trafiği emniyete alır, kazanın sonuçları hakkında kanaat getirir ve muhtemel yaralılara yardım edersiniz",
+      "is_correct": true
+    }
+  ]
+}

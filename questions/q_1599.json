@@ -1,0 +1,33 @@
+{
+  "url_id": 1599,
+  "type": "choice",
+  "question_code": "1.5.01-115",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Çevreye zarar vermemek için ne yapabilirsiniz?",
+  "pretext": "Şundan kaçınabilirim",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1996,
+  "prev_id": 526,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kısa mesafelerde araç kullanmaktan",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kalabalık şehir merkezlerinde araç kullanmaktan",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Tam gazla araç sürmekten",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1173,
+  "type": "choice",
+  "question_code": "2.6.07-214",
+  "points": 3,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "İzin verilmiş toplam ağırlığı 7,5 ton olan kamyonunuzla otoban üzerinden Hannover’den Münih’e gitmek istiyorsunuz. Hangi ortalama hızı hesaba katmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1175,
+  "prev_id": 2608,
+  "answers": [
+    {
+      "num": 1,
+      "text": "40 km/sa",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "80 km/sa",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "70 km/sa",
+      "is_correct": true
+    }
+  ]
+}

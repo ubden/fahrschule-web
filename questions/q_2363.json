@@ -1,0 +1,33 @@
+{
+  "url_id": 2363,
+  "type": "choice",
+  "question_code": "2.7.02-305",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Çekici aracınıza olan elektrik bağlantısı kopmuş durumda. Bu durumda römorktaki hangi donanım henüz işletime hazır durumda değildir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2420,
+  "prev_id": 2106,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Elektronik fren sistemi (EBS)",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Çekiş Kontrol Sistemi (ASR)",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Otomatik kilitleme önleyici (ABV)",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1244,
+  "type": "choice",
+  "question_code": "2.7.01-121",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Tek dingilli, otomatik frenli bir römorku bağladıktan sonra, ne yapmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1245,
+  "prev_id": 1243,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çekici aracın römork kavramasındaki kopma halatını yerine asmak",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Frenin işlevini kontrol etmek",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Mevcut destek tekerleğini, en üst konuma getirmek",
+      "is_correct": true
+    }
+  ]
+}

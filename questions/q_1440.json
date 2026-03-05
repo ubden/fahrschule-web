@@ -1,0 +1,33 @@
+{
+  "url_id": 1440,
+  "type": "choice",
+  "question_code": "2.7.06-310",
+  "points": 4,
+  "category": "Klasse CE",
+  "question_text": "Yük katarının uzun inişli bir yolda sürekli ve sadece ayak freni ile frenlenmesi halinde ne olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2376,
+  "prev_id": 1436,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Fren tesisinin hava deposuna takviye gelmez",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Retarderin (geciktiricinin) etkisi azalır",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Tekerlek frenleri, fren etkisinin tehlikeli olacak şekilde azalmasına yol açacak kadar ısınır",
+      "is_correct": true
+    }
+  ]
+}

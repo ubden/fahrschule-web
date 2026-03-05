@@ -1,0 +1,33 @@
+{
+  "url_id": 2843,
+  "type": "choice",
+  "question_code": "2.7.01-160",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Belirli durumlarda destek almak istiyorsanız hangi sürücü asistan sistemini manuel olarak etkinleştirmeniz gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2901,
+  "prev_id": 2791,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Acil durum fren asistanı",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Adaptif hız ayar sistemi (AGR)",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Aktif park asistanı",
+      "is_correct": true
+    }
+  ]
+}

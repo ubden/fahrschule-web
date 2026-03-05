@@ -1,0 +1,27 @@
+{
+  "url_id": 665,
+  "type": "number",
+  "question_code": "2.2.03-012",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Çok dar bir caddede araç sürüyorsunuz ve görüş mesafeniz 50 metre tutmaktadır. Duruş mesafenizin en çok kaç metre olmasına izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 668,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "metre",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 25 metre"
+}

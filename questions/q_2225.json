@@ -1,0 +1,33 @@
+{
+  "url_id": 2225,
+  "type": "choice",
+  "question_code": "1.1.09-026",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Trafiğe çıkarken bir kerelik uyuşturucu kullanımı bile neden tehlikelidir?",
+  "pretext": "Çünkü",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2226,
+  "prev_id": 2223,
+  "answers": [
+    {
+      "num": 1,
+      "text": "araç sürme becerisini etkileyebilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "saatler süren kendinden geçme haline neden olabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "algı sorunlarına yol açabilir",
+      "is_correct": true
+    }
+  ]
+}

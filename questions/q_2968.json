@@ -1,0 +1,33 @@
+{
+  "url_id": 2968,
+  "type": "choice",
+  "question_code": "2.7.02-044",
+  "points": 2,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Arızalı bir sinyal lambasını nasıl tespit edebilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3021,
+  "prev_id": 2907,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Gösterge ışığı normalden daha hızlı yanıp sönüyor",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sinyal lambasının kontrol ışığı sürekli olarak kırmızı renkte yanıyor",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sürüş başlamadan önce yapılacak bir işlev kontrolünde",
+      "is_correct": true
+    }
+  ]
+}

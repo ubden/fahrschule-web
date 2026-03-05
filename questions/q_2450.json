@@ -1,0 +1,33 @@
+{
+  "url_id": 2450,
+  "type": "choice",
+  "question_code": "2.7.07-328",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Römork çekme kancasının veya bir römorkun döner halkasının aşınma durumunu nasıl kotrol etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2629,
+  "prev_id": 2449,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Römork ayak freni tesisatı ile sabitlenmişken, çekici araçla kısaca yanaşarak",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Römork el freni ile sabitlenmişken çekici araçla kısaca yanaşarak",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yolculuk sırasında avans kapalı iken defalarca sert fren yaparak",
+      "is_correct": false
+    }
+  ]
+}

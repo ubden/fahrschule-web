@@ -1,0 +1,33 @@
+{
+  "url_id": 1652,
+  "type": "choice",
+  "question_code": "1.1.02-133",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Yol kenarındaki bir kişi, üzerinde üç siyah nokta bulunan sarı bir kolluk taşıyor. Bu kolluk ne anlam ifade ediyor?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2048,
+  "prev_id": 1651,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bu kişiye karşı özel bir davranış yükümlülüğü",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Belli bir meslek grubuna aidiyet",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Engelli kişi",
+      "is_correct": true
+    }
+  ]
+}

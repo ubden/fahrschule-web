@@ -1,0 +1,35 @@
+{
+  "url_id": 2474,
+  "type": "image_choice",
+  "question_code": "1.4.40-153",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretinde, neyi dikkate almanız gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-153.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2475,
+  "prev_id": 2473,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araç yolunda taşlar bulunabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Durmak ve park etmekten kaçınılmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Öndeki araçlar aniden fren yapabilir",
+      "is_correct": true
+    }
+  ]
+}

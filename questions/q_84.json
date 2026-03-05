@@ -1,0 +1,33 @@
+{
+  "url_id": 84,
+  "type": "choice",
+  "question_code": "1.1.07-002",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Yerleşim yerindeki kavşak ve yolağızlarında özellikle neye dikkat etmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 88,
+  "prev_id": 83,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Daha geniş olan cadde, daima geçiş önceliğine sahiptir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Bu caddeyi kesen veya bu caddeye açılan sokaklar, dar ve pek iyi inşa edilmemiş olsalar dahi, geçiş önceliğine sahip olabilirler",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bütün kavşak ve yolağızlarında, istisnasız olarak, \"sağdaki soldakinden önce\" trafik kuralı geçerlidir",
+      "is_correct": false
+    }
+  ]
+}

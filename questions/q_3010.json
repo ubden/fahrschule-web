@@ -1,0 +1,33 @@
+{
+  "url_id": 3010,
+  "type": "choice",
+  "question_code": "2.6.04-227",
+  "points": 4,
+  "category": "Klasse C",
+  "question_text": "Ticari kara yolu taşımacılığında izin verilen azami kütlesi 3,5 tondan fazla olan bir kamyon kullanıyorsunuz. Hangi süre yolculuğunuzda mola olarak sayılır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3072,
+  "prev_id": 1106,
+  "answers": [
+    {
+      "num": 1,
+      "text": "yolcu olarak",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "ön görülen dinlenme molası",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "doldurma ve boşaltma",
+      "is_correct": false
+    }
+  ]
+}

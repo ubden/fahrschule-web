@@ -1,0 +1,33 @@
+{
+  "url_id": 1246,
+  "type": "choice",
+  "question_code": "2.7.01-123",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Tek dingilli römorkunuzu (otomatik römork frenli, izin verilmiş toplam kütlesi 1000 kg), inişli bir yolda park etmek istiyorsunuz. Ne yapmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1247,
+  "prev_id": 1245,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Tekerleklerin önüne takoz koymak",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "El frenini çekmek",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Geri hareket kilidini kapatmak",
+      "is_correct": false
+    }
+  ]
+}

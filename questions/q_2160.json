@@ -1,0 +1,33 @@
+{
+  "url_id": 2160,
+  "type": "choice",
+  "question_code": "2.7.01-255",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Teker takarken neye dikkat edilmelidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2614,
+  "prev_id": 1296,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Tekerlek somunlarının belirlenmiş devir momentiyle sıkılmalarına",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Değiştirilen tekerlek somunlarının sıkılmalarına",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Tekerlek somunlarının en erken 500 km yolculuğun ardından kontrol edilmesine",
+      "is_correct": false
+    }
+  ]
+}

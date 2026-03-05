@@ -1,0 +1,39 @@
+{
+  "url_id": 3038,
+  "type": "video",
+  "question_code": "1.2.20-111-M",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda neye dikkat etmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-20-111-M_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-20-111-M.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-20-111-M_anfang.jpg"
+    ]
+  },
+  "next_id": 261,
+  "prev_id": 3037,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İnsanlar yoldan karşı karşıya geçebilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Otobüsü sadece yürüme hızında geçebilirim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Duran otobüsü geçemem",
+      "is_correct": false
+    }
+  ]
+}

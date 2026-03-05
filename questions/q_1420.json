@@ -1,0 +1,33 @@
+{
+  "url_id": 1420,
+  "type": "choice",
+  "question_code": "2.7.06-216",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Yayla itilen fren silindirleri için hangi yardımcı çözme tertibatları mevcuttur?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1423,
+  "prev_id": 1419,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Otomatik",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Hava basınçlı",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Mekanik",
+      "is_correct": true
+    }
+  ]
+}

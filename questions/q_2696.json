@@ -1,0 +1,39 @@
+{
+  "url_id": 2696,
+  "type": "video",
+  "question_code": "1.1.07-165-M",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Şimdi nasıl doğru davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-165-M_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-1-07-165-M.mp4"
+    ],
+    "video_posters": [
+      "/media/1-1-07-165-M_anfang.jpg"
+    ]
+  },
+  "next_id": 2697,
+  "prev_id": 2695,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Ani fren tutarım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kavşağı hızlıca geçerim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Hafifçe frenlerim",
+      "is_correct": false
+    }
+  ]
+}

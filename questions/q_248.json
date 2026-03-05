@@ -1,0 +1,33 @@
+{
+  "url_id": 248,
+  "type": "choice",
+  "question_code": "1.2.19-105",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bariyerli bir demiryolu geçidine yaklaşıyorsunuz. Sıkışan trafik nedeniyle demiryolu geçidi üzerinde durmak zorunda kalacağınızı farkederseniz, nerede beklemek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 250,
+  "prev_id": 247,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Andreas çaprazının önünde",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Rayların hemen önünde",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Bariyerlerin hizasında",
+      "is_correct": false
+    }
+  ]
+}

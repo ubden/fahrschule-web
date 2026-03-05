@@ -1,0 +1,39 @@
+{
+  "url_id": 2801,
+  "type": "video",
+  "question_code": "1.1.02-137-M",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Burada neden fren yapmak zorundasınız?",
+  "pretext": "Nedeni",
+  "media": {
+    "images": [
+      "/media/1-1-02-137-VS-2_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-1-02-137-VS-2.mp4"
+    ],
+    "video_posters": [
+      "/media/1-1-02-137-VS-2_anfang.jpg"
+    ]
+  },
+  "next_id": 2857,
+  "prev_id": 2800,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Mavi araç",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Bisiklet sürücüsü",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Çocuk",
+      "is_correct": true
+    }
+  ]
+}

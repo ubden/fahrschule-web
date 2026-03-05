@@ -1,0 +1,33 @@
+{
+  "url_id": 1685,
+  "type": "choice",
+  "question_code": "1.1.07-145",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Tünelde giderken tüneldeki bir ateşten dolayı aracınızı tünelde durdurmak zorunda kaldınız. Şimdi nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1927,
+  "prev_id": 1683,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Acil durum istasyonundaki yangın alarmını çalıştırırım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Mümkün mertebe ateşi söndürürüm",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Aracımı kilitlerim",
+      "is_correct": false
+    }
+  ]
+}

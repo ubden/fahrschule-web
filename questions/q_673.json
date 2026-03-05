@@ -1,0 +1,27 @@
+{
+  "url_id": 673,
+  "type": "number",
+  "question_code": "2.2.03-104",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Bir otomobille, her yöne doğru sadece tek şeridi olan ve yerleşim yerleri dışında bulunan yollarda en çok hangi hızla gitmenize izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2166,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "km/sa",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 100 km/sa"
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 939,
+  "type": "choice",
+  "question_code": "2.2.32-101",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Zemini sabit olmayan araziden (örneğin tarla, inşaat şantiyesi gibi) çıkıp, kamuya ait bir yola giriyor ve yolu önemli ölçüde kirletiyorsunuz. Bu trafik engelinin bertarafından kim sorumludur?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 940,
+  "prev_id": 3062,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bu yol kesiminde oturanlar",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Yetkili Karayolları Dairesi",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Kirlenmeye neden olan şahıs olarak siz",
+      "is_correct": true
+    }
+  ]
+}

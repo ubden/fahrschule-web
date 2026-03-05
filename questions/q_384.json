@@ -1,0 +1,35 @@
+{
+  "url_id": 384,
+  "type": "image_choice",
+  "question_code": "1.4.40-112",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işareti ile hangi ikazlar yapılmakta?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-112.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 386,
+  "prev_id": 381,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kirlenmiş araç yollarında savrulma tehlikesi",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Islak araç yollarında savrulma tehlikesi",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Alkollü araç sürücüleri",
+      "is_correct": false
+    }
+  ]
+}

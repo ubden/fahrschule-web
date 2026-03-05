@@ -1,0 +1,33 @@
+{
+  "url_id": 2845,
+  "type": "choice",
+  "question_code": "2.7.01-259",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Aracınız bir sapma asistanı ile donatıldı mı? Bu asistan sapma işleminde hangi fonksiyonu yerine getirir?",
+  "pretext": "Sapma asistanı",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3077,
+  "prev_id": 2844,
+  "answers": [
+    {
+      "num": 1,
+      "text": "yolcu tarafındaki daha zayıf trafik katılımcıları konusunda uyarır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "yolcu tarafındaki tüm engellere karşı uyarır",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "sapma işlemini eksiksiz gerçekleştirebilir",
+      "is_correct": false
+    }
+  ]
+}

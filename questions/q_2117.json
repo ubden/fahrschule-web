@@ -1,0 +1,35 @@
+{
+  "url_id": 2117,
+  "type": "image_choice",
+  "question_code": "1.2.12-121-M",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Kim yanlış park ediyor?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-12-121-M.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2324,
+  "prev_id": 224,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Koyu renkli binek otosu",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "İki binek otosu da yanlış park etmiyor",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Beyaz binek otosu",
+      "is_correct": true
+    }
+  ]
+}

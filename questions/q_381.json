@@ -1,0 +1,35 @@
+{
+  "url_id": 381,
+  "type": "image_choice",
+  "question_code": "1.4.40-109",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretine uyulmaması, ne gibi tehlikelere yol açabilir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-109.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 384,
+  "prev_id": 380,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yük, hasara uğrayabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Araçta aks veya makas (yay) kırılması meydana gelebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Araç savrulabilir ve karşıdan gelen trafiği tehlikeye atabilir",
+      "is_correct": true
+    }
+  ]
+}

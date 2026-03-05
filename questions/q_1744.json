@@ -1,0 +1,33 @@
+{
+  "url_id": 1744,
+  "type": "choice",
+  "question_code": "1.2.26-116",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Tek yönde iki şeritli bir caddede sol şeritte gidiyorsunuz. Yaklaşık 30 m uzaklıktaki bir yaya geçidinin gerisinde sağ şeritte bir kamyon duruyor. Nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1745,
+  "prev_id": 1743,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Seri bir şekilde yoluma devam ederim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Dikkatli bir hızla yaklaşırım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sinyal veririm ve kamyonun yanından geçip giderim",
+      "is_correct": false
+    }
+  ]
+}

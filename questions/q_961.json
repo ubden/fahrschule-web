@@ -1,0 +1,35 @@
+{
+  "url_id": 961,
+  "type": "image_choice",
+  "question_code": "2.4.40-003",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Bu trafik işaretini görünce, nasıl davranmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-40-003.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 962,
+  "prev_id": 960,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Virajdan önce sola dönüş sinyali verirsiniz",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Mümkün olduğu ölçüde yolun sağından gidersiniz",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Virajdan önce hızınızı azaltırsınız",
+      "is_correct": true
+    }
+  ]
+}

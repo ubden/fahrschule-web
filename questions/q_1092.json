@@ -1,0 +1,33 @@
+{
+  "url_id": 1092,
+  "type": "choice",
+  "question_code": "2.6.03-303",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Bir kamyona (boydan boya fren tertibatlı) takılı römorkun azami yükü ne kadar olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1093,
+  "prev_id": 1091,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kamyonun izin verilmiş toplam kütlesinin 1,5 katından fazla olamaz",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kamyonun boş kütlesinden fazla olamaz",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Kamyonun izin verilmiş toplam kütlesinden fazla olamaz",
+      "is_correct": false
+    }
+  ]
+}

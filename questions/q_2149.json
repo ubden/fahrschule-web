@@ -1,0 +1,33 @@
+{
+  "url_id": 2149,
+  "type": "choice",
+  "question_code": "2.5.01-213",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Ticari araçlarda Eco Roll modu yakıt sarfiyatının azaltılmasına neden katkıda bulunur?",
+  "pretext": "Çünkü Eco Roll modu aktif hale getirildiğinde",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2292,
+  "prev_id": 2038,
+  "answers": [
+    {
+      "num": 1,
+      "text": "motorun fren etkisi artar",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "aracın hareket enerjisinden azami derecede yararlanılır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "aracın kendi kendine gittiği süre kısalır",
+      "is_correct": false
+    }
+  ]
+}

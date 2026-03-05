@@ -1,0 +1,33 @@
+{
+  "url_id": 843,
+  "type": "choice",
+  "question_code": "2.2.22-108",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Karanlıkta veya kötü görüş koşulları altında, aracın tahdit ışıklarından 40 cm’den fazla yana doğru sarkan bir yükün nasıl işaretlendirilmesi gerekmektedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 844,
+  "prev_id": 840,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Dörtlü ikaz lambalarını yakmak suretiyle",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Arka tarafa doğru kırmızı ışıkla",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Ön tarafa doğru beyaz ışıkla",
+      "is_correct": true
+    }
+  ]
+}

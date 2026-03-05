@@ -1,0 +1,33 @@
+{
+  "url_id": 1804,
+  "type": "choice",
+  "question_code": "2.1.04-103",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Uzunlarınız açıkken yol aldığınızda ne gibi tehlikeler meydana gelebilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1805,
+  "prev_id": 579,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yola çıkan vahşi hayvanların gözü kamaşır ve ışıkta karşısında hareketsiz dururlar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Karşıdan gelenlerin gözü kamaşır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Benim şeridimdeki duran araçlar çok geç fark edilir",
+      "is_correct": false
+    }
+  ]
+}

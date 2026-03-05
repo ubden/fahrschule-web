@@ -1,0 +1,33 @@
+{
+  "url_id": 2062,
+  "type": "choice",
+  "question_code": "1.2.36-011",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bir polis aracı sizi solluyor ve aniden şerit değiştirerek önünüze geçiyor. Aracın tepesinde kırmızı renkli \"BITTE FOLGEN\" (LÜTFEN TAKİP EDİN) yazısı beliriyor. Nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2063,
+  "prev_id": 301,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Durduktan sonra motoru çalışır halde bırakmalıyım",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Polis aracını takip etmeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Polis aracı durduğunda durmalıyım",
+      "is_correct": true
+    }
+  ]
+}

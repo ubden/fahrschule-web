@@ -1,0 +1,35 @@
+{
+  "url_id": 1784,
+  "type": "image_choice",
+  "question_code": "1.4.41-149",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Aracınızla nakliye amacıyla yol alırken bu caddede nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-149.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1787,
+  "prev_id": 1782,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yayalara özellikle saygı göstermeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yalnızca adım hızıyla yol alabilirim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yakınlarda kimse yoksa adım hızından daha hızlı gidebilirim",
+      "is_correct": false
+    }
+  ]
+}

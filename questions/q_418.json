@@ -1,0 +1,35 @@
+{
+  "url_id": 418,
+  "type": "image_choice",
+  "question_code": "1.4.41-015",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretinin bulunduğu yerde, neye izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-015.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2545,
+  "prev_id": 415,
+  "answers": [
+    {
+      "num": 1,
+      "text": "3 dakikaya kadar duraklamaya",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yük yüklemek veya indirmek ve taşıda binmek veya taşıttan inmek için duraklamaya",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Park kartını kullanmak koşuluyla park etmeye",
+      "is_correct": false
+    }
+  ]
+}

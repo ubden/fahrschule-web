@@ -1,0 +1,33 @@
+{
+  "url_id": 1233,
+  "type": "choice",
+  "question_code": "2.7.01-110",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Otomatik vitesli (hidrolik konverter) bir otomobil ile yola çıkmak istiyorsunuz. Neleri bilmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1234,
+  "prev_id": 1232,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Motorun boğulmasını önlemek için, motor devir sayısının önemli ölçüde arttırılması gerekir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Vites takarken, otomobilin genel olarak ayak freni ile sabit tutulması gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Vites kolunu, motor durur vaziyette iken harekete geçirebilirsiniz",
+      "is_correct": false
+    }
+  ]
+}

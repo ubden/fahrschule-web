@@ -1,0 +1,33 @@
+{
+  "url_id": 1378,
+  "type": "choice",
+  "question_code": "2.7.04-201",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Kış mevsimi başlamadan önce, soğutucu sıvıda yeterli miktarda antifriz bulunup bulunmadığının neden kontrol edilmesi gerekmektedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1380,
+  "prev_id": 2622,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Soğutucu sıvının donmaması için",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Soğutucu tertibatın dondurucu soğukta hasar görmemesi için",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Aracın işletme ruhsatının geçersiz olmaması için",
+      "is_correct": false
+    }
+  ]
+}

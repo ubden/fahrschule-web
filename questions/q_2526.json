@@ -1,0 +1,33 @@
+{
+  "url_id": 2526,
+  "type": "choice",
+  "question_code": "1.2.09-018",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Kavşakta iki araç karşı karşıya geliyor. Her iki araç da sola sapmak istiyor. Her iki sürücünün normal durumda nasıl davranması gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2527,
+  "prev_id": 2525,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sapma şekli konusunda birbirleriyle anlaşmaları gerekir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Birbirlerinin önünden dönüş yapmaları gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Art arda sapmaları gerekir",
+      "is_correct": false
+    }
+  ]
+}

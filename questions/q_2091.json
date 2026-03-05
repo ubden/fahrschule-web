@@ -1,0 +1,35 @@
+{
+  "url_id": 2091,
+  "type": "image_choice",
+  "question_code": "2.4.41-003",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "10 m uzunluğunuzdaki motorlu aracınızda yük, arkadaki araç sınırlamasından 60 cm dışarı taşıyor. Bu trafik levhasında sizin için geçerli olan nedir?",
+  "pretext": "Bu levhanın olduğu bir sokağa",
+  "media": {
+    "images": [
+      "/media/2-4-41-003.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2664,
+  "prev_id": 2497,
+  "answers": [
+    {
+      "num": 1,
+      "text": "giremem, çünkü motorlu araç ve yük 10 m'den uzundur",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "eğer yük özel bir şekilde işaretlendiyse girebilirim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "girebilirim, çünkü yük dikkate alınmak zorunda değildir",
+      "is_correct": false
+    }
+  ]
+}

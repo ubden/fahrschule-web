@@ -1,0 +1,33 @@
+{
+  "url_id": 2681,
+  "type": "choice",
+  "question_code": "2.7.02-038",
+  "points": 2,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Aracınızın arka lambası çalışmıyor. Bunun nedeni ne olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2907,
+  "prev_id": 2680,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Uzun far şalteri bozuktur",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "İlgili sigorta arızalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Lamba bozuktur",
+      "is_correct": true
+    }
+  ]
+}

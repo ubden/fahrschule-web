@@ -1,0 +1,33 @@
+{
+  "url_id": 2488,
+  "type": "choice",
+  "question_code": "2.2.21-122",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Arabanıza bir çocuk bindirmek istiyorsunuz. Ne zaman çocuk koltuğu kullanmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2588,
+  "prev_id": 2341,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çocuk 12 yaşından ve 150 cm'den küçük ise",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Çocuk 12 yaşından büyük ve 150 cm'den küçük ise",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Çocuk 12 yaşından ve 150 cm'den büyük ise",
+      "is_correct": false
+    }
+  ]
+}

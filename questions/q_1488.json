@@ -1,0 +1,27 @@
+{
+  "url_id": 1488,
+  "type": "number",
+  "question_code": "2.7.09-203",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Motorlu bir taşıdın, yükü ile birlikte (tarımsal ve ormansal ürünlerle yüklü taşıtlar hariç), azami kaç metre yüksekliğinde olmasına izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1489,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "metre",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 4 metre"
+}

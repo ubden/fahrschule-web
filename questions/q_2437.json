@@ -1,0 +1,33 @@
+{
+  "url_id": 2437,
+  "type": "choice",
+  "question_code": "2.7.06-232",
+  "points": 4,
+  "category": "Klasse C",
+  "question_text": "Fren pedaline bir kere sonuna kadar bastığınızda basınçlı hava sisteminde hava basıncının 0,7 barı aşan oranda düşmesi neden sorunludur (kapatma basıncı takriben 10 - 13 bar)?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2438,
+  "prev_id": 2436,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çünkü hava rezervi daha başka frenlemeler için çok hızlı azalır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Çünkü fren sisteminde bir vakum oluşur",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Aracın fren etkisi daha kötü olduğu için",
+      "is_correct": true
+    }
+  ]
+}

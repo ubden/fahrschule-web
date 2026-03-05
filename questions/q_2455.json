@@ -1,0 +1,33 @@
+{
+  "url_id": 2455,
+  "type": "choice",
+  "question_code": "1.1.07-158",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bisiklet sürücülerinin hangi davranışlarını hesaba katmalısınız?",
+  "pretext": "Bisiklet sürücüleri",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2516,
+  "prev_id": 2454,
+  "answers": [
+    {
+      "num": 1,
+      "text": "tek yönlü yolların her iki yönünü kullanırlar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "ters taraftaki bisiklet yollarını kullanırlar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "karanlıkta ışıklandırma kullanmazlar",
+      "is_correct": true
+    }
+  ]
+}

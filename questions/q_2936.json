@@ -1,0 +1,39 @@
+{
+  "url_id": 2936,
+  "type": "video",
+  "question_code": "2.1.07-028-M",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Şimdi nasıl doğru davranıyorsunuz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-07-028-M_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-07-028-M.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-07-028-M_anfang.jpg"
+    ]
+  },
+  "next_id": 2937,
+  "prev_id": 2934,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Artan dikkatle sürüşe devam ediyorum",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Öndeki otomobili geniş bir yanal mesafe ile solluyorum",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Önde giden otomobil ile aramdaki mesafeyi artırıyorum",
+      "is_correct": true
+    }
+  ]
+}

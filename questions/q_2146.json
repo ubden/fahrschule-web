@@ -1,0 +1,35 @@
+{
+  "url_id": 2146,
+  "type": "image_choice",
+  "question_code": "2.2.37-008",
+  "points": 4,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Bu kesintisiz ışıklı işaretler ne anlama geliyor?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-37-008.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2838,
+  "prev_id": 2145,
+  "answers": [
+    {
+      "num": 1,
+      "text": "1 numaralı şeritteki araçlar aynı şeritte devam edebilirler",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "3 ve 4 numaralı şeritlerdeki araçlar durmalıdırlar",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "2 numaralı şeritteki araçlar sağ şeride geçmelidirler",
+      "is_correct": true
+    }
+  ]
+}

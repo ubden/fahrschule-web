@@ -1,0 +1,35 @@
+{
+  "url_id": 56,
+  "type": "image_choice",
+  "question_code": "1.1.03-108-B",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Burada özellikle dikkatli gitmenizi gerektiren sebepler nelerdir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-03-108-B.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 57,
+  "prev_id": 53,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Viraj yüzünden görüşün engellenmesi",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Araç yolunun kaygan olması",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Araç yolunun, yanlış park eden otomobilden dolayı daralmış olması",
+      "is_correct": true
+    }
+  ]
+}

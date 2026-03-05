@@ -1,0 +1,33 @@
+{
+  "url_id": 1746,
+  "type": "choice",
+  "question_code": "1.2.26-118",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Önünüzde bir yaya geçidi var ve ötesinde de sizin şeridiniz tıkanmış durumda. Nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1947,
+  "prev_id": 1745,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Tıkalı şeridi kısaltmak için yaya geçidi üzerinde beklerim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Eğer görünürde kimse yoksa yaya geçidi üzerinde beklerim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "İnsanların geçmesine olanak tanımak için yaya geçidinden önce beklerim",
+      "is_correct": true
+    }
+  ]
+}

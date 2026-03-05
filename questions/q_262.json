@@ -1,0 +1,33 @@
+{
+  "url_id": 262,
+  "type": "choice",
+  "question_code": "1.2.22-102",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Taşıdın arka reflektöründen 1 metreden fazla dışarı sarkan bir yükün, karanlıkta ne ile işaretlendirilmesi gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 264,
+  "prev_id": 261,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kırmızı lamba ve kırmızı arka reflektörü ile",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Arka sis lambası ile",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Turuncu renkte ikaz tabelası ile",
+      "is_correct": false
+    }
+  ]
+}

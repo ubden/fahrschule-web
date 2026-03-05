@@ -1,0 +1,39 @@
+{
+  "url_id": 2018,
+  "type": "video",
+  "question_code": "1.2.09-127",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Şimdi neden fren yapmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-09-127_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-09-127.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-09-127_anfang.jpg"
+    ]
+  },
+  "next_id": 2057,
+  "prev_id": 1964,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bisikletliden dolayı",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Transportırdan dolayı",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Motosikletten dolayı",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1106,
+  "type": "choice",
+  "question_code": "2.6.04-208",
+  "points": 4,
+  "category": "Klasse C",
+  "question_text": "Yalnız gittiğinizde, günlük dinlenme süresinin (kısaltma yapmadan) en az ne kadar olması zorunludur?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3010,
+  "prev_id": 1103,
+  "answers": [
+    {
+      "num": 1,
+      "text": "9 saat",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "11 saat",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "10 saat",
+      "is_correct": false
+    }
+  ]
+}

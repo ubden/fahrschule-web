@@ -1,0 +1,33 @@
+{
+  "url_id": 66,
+  "type": "choice",
+  "question_code": "1.1.05-001",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Hızlı araç kullanmak, hangi yerlerde sık sık kazalara yol açar?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 67,
+  "prev_id": 2319,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yaya geçitlerinde",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Virajlarda",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kavşak ve yolağızlarında",
+      "is_correct": true
+    }
+  ]
+}

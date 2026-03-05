@@ -1,0 +1,33 @@
+{
+  "url_id": 1536,
+  "type": "choice",
+  "question_code": "1.1.02-029",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Tekerlekli sandalyede oturan bir insanın araç yolundan karşıya geçtikten sonra yaya yoluna çıkmaya uğraştığını, ancak tekerlekli sandalyesiyle kaldırımdan yukarı çıkamadığını düşünün. Bu durumda nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1549,
+  "prev_id": 1535,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araçtan iner, tekerlekli sandalyedeki insana yardım ederim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Korna çalar ve yanından geçip giderim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Aracımı durdurur, dörtlü ikaz lambalarını yakarım",
+      "is_correct": true
+    }
+  ]
+}

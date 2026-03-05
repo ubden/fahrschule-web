@@ -1,0 +1,33 @@
+{
+  "url_id": 2576,
+  "type": "choice",
+  "question_code": "2.2.07-011",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Bir yön için birkaç işaretli şeridi olan bir yolda ilerliyorsunuz. Fermuar usulü geçiş ne zaman uygulanmalıdır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2717,
+  "prev_id": 2190,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Otoyola geçiş şeridi sona erdiğinde",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Bir engel nedeniyle bir şerit transit olarak geçilemediğinde",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yol şeridi sona erdiğinde",
+      "is_correct": true
+    }
+  ]
+}

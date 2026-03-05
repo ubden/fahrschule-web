@@ -1,0 +1,35 @@
+{
+  "url_id": 2549,
+  "type": "image_choice",
+  "question_code": "1.4.41-169",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu şekilde işaretlenmiş bir caddeye kimlerin girmesine izin verilir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-169.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2705,
+  "prev_id": 2548,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bütün bisiklet sürücüleri",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Orada ikamet edenlerin tüm ziyaretçileri",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Tüm motosiklet sürücüleri",
+      "is_correct": false
+    }
+  ]
+}

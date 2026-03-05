@@ -1,0 +1,33 @@
+{
+  "url_id": 240,
+  "type": "choice",
+  "question_code": "1.2.19-004",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bir demiryolu görevlisi, demiryolu geçidinde kırmızı bir ışık sallıyor. Bu, ne anlam taşır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 243,
+  "prev_id": 238,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Demiryolu geçidinin önünde beklemek zorundasınız",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Rayların üzerinden dikkatlice geçebilirsiniz",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sözkonusu kırmızı ışığın sizin için bir anlamı yoktur",
+      "is_correct": false
+    }
+  ]
+}

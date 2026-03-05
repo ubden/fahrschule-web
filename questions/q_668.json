@@ -1,0 +1,33 @@
+{
+  "url_id": 668,
+  "type": "choice",
+  "question_code": "2.2.03-015",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Tehlike anında frenleme durumunda, düz, kuru ve asfalt bir yolda ihtiyaç duyulan fren mesafesi, pratik formüle göre nasıl hesaplanır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 669,
+  "prev_id": 665,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Km/sa itibariyle hız10xKm/sa itibariyle hız10: 2",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Km/sa itibariyle hız10x 5 : 2",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Km/sa itibariyle hız10x 3 : 2",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2565,
+  "type": "choice",
+  "question_code": "2.1.01-103",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Sürüş esnasında neler tehlikeye sebep olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1797,
+  "prev_id": 1540,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bozuk olan kısa huzmeli far",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Direksiyonda olan büyük bir oynama",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Tek tarafa kuvvetli etki eden servis freni",
+      "is_correct": true
+    }
+  ]
+}

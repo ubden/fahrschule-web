@@ -1,0 +1,33 @@
+{
+  "url_id": 2588,
+  "type": "choice",
+  "question_code": "2.2.21-123",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Yolcu koltuğunda yanınızda bir bebek götürmek istiyorsunuz. Bebek taşıyıcı kullanırken nelere dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2883,
+  "prev_id": 2488,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Mevcut yolcu hava yastığının devre dışı bırakılması gerekmektedir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bebeğin emniyet kemeri, bebek taşıyıcısı içerisinde bağlanmış olması gerekmektedir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bebek taşıyıcı, seyahat yönünün tersine yerleştirilmelidir",
+      "is_correct": true
+    }
+  ]
+}

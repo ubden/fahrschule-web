@@ -1,0 +1,33 @@
+{
+  "url_id": 2903,
+  "type": "choice",
+  "question_code": "2.7.01-163",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Bir dönüş asistanının bir bisiklet sürücüsünü güvenilir bir şekilde algılamamasının nedeni ne olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2904,
+  "prev_id": 2902,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sensörün kirlenmiş olması",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bisiklet sürücüsü park halindeki araçlar tarafından gizlenmiştir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sensör hasar görmüştür",
+      "is_correct": true
+    }
+  ]
+}

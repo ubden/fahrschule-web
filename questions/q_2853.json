@@ -1,0 +1,27 @@
+{
+  "url_id": 2853,
+  "type": "number",
+  "question_code": "2.2.22-129",
+  "points": 2,
+  "category": "Klasse B, Klasse C, Klasse CE",
+  "question_text": "Gideceğiniz mesafe 100 km üzerindeyse işaretli bir yük aracınızın arkasından ne kadar çıkıntı sergileyebilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2888,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap: Yaklaşık",
+      "label_before": "Cevap: Yaklaşık",
+      "label_after": "m",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: Yaklaşık 1,50 m"
+}

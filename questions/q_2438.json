@@ -1,0 +1,33 @@
+{
+  "url_id": 2438,
+  "type": "choice",
+  "question_code": "2.7.06-233",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Otomatik - yüke bağlı bir fren gücü düzenleyicisinin (ALB) hangi fonksiyonu vardır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2439,
+  "prev_id": 2437,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Fren tutma gücü yolun durumuna ayarlanır",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Fren tutma gücü aracın hızına ayarlanır",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Fren tutma gücü aracın gerçek ağırlığına ayarlanır",
+      "is_correct": true
+    }
+  ]
+}

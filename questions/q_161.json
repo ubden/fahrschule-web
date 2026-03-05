@@ -1,0 +1,33 @@
+{
+  "url_id": 161,
+  "type": "choice",
+  "question_code": "1.2.05-103",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Hangi koşullar altında, sollama işlemi için şeritten çıkabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 162,
+  "prev_id": 159,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Önden giden aracın sağa sinyal vermesi",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Karşıdan gelen trafiğin tehlikeye atılmaması",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Arkadan gelen trafiğin tehlikeye atılmasının sözkonusu olmaması",
+      "is_correct": true
+    }
+  ]
+}

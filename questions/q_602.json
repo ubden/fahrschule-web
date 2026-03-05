@@ -1,0 +1,33 @@
+{
+  "url_id": 602,
+  "type": "choice",
+  "question_code": "2.1.07-101",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Hızlı giden bir otomobil, kuru ve doğru bir yolda hangi hallerde şeritten kenara doğru savrulabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 603,
+  "prev_id": 2937,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Lastiğinin patlaması halinde",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Aniden karşı yönden rüzgâr esmesi halinde",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Otomobilin aniden kuvvetli yan rüzgâra maruz kalması halinde",
+      "is_correct": true
+    }
+  ]
+}

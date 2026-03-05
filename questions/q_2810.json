@@ -1,0 +1,39 @@
+{
+  "url_id": 2810,
+  "type": "video",
+  "question_code": "1.2.07-105-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda nasıl doğru hareket edersiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-07-105-VS-2_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-07-105-VS-2.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-07-105-VS-2_anfang.jpg"
+    ]
+  },
+  "next_id": 1704,
+  "prev_id": 172,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Şimdi sağ şeride geçiyorum",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sağ şeritte ilerleyen araçları sollayabilirim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yaklaşık 200 m sonrasında sağ şeride geçerim",
+      "is_correct": true
+    }
+  ]
+}

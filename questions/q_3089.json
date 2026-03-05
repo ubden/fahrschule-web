@@ -1,0 +1,23 @@
+{
+  "url_id": 3089,
+  "type": "choice",
+  "question_code": "1.4.41-031",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Geçiş üstünlüğü sağlanmış bir yolda araç kullanıyorsunuz. Hangi trafik işareti geçiş üstünlüğü hakkınızı sona erdirir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3090,
+  "prev_id": 3044,
+  "answers": [
+    {
+      "num": 1,
+      "text": "",
+      "is_correct": false
+    }
+  ]
+}

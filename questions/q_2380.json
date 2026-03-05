@@ -1,0 +1,33 @@
+{
+  "url_id": 2380,
+  "type": "choice",
+  "question_code": "2.7.08-212",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Bir aracın yağlanmasında neye dikkat edilmesi gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1484,
+  "prev_id": 1481,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Farkına varılabilecek yağ tabakası olması gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Eski ve yeni yağ birleştirilemez",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Gresörlüklerin yağlama öncesinde temizlenmesi gerekir",
+      "is_correct": true
+    }
+  ]
+}

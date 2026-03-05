@@ -1,0 +1,33 @@
+{
+  "url_id": 2559,
+  "type": "choice",
+  "question_code": "1.5.01-131",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Manuel şanzımanlı bir motorlu taşıt kullanıyorsunuz. Özellikle çevreye duyarlı ve tasarruflu sürüş yapmak için vitesleri nasıl değiştirmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2560,
+  "prev_id": 2558,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Viteste en üst devir aralığına kadar sürdükten sonra vites büyütmek",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Mümkün olduğu kadar geç bir alt vitese takmak",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Mümkün olduğu kadar erken bir üst vitese takmak",
+      "is_correct": true
+    }
+  ]
+}

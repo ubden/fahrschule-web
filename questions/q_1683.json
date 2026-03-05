@@ -1,0 +1,33 @@
+{
+  "url_id": 1683,
+  "type": "choice",
+  "question_code": "1.1.07-143",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Rotam üstünde bir tünel bulunuyor. Neyi bilmem gerekiyor?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1685,
+  "prev_id": 1682,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yola devam edemeyecek olduğumda aracımı nasıl durdurup bırakabileceğimi bilmeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Acil bir durum olduğunda yardımın muhakkak zamanında geleceğine güvenebilirim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Tünellerde kaçış yollarının nasıl gösterildiğini bilmeliyim",
+      "is_correct": true
+    }
+  ]
+}

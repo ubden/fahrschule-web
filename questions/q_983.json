@@ -1,0 +1,35 @@
+{
+  "url_id": 983,
+  "type": "image_choice",
+  "question_code": "2.4.42-102",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "İzin verilmiş toplam kütlesi 2,8 tona kadar olan araçların, burada nasıl park edilmesine izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-42-102.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2004,
+  "prev_id": 982,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Küçük otomobiller: ayrıca gidiş yönüne çapraz olarak da",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Otomobiller: resimde gösterildiği gibi",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Karavanlar: resimde gösterildiği gibi",
+      "is_correct": true
+    }
+  ]
+}

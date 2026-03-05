@@ -1,0 +1,33 @@
+{
+  "url_id": 903,
+  "type": "choice",
+  "question_code": "2.2.23-034",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Aracın plakaları konusunda hangi hususlar önemlidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 904,
+  "prev_id": 868,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Plakaların, daima iyice okunur durumda olması zorunludur",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Plakaların, öngörülen yerlere sabit şekilde monte edilmiş olması zorunludur",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Arka plakaların karanlıkta ışıklandırılması zorunludur",
+      "is_correct": true
+    }
+  ]
+}

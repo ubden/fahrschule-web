@@ -1,0 +1,27 @@
+{
+  "url_id": 224,
+  "type": "number",
+  "question_code": "1.2.12-113",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Otobüsler engellenmediği sürece otobüs duraklarında durulmasına izin verilmiştir. Durma süresi en fazla ne kadardır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2117,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap",
+      "label_before": "Cevap",
+      "label_after": "dakika",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": null
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 5,
+  "type": "choice",
+  "question_code": "1.1.01-103",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Aracı gereksiz yere yavaş sürmek, neden yasaktır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1530,
+  "prev_id": 4,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Trafik akımı engellendiği için",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Arkadan çarpma suretiyle kaza meydana gelme tehlikesi yükseldiği için",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Arkadan gelen araçlar tehlikeli sollama manevralarına teşvik edildiği için",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url_id": 2630,
+  "type": "number",
+  "question_code": "2.6.01-108",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "3 yaşında bir araba satın aldınız ve hususi olarak kullanmak istiyorsunuz. Ana muayene yenidir. Bir sonraki ana muayene için son tarih nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1022,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap: Son tarihin süresi",
+      "label_before": "Cevap: Son tarihin süresi",
+      "label_after": "Aydır",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: Son tarihin süresi 24 Aydır"
+}

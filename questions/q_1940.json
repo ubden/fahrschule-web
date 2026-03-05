@@ -1,0 +1,33 @@
+{
+  "url_id": 1940,
+  "type": "choice",
+  "question_code": "2.8.01-009",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Deneme sürecindesiniz ve şimdiye kadar hiç ceza almadınız. Eğer \"Dur. Yol ver.\" tabelasına geldiğinizde durmaz ve böylelikle trafikteki diğer katılımcıları tehlikeye atarsanız ne gibi sonuçlar doğabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1941,
+  "prev_id": 1523,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Acemiler için geliştirme seminerine katılım zorunluluğu",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Merkezi trafik siciline kayıt",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Teorik sürücü sınavına yeniden girme zorunluluğu",
+      "is_correct": false
+    }
+  ]
+}

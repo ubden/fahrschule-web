@@ -1,0 +1,33 @@
+{
+  "url_id": 2034,
+  "type": "choice",
+  "question_code": "2.5.01-208",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Yokuş aşağı güvenli bir şekilde nasıl gidersiniz?",
+  "pretext": "Gaz pedalını tamamen geri çekerim ve",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2035,
+  "prev_id": 2033,
+  "answers": [
+    {
+      "num": 1,
+      "text": "motoru kapatırım",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "az fren yapmam gereken vitese geçerim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "boşa alırım",
+      "is_correct": false
+    }
+  ]
+}

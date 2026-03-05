@@ -1,0 +1,33 @@
+{
+  "url_id": 2562,
+  "type": "choice",
+  "question_code": "1.5.01-134",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Manuel şanzımanlı bir motorlu taşıt kullanıyorsunuz. Arabanızı çalıştırdıktan sonra neye dikkat etmelisiniz?",
+  "pretext": "Mümkün olduğunca",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2237,
+  "prev_id": 2561,
+  "answers": [
+    {
+      "num": 1,
+      "text": "hareketsiz haldeyken motorun ısınmasını beklerim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "çabuk sürüşe geçerim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "düşük motor devir sayısında sürüş yaparım",
+      "is_correct": true
+    }
+  ]
+}

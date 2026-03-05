@@ -1,0 +1,35 @@
+{
+  "url_id": 1794,
+  "type": "image_choice",
+  "question_code": "1.4.42-138",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretini gördüğünüzde nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-42-138.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1951,
+  "prev_id": 1792,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Trafik sıkıştığında yaya geçidi üzerinde duruyor olmamalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yayaların karşıya geçmek istedikleri anlaşılıyorsa dikkatli bir hızla gitmeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yayaların yoldan karşıya geçmelerine olanak tanımak zorundayım",
+      "is_correct": true
+    }
+  ]
+}

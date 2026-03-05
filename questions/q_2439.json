@@ -1,0 +1,33 @@
+{
+  "url_id": 2439,
+  "type": "choice",
+  "question_code": "2.7.06-234",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Araçlarda hangi fren sistemi önemli bir aşınma olmadan çalışır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2440,
+  "prev_id": 2438,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Basınçlı hava fren sistemi",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Retarder fren sistemi",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Motor freni",
+      "is_correct": true
+    }
+  ]
+}

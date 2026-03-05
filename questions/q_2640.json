@@ -1,0 +1,35 @@
+{
+  "url_id": 2640,
+  "type": "image_choice",
+  "question_code": "1.2.37-020-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Yeşil ok işareti olan bu trafik lambasından şimdi sağa sapmak istiyorsunuz. Nasıl doğru davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-37-020-VS-1.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2863,
+  "prev_id": 2466,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Diğer yol kullanıcılarına herhangi bir engel olmadığımdan emin olurum",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "İlk önce durma çizgisinde dururum",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Hiç durmaksızın adım hızıyla saparım",
+      "is_correct": false
+    }
+  ]
+}

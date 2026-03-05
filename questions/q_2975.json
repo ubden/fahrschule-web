@@ -1,0 +1,35 @@
+{
+  "url_id": 2975,
+  "type": "image_choice",
+  "question_code": "1.1.07-019-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Kavşakta sağa dönmek istiyorsunuz. Hangisi doğrudur?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-019-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1673,
+  "prev_id": 1629,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bisikletliler için ayrılan emniyet şeridini sadece yürüme hızında geçebilirim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Şeridi mümkün olduğunca erken değiştiririm",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Emniyet şeridinde bisikletlileri engellememeliyim",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2670,
+  "type": "choice",
+  "question_code": "2.5.01-126",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Tren bariyerlerinin kapanmasından dolayı beklemek zorundasınız. Çevreyi bu durumda nasıl korursunuz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2780,
+  "prev_id": 2669,
+  "answers": [
+    {
+      "num": 1,
+      "text": "El frenini çekerek",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Start-Stop Otomatiği kullanarak",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Birinci vitese takarak",
+      "is_correct": false
+    }
+  ]
+}

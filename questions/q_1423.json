@@ -1,0 +1,33 @@
+{
+  "url_id": 1423,
+  "type": "choice",
+  "question_code": "2.7.06-220",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Hava kurutmalı, basınçlı hava freni tertibatında dikkat edilmesi zorunlu olan hususlar nelerdir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1426,
+  "prev_id": 1420,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hava kurutmasındaki antifriz miktarını düzenli olarak kontrol etmek gerekir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Hava kurutmasının düzenli olarak bakımını sağlamak gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Hava depolarının su boşaltma supaplarından, hava kurutma tertibatının hatasız çalışıp çalışmadığını düzenli olarak kontrol etmek gerekir",
+      "is_correct": true
+    }
+  ]
+}

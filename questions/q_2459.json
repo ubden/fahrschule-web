@@ -1,0 +1,33 @@
+{
+  "url_id": 2459,
+  "type": "choice",
+  "question_code": "1.2.09-111",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Geri dönüş yapmak özellikle hangi durumda tehlike arz etmektedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1945,
+  "prev_id": 196,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sisli havalarda",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Tepelerden önce",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Virajlardan önce",
+      "is_correct": true
+    }
+  ]
+}

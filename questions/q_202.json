@@ -1,0 +1,33 @@
+{
+  "url_id": 202,
+  "type": "choice",
+  "question_code": "1.2.10-101",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Araç yolunun kenarındaki aracınızla harekete geçmeden önce nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1716,
+  "prev_id": 3034,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sinyal verilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Dikiz aynasına bakmak yeterlidir",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Arkadan gelen trafiğe dikkat edilir",
+      "is_correct": true
+    }
+  ]
+}

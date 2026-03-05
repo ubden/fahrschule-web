@@ -1,0 +1,33 @@
+{
+  "url_id": 2490,
+  "type": "choice",
+  "question_code": "2.2.22-125",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Arabalarda hangi yük emniyet gereçleri kullanılmaktadır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2491,
+  "prev_id": 2489,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Güvenlik ağı",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Gerdirme kemeri",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Takoz",
+      "is_correct": false
+    }
+  ]
+}

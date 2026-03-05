@@ -1,0 +1,33 @@
+{
+  "url_id": 1241,
+  "type": "choice",
+  "question_code": "2.7.01-118",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Çekiş Kontrol Sistemi (ASR) hangi avantajları sağlar?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1243,
+  "prev_id": 1238,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kaygan araç yolunda kalkış yaparken, aracın yandan savrulma tehlikesi azalır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kalkışta tekerleklerin patinaj yapması önlenir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Fren yaparken, tekerleklerin bloke etmesi önlenir",
+      "is_correct": false
+    }
+  ]
+}

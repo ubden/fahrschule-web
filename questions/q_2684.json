@@ -1,0 +1,33 @@
+{
+  "url_id": 2684,
+  "type": "choice",
+  "question_code": "2.7.02-131",
+  "points": 2,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Aracınızın ön aksındaki lastiklerin düzensiz bir şekilde aşındığını fark ettiniz. Nelerin kontrol edilmesi gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2685,
+  "prev_id": 2683,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Amortisörler",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Lastik basıncı",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Ön düzen ayarları",
+      "is_correct": true
+    }
+  ]
+}

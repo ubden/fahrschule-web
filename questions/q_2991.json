@@ -1,0 +1,35 @@
+{
+  "url_id": 2991,
+  "type": "image_choice",
+  "question_code": "2.1.06-035-M",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Önünüzdeki araçlar yaklaşık 30 km/saat hızla seyrediyor. Virajdan önce nedne sollama yapamazsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-06-035-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2647,
+  "prev_id": 2931,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çünkü şeridin üzerinden geçemem",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Çünkü sollama mesafem çok uzun",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çünkü yeşil araba beni sollamak için kenara kayabilir",
+      "is_correct": true
+    }
+  ]
+}

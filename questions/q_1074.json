@@ -1,0 +1,33 @@
+{
+  "url_id": 1074,
+  "type": "choice",
+  "question_code": "2.6.02-225",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Alman Yük Taşımacılığı Yasası (Güterkraftverkehrsgesetz) ile hangi türdeki yük taşımacılığı düzenlenmektedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2410,
+  "prev_id": 1051,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Ticari amaçlı yük taşımacılığı",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Özel yük taşımacılığı",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Ücret karşılığı yapılan yük taşımacılığı",
+      "is_correct": true
+    }
+  ]
+}

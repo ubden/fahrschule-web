@@ -1,0 +1,33 @@
+{
+  "url_id": 4,
+  "type": "choice",
+  "question_code": "1.1.01-102",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Akan trafikte önlenebilir engeller nelerdir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 5,
+  "prev_id": 3,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Motorun stop etmesi",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yakıt tükenmesi nedeniyle aracın durması",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Geçerli bir neden olmadan yavaş araç kullanma",
+      "is_correct": true
+    }
+  ]
+}

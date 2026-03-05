@@ -1,0 +1,33 @@
+{
+  "url_id": 2434,
+  "type": "choice",
+  "question_code": "2.7.06-114",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Hız sabitleyici kullanımı bir aracın şoförüne hangi yararı sağlar?",
+  "pretext": "Hız sabitleyici,",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2736,
+  "prev_id": 2312,
+  "answers": [
+    {
+      "num": 1,
+      "text": "araç kullanımında sürücünün yükünü hafifletir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "ayarlanmış bir gidiş hızını düz yolda sabit tutar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "trafik yoğunluğuna göre hızı ayarlar",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2347,
+  "type": "choice",
+  "question_code": "2.2.23-216",
+  "points": 4,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Uzun bir süre sabit konumdan sonra tekrar yola devam etmek istiyorsunuz? Ne yapılması gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2348,
+  "prev_id": 917,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracın durumuna ilişkin görsel bir kontrol yapmam gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Aracın altında çocuk olup olmadığını kontrol etmem gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Araç yükünün emniyetini kontrol etmem gerekir",
+      "is_correct": true
+    }
+  ]
+}

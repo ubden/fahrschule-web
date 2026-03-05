@@ -1,0 +1,33 @@
+{
+  "url_id": 77,
+  "type": "choice",
+  "question_code": "1.1.06-105",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Sollama işleminden hangi hallerde vazgeçilmesi zorunludur?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 78,
+  "prev_id": 76,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Beklenmedik karşı trafikten dolayı tehlike oluşması halinde",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Geçilmekte olan aracın aniden hızlanması halinde",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Geçilmekte olan aracın aniden hızını aşırı derecede azaltması halinde",
+      "is_correct": false
+    }
+  ]
+}

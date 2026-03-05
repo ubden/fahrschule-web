@@ -1,0 +1,35 @@
+{
+  "url_id": 42,
+  "type": "image_choice",
+  "question_code": "1.1.02-108-B",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda neleri dikkate almak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-02-108-B.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1603,
+  "prev_id": 2856,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sadece, yolcuların tehlikeye atılması sözkonusu olmadığı takdirde geçebilirsiniz",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sadece adım hızı ile geçmenize izin verilmiştir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Hiçbir durumda geçemezsiniz",
+      "is_correct": false
+    }
+  ]
+}

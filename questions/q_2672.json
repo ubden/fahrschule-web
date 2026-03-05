@@ -1,0 +1,33 @@
+{
+  "url_id": 2672,
+  "type": "choice",
+  "question_code": "2.6.03-308",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Beraberinizde bir römork getirmek istiyorsunuz. Çekici araç ile römork arasındaki elektrik bağlantısı ile ilgili olarak nelere dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1897,
+  "prev_id": 2357,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çekici araç ile römorkun elektrik sistemi birbiriyle uyumlu olmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Elektrik bağlantı düzenekleri hasarsız olmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yolculuğa başlamadan önce araç kombinasyonuna ait aydınlatma ekipmanının işlevi kontrol edilmelidir",
+      "is_correct": true
+    }
+  ]
+}

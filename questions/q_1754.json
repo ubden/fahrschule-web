@@ -1,0 +1,39 @@
+{
+  "url_id": 1754,
+  "type": "video",
+  "question_code": "1.2.38-104",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Arkanızdan mavi ışığı ve sesli sinyaliyle bir ambulans geliyor. Nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-38-104_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-38-104.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-38-104_anfang.jpg"
+    ]
+  },
+  "next_id": 323,
+  "prev_id": 322,
+  "answers": [
+    {
+      "num": 1,
+      "text": "\"Yeşil\" yandıktan sonra hemen yolu boşaltırım",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Başkalarını da tehlikeye atmaksızın yolu boşaltırım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yanımdaki aracın sürücüsünden hemen yolu boşaltmasını isterim",
+      "is_correct": false
+    }
+  ]
+}

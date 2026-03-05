@@ -1,0 +1,33 @@
+{
+  "url_id": 2064,
+  "type": "choice",
+  "question_code": "1.2.36-013",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Hemen sizin önünüzde gitmekte olan bir araçtan size bir „Polis çubuğu“ ile işaret veriliyor. Bu ne anlama gelir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2538,
+  "prev_id": 2063,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bu aracı duruncaya kadar takip etmeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bu aracı sollayamam",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Gösterilen istikamete sapmalıyım",
+      "is_correct": false
+    }
+  ]
+}

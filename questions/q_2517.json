@@ -1,0 +1,39 @@
+{
+  "url_id": 2517,
+  "type": "video",
+  "question_code": "1.1.07-160-M",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Şimdi neden durmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-160-VS-2_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-1-07-160-VS-2.mp4"
+    ],
+    "video_posters": [
+      "/media/1-1-07-160-VS-2_anfang.jpg"
+    ]
+  },
+  "next_id": 2634,
+  "prev_id": 2516,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kırmızı TIR´dan dolayı",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Trafik durumu karmaşık olduğundan dolayı",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bisiklet sürücüsünden dolayı",
+      "is_correct": true
+    }
+  ]
+}

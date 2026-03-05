@@ -1,0 +1,33 @@
+{
+  "url_id": 2952,
+  "type": "choice",
+  "question_code": "2.2.23-063",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Sürüş sırasında uyarı sinyallerini duymamanıza neler sebep olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 907,
+  "prev_id": 2343,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Düşük motor devir sayısı ile sürüş",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Telefonla görüşürken dikkatin dağılması",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yüksek sesle müzik dinlemek",
+      "is_correct": true
+    }
+  ]
+}

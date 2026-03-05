@@ -1,0 +1,33 @@
+{
+  "url_id": 1614,
+  "type": "choice",
+  "question_code": "1.2.09-117",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Hangi durumlarda seyir yönündeki bir değişikliği belirtmeniz gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1710,
+  "prev_id": 1612,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kıvrımlı öncelikli bir yolun seyrini takip etmek istediğimde",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kıvrımlı öncelikli bir yoldan düz istikamette ayrılmak istediğimde",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Bir yol ağzına veya bir arsaya sapmadan önce",
+      "is_correct": true
+    }
+  ]
+}

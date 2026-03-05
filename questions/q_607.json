@@ -1,0 +1,33 @@
+{
+  "url_id": 607,
+  "type": "choice",
+  "question_code": "2.1.07-106",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Otoyolda (otobanda) hızlı bir şekilde giderken, otomobilinizin bir lastiği patlıyor. Nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1808,
+  "prev_id": 603,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Derhal sıkı fren yapar, bunun ardından kenar şeridine geçersiniz",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Ayağınızı gazdan çeker, gerekirse direksiyonu aksi yöne çevirir ve dikkatlice fren yaparsınız",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Mümkün olduğu ölçüde, kenar şeridinde durur, dörtlü ikaz lambalarını yakar ve ikaz üçgenini kurarsınız",
+      "is_correct": true
+    }
+  ]
+}

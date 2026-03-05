@@ -1,0 +1,35 @@
+{
+  "url_id": 440,
+  "type": "image_choice",
+  "question_code": "1.4.41-121",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işareti, neye işaret eder?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-121.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 443,
+  "prev_id": 439,
+  "answers": [
+    {
+      "num": 1,
+      "text": "100 metre uzunluğundaki tek yönlü bir yola",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "100 metre sonra bir gümrük kapısının olduğuna",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "100 metre sonra giriş yasağının başladığına",
+      "is_correct": true
+    }
+  ]
+}

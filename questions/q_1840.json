@@ -1,0 +1,27 @@
+{
+  "url_id": 1840,
+  "type": "number",
+  "question_code": "2.2.03-022",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "İzin verilen toplam ağırlığı 7,5 tonun üzerinde olan bir ağır vasıta ile karayolunda en fazla ne kadar hızla gidebilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2716,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "km/sa",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 60 km/sa"
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 149,
+  "type": "choice",
+  "question_code": "1.2.03-002",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Fren mesafesini belirleyen faktörler nelerdir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 150,
+  "prev_id": 148,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Fren tertibatı",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Araç yolunun yüzeyi",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Lastik donatımı",
+      "is_correct": true
+    }
+  ]
+}

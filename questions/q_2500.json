@@ -1,0 +1,33 @@
+{
+  "url_id": 2500,
+  "type": "choice",
+  "question_code": "2.6.07-227",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Parça eşya taşımacılığı yapıyorsunuz. Rota planlama sırasında nelere dikkat edilmelidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2729,
+  "prev_id": 2499,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yükleme ve boşaltma yapmak için gereken süre",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yükleme ve boşaltma noktalarının sırası",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çalışma saatleri yasası ile bağlantılı olarak sürüş ve dinlenme zamanlarının uygulanması",
+      "is_correct": true
+    }
+  ]
+}

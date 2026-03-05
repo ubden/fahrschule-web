@@ -1,0 +1,33 @@
+{
+  "url_id": 3076,
+  "type": "choice",
+  "question_code": "2.7.01-167",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Sürüş destek sistemlerini kullanırken aracınızın boylamasına ve yanal yönlendirmesi için neler geçerlidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1252,
+  "prev_id": 3016,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yorulduğumda boylamasına ve yan yönlendirmeyi sürüş destek sistemine bırakabilirim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Bir arıza durumunda sürüş destek sistemini derhal devre dışı bırakmalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sürüş destek sisteminin sistem sınırlarını bilmem gerekir",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2618,
+  "type": "choice",
+  "question_code": "2.7.02-128",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Arabanızın fren sistemini ne zaman kontrol ettirmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2682,
+  "prev_id": 2362,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Arabam fren yapılınca şeritte kalmıyorsa",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Arabam ile bir tehlike freni yapıldığında",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sürüş esnasında fren gösterge ışığı yanıyorsa",
+      "is_correct": true
+    }
+  ]
+}

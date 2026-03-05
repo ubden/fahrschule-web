@@ -1,0 +1,33 @@
+{
+  "url_id": 2428,
+  "type": "choice",
+  "question_code": "2.7.05-105",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Aracınızda kışlık lastikler var. Alet tablosundaki \"max. 190 km/h\" hız etiketinin anlamı nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2429,
+  "prev_id": 2427,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Saatte 190 km'lik azami hız kuru yol şartlarında geçerli değildir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Saatte 190 km'lik azami hızı aşmak yasaktır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Saatte 190 km'lik azami hız sadece kış yol şartlarında geçerlidir",
+      "is_correct": false
+    }
+  ]
+}

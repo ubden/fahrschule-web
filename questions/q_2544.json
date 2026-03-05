@@ -1,0 +1,35 @@
+{
+  "url_id": 2544,
+  "type": "image_choice",
+  "question_code": "1.4.40-157",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Manuel şanzımanlı bir motorlu taşıt kullanıyorsunuz. Bu trafik işaretine göre nasıl doğru davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-157.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 404,
+  "prev_id": 2543,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bu inişi dikkatlice sürerek geçerim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Gerektiğinde daha düşük bir vitese takarım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Gerektiğinde daha yüksek bir vitese takarım",
+      "is_correct": false
+    }
+  ]
+}

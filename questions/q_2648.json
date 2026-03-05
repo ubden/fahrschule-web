@@ -1,0 +1,39 @@
+{
+  "url_id": 2648,
+  "type": "video",
+  "question_code": "2.1.07-022-M",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Bu durumda nasıl doğru davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-07-022-M_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-07-022-M.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-07-022-M_anfang.jpg"
+    ]
+  },
+  "next_id": 2710,
+  "prev_id": 1973,
+  "answers": [
+    {
+      "num": 1,
+      "text": "hızımı düşürmeye devam etmeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "fren tutmaya hazırlıklı olmalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "ani fren tutmalıyım",
+      "is_correct": false
+    }
+  ]
+}

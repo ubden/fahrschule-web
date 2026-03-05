@@ -1,0 +1,33 @@
+{
+  "url_id": 2259,
+  "type": "choice",
+  "question_code": "2.7.07-323",
+  "points": 4,
+  "category": "Klasse CE",
+  "question_text": "Bir yarı römork takmadan önce hangi koşul yerine getirilmiş olmalıdır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2446,
+  "prev_id": 1472,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bütün hortum ve kablo bağlantıları tamamlanmış olmalıdır",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Römork bağlantısı ve römork mili aşağı yukarı aynı seviyede olmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Römork bağlantısının emniyeti devre dışı bırakılmış ve bağlantı açılmış olmalıdır",
+      "is_correct": true
+    }
+  ]
+}

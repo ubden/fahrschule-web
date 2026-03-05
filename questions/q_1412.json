@@ -1,0 +1,33 @@
+{
+  "url_id": 1412,
+  "type": "choice",
+  "question_code": "2.7.06-208",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Yüke bağımlı otomatik fren gücü ayarlama düzeni (ALB), ne anlama gelmektedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1413,
+  "prev_id": 1410,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Fren gücü, dingillere olan yüklenime göre otomatikman ayarlanır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hareket ederken tekerleklerin patinaj yapması önlenir",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Kaygan bir yolda sıkı fren yapıldığında, tekerleklerin bloke etmesi otomatikman önlenir",
+      "is_correct": false
+    }
+  ]
+}

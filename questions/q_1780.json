@@ -1,0 +1,35 @@
+{
+  "url_id": 1780,
+  "type": "image_choice",
+  "question_code": "1.4.41-145",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu işaret ne anlatıyor?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-145.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1781,
+  "prev_id": 460,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yolu keserek geçmekte olan bisikletliler",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Kullanılması zorunlu olan bisiklet yolu",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bisikletliler için yasak",
+      "is_correct": false
+    }
+  ]
+}

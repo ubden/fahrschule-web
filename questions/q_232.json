@@ -1,0 +1,33 @@
+{
+  "url_id": 232,
+  "type": "choice",
+  "question_code": "1.2.16-102",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Yerleşim yerleri içinde kornanın hangi amaçlarla kullanılmasına izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 233,
+  "prev_id": 231,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çağırma işareti olarak",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "İkaz sinyali olarak",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Öndeki aracı geçiş sinyali olarak",
+      "is_correct": false
+    }
+  ]
+}

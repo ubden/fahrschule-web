@@ -1,0 +1,33 @@
+{
+  "url_id": 1250,
+  "type": "choice",
+  "question_code": "2.7.01-127",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Uzun ve dik inişli bir yoldan, debriyaj pedalına basılı olarak inilmesi, neden doğru değildir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2159,
+  "prev_id": 1248,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çünkü bu durumda frenler, gereksiz yere fazla aşınmış olur",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Çünkü bu durumda motorun fren etkisi devreye giremez",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çünkü bu durumda frenleme etkisini arttırıcı sistem, artık etkisini gösteremez",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "url_id": 2478,
+  "type": "video",
+  "question_code": "2.1.03-117",
+  "points": 5,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Otoyolda (otobanda) seyir halindesiniz. Bu durumda doğru olan nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-03-117_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-03-117.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-03-117_anfang.jpg"
+    ]
+  },
+  "next_id": 2644,
+  "prev_id": 1943,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Azami hız 80 km/sa ile sürebilirim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Azami hız 50 km/sa ile sürebilirim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sis lambasını açabilirim",
+      "is_correct": true
+    }
+  ]
+}

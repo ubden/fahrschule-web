@@ -1,0 +1,27 @@
+{
+  "url_id": 1487,
+  "type": "number",
+  "question_code": "2.7.09-202",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Motorlu bir taşıdın, yükü ile birlikte (tarımsal ve ormansal ürünlerle yüklü taşıtlar ve soğutucu araçlar hariç), azami kaç metre genişliğinde olmasına izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1488,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "metre",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 2,55 metre"
+}

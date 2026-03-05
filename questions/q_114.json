@@ -1,0 +1,33 @@
+{
+  "url_id": 114,
+  "type": "choice",
+  "question_code": "1.1.07-119",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Alaca karanlıkta ışıklarını yakmış bir tarımsal traktör karşı yönden gelmektedir. Neleri hesaba katmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 115,
+  "prev_id": 113,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Traktörün genişliği, yanmakta olan ışıklara rağmen, her zaman farkedilmez",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Traktör, daha geniş 2 römork çekebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Tarımsal traktör, daha geniş ve kötü farkedilebilir bir iş makinesi çekebilir",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1917,
+  "type": "choice",
+  "question_code": "2.7.06-405",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Otomatik frenli römorku olan bir araç kullanmak istiyorsunuz. Harekete geçmeden önce neyi kontrol etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1444,
+  "prev_id": 2688,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İmdat ipini/fren ipini bağlarım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Aydınlatma tertibatının işleyişini kontrol ederim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bağlantı tertibatının kilidini kontrol ederim",
+      "is_correct": true
+    }
+  ]
+}

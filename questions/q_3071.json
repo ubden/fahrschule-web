@@ -1,0 +1,33 @@
+{
+  "url_id": 3071,
+  "type": "choice",
+  "question_code": "2.6.03-121",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Taşınan bir römorkun sürüş stabilitesini neler etkileyebilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1090,
+  "prev_id": 2959,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Römorkun düşük lastik basınçları",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Römorkun çok gerisinde bulunan bir ağırlık merkezi",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sızıntı yapan bir amortisör",
+      "is_correct": true
+    }
+  ]
+}

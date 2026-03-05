@@ -1,0 +1,34 @@
+{
+  "url_id": 1753,
+  "type": "video",
+  "question_code": "1.2.37-017",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Nasıl davranmanız gerekiyor?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-37-017_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-37-017.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-37-017_anfang.jpg"
+    ]
+  },
+  "next_id": 2065,
+  "prev_id": 1751,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Fren yaparım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yoluma devam ederim",
+      "is_correct": false
+    }
+  ]
+}

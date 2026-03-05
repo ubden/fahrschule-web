@@ -1,0 +1,39 @@
+{
+  "url_id": 1629,
+  "type": "video",
+  "question_code": "1.1.07-017",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda kendinizi neye göre ayarlarsınız?",
+  "pretext": "Karşıdan gelen binek otosu",
+  "media": {
+    "images": [
+      "/media/1-1-07-017_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-1-07-017.mp4"
+    ],
+    "video_posters": [
+      "/media/1-1-07-017_anfang.jpg"
+    ]
+  },
+  "next_id": 2975,
+  "prev_id": 1606,
+  "answers": [
+    {
+      "num": 1,
+      "text": "fren yapacak ve yolun ortasına geçmeyecek",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "yolun ortasına geçmeden sollayacak",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "yolundan çıkacak ve yolun ortasına geçecek",
+      "is_correct": true
+    }
+  ]
+}

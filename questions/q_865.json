@@ -1,0 +1,33 @@
+{
+  "url_id": 865,
+  "type": "choice",
+  "question_code": "2.2.22-216",
+  "points": 3,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Dökme yükü damperden boşaltırken nelere dikkat etmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2492,
+  "prev_id": 859,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Damper platformunun bütünü ile boşaltılabilmesi için ilgili emniyet tertibatlarının çözülmesi gerekmektedir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Damper kasasının çerçeveleri, ancak damper platformu sonuna kadar devrildikten sonra açılmalıdır",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Taşıt, yeterli derecede sabit bir zemin üzerinde durmalıdır",
+      "is_correct": true
+    }
+  ]
+}

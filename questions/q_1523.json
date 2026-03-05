@@ -1,0 +1,33 @@
+{
+  "url_id": 1523,
+  "type": "choice",
+  "question_code": "2.8.01-001",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Normal olarak, deneme süresi ne kadardır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1940,
+  "prev_id": 2689,
+  "answers": [
+    {
+      "num": 1,
+      "text": "1 yıl",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "3 yıl",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "2 yıl",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2410,
+  "type": "choice",
+  "question_code": "2.6.02-230",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "C, C1, D ve D1 sınıfı ehliyetler konusunda neye dikkat etmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2671,
+  "prev_id": 1074,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Ehliyetin geçerlilik süresinin sonu ehliyetin üzerinde yazılıdır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Ehliyetin süresinin uzatılması en erken geçerlilik süresinin bitiminden 6 ay önce talep edilebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Ehliyet en çok 5 yıllık süre için verilir",
+      "is_correct": true
+    }
+  ]
+}

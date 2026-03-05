@@ -1,0 +1,33 @@
+{
+  "url_id": 1658,
+  "type": "choice",
+  "question_code": "1.1.04-110",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bir yer altı otoparkına girerken neye dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2319,
+  "prev_id": 1656,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Lastiklerim otoparkın dar giriş ve çıkışlarında zarar görebilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yayalar çoğu zaman araç yollarında yürürler",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Gözlerim önce değişen ışık koşullarına alışmalıdır",
+      "is_correct": true
+    }
+  ]
+}

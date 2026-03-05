@@ -1,0 +1,39 @@
+{
+  "url_id": 2352,
+  "type": "video",
+  "question_code": "2.2.34-001-M",
+  "points": 4,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Bu durumda nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-34-001-VS-2_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-2-34-001-VS-2.mp4"
+    ],
+    "video_posters": [
+      "/media/2-2-34-001-VS-2_anfang.jpg"
+    ]
+  },
+  "next_id": 2601,
+  "prev_id": 3063,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kaza yerinin fotoğrafını çekerim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Herhangi bir değişiklik olmaksızın yoluma devam ederim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Hemen kuvvetli bir şekilde fren yaparım",
+      "is_correct": false
+    }
+  ]
+}

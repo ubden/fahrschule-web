@@ -1,0 +1,39 @@
+{
+  "url_id": 2389,
+  "type": "video",
+  "question_code": "1.1.07-156-M",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Şimdi nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-156-VS-1_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-1-07-156-VS-1.mp4"
+    ],
+    "video_posters": [
+      "/media/1-1-07-156-VS-1_anfang.jpg"
+    ]
+  },
+  "next_id": 2454,
+  "prev_id": 2321,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Direksiyonu düz ve sıkı tutarım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Acil durum frenlemesi yaparım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sola yanaşırım",
+      "is_correct": false
+    }
+  ]
+}

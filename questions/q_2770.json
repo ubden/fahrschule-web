@@ -1,0 +1,33 @@
+{
+  "url_id": 2770,
+  "type": "choice",
+  "question_code": "2.1.11-018",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Çok sık şerit değiştirmek neden mantıklı değildir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2941,
+  "prev_id": 2714,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çünkü bu durumda zaman kazancı genellikle çok küçük olduğu için",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Çünkü bu durumda diğer yol kullanıcılarını tehlikeye atabileceği için",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çünkü bu durumda sürüş hatası riskinde artış olabileceği için",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2791,
+  "type": "choice",
+  "question_code": "2.7.01-159",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Sollamak istiyorsunuz ve Aktif Şerit Değiştirme Asistanı kullanarak bir şerit değişikliği başlattınız. Doğru olan nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2843,
+  "prev_id": 2790,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sistem tüm güvenlik mesafelerinin korunmasını her zaman tek başına yapar",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Şerit değişikliğini kontrol altında tutmam gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sistem şerit değişikliğini tek başına gerçekleştirir",
+      "is_correct": true
+    }
+  ]
+}

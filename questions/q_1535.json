@@ -1,0 +1,33 @@
+{
+  "url_id": 1535,
+  "type": "choice",
+  "question_code": "1.1.02-028",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Tekerlekli sandalyede oturan bir insanın yolun sağ tarafında yaya kaldırımı bulunmasına rağmen araç yolunda gittigini düşünün. Bu durumda nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1536,
+  "prev_id": 1534,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kenara kaçma manevrası yapabileceğini düşünerek, mümkün olduğunca büyük bir kenar mesafesiyle geçerim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Korna çalarak, yanliş davrandiği yönünde uyaririm",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Onu geçme fırsatı bulana kadar arkasından giderim",
+      "is_correct": true
+    }
+  ]
+}

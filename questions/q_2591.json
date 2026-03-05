@@ -1,0 +1,33 @@
+{
+  "url_id": 2591,
+  "type": "choice",
+  "question_code": "2.2.22-218",
+  "points": 3,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Yük dengeleme planı ne için kullanılır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2592,
+  "prev_id": 2492,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracın yük boşaltma sırasını belirlemek için",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Aracın trafik açısından emniyetli yüklenmesini desteklemek için",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Aracın dingil yükünün altına düşmesini önlemek için",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 1946,
+  "type": "image_choice",
+  "question_code": "1.2.11-103-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Düz devam etmek istiyorsunuz. Buradaki doğru davranış nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-11-103-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1721,
+  "prev_id": 2862,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yanımda giden aracı sollarım ve şerit değiştiririm",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Trafikte yeterli boşluk bulduğumda sağ şeride geçerim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Öncelikle kendi şeridimde kalırım",
+      "is_correct": true
+    }
+  ]
+}

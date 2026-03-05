@@ -1,0 +1,39 @@
+{
+  "url_id": 2829,
+  "type": "video",
+  "question_code": "2.2.05-019",
+  "points": 5,
+  "category": "Klasse B",
+  "question_text": "Şimdi önünüzde ilerleyen bir otobüsü neden sollamamalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-05-019_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-2-05-019.mp4"
+    ],
+    "video_posters": [
+      "/media/2-2-05-019_anfang.jpg"
+    ]
+  },
+  "next_id": 2878,
+  "prev_id": 2487,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Motor nedeniyle",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Eksik şerit işaretleri nedeniyle",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Otobüste açık olan uyarı sinyal lambası nedeniyle",
+      "is_correct": true
+    }
+  ]
+}

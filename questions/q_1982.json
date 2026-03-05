@@ -1,0 +1,33 @@
+{
+  "url_id": 1982,
+  "type": "choice",
+  "question_code": "1.2.05-120",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bir karayolunda fayton sollamak istiyorsunuz. Nasıl davranırsınız?",
+  "pretext": "Mümkün mertebe",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2522,
+  "prev_id": 1981,
+  "answers": [
+    {
+      "num": 1,
+      "text": "büyük bir kenar mesafesi bırakarak sollarım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "az gürültüyle sollarım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "yüksek motor devir sayısında sollarım",
+      "is_correct": false
+    }
+  ]
+}

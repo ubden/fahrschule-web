@@ -1,0 +1,33 @@
+{
+  "url_id": 2416,
+  "type": "choice",
+  "question_code": "2.7.01-142",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Virajlarda aracınızın savrulmasına neler neden olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2613,
+  "prev_id": 2415,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çok hızlı gitmek",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Direksiyonu kuvvetlice döndürmek",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Viraj sonunda biraz hızlanmak",
+      "is_correct": false
+    }
+  ]
+}

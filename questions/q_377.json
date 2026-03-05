@@ -1,0 +1,35 @@
+{
+  "url_id": 377,
+  "type": "image_choice",
+  "question_code": "1.4.40-105",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretini gördüğünüzde, nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-105.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 378,
+  "prev_id": 375,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Mümkün olduğu ölçüde sağdan gidilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hız azaltılır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sağa dönen virajdan hemen sonra şiddetle hızlanılır",
+      "is_correct": false
+    }
+  ]
+}

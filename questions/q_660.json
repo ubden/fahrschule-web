@@ -1,0 +1,27 @@
+{
+  "url_id": 660,
+  "type": "number",
+  "question_code": "2.2.03-007",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "100 km/sa hızla gidiyorsunuz ve normal bir frenleme yapıyorsunuz. Pratik formüle göre fren mesafeniz kaç metredir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 661,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "metre",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 100 metre"
+}

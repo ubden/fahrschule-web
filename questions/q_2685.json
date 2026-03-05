@@ -1,0 +1,33 @@
+{
+  "url_id": 2685,
+  "type": "choice",
+  "question_code": "2.7.02-132",
+  "points": 2,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Aracınız sürüş esnasında sağa çekiyor. Nasıl doğru davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2686,
+  "prev_id": 2684,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Lastik basıncını kontrol ederim ve gerekirse tamirhaneye giderim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sonraki yolculuklarda sadece direksiyonun davranışını gözlemlerim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sert fren yaparak, sürüş davranışını iyileştirmeye çalışırım",
+      "is_correct": false
+    }
+  ]
+}

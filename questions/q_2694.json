@@ -1,0 +1,27 @@
+{
+  "url_id": 2694,
+  "type": "number",
+  "question_code": "2.6.04-319",
+  "points": 4,
+  "category": "Klasse CE",
+  "question_text": "İzin verilen toplam katar ağırlığı 24 t olan bir araç kombinasyonu kullanıyorsunuz. Bir mola için sürüş süresini en geç ne zaman kesmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1133,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "Saat sonra",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 4,50 Saat sonra"
+}

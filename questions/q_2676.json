@@ -1,0 +1,33 @@
+{
+  "url_id": 2676,
+  "type": "choice",
+  "question_code": "2.7.01-147",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Direksiyon müdahaleli Şeritten Ayrılma Uyarı Sistemi en iyi hangi koşullarda çalışır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2678,
+  "prev_id": 2675,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Ek şantiye işaretleri olması durumunda",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Şerit üzerinde kar artıkları olması durumunda",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Belirgin olan şerit işaretlerinde",
+      "is_correct": true
+    }
+  ]
+}

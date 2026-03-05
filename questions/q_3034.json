@@ -1,0 +1,39 @@
+{
+  "url_id": 3034,
+  "type": "video",
+  "question_code": "1.2.10-006-M",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Benzin istasyonundan çıkmak istiyorsunuz. Hangisi doğrudur?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-10-006-M_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-10-006-M.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-10-006-M_anfang.jpg"
+    ]
+  },
+  "next_id": 202,
+  "prev_id": 201,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Her iki yöne de çıkabilirim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Soldan gelen araçlara kaşı geçiş üstünlüğüm var",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Karşıdan karşıya geçen yayalara öncelik vermek zorundayım",
+      "is_correct": true
+    }
+  ]
+}

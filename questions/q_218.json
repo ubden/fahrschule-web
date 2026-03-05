@@ -1,0 +1,33 @@
+{
+  "url_id": 218,
+  "type": "choice",
+  "question_code": "1.2.12-107",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Park etmek nasıl tanımlanır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 219,
+  "prev_id": 217,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracını bırakıp gitmek",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kapalı demiryolu bariyeri önünde üç dakikadan fazla beklemek",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Üç dakikadan fazla durmak",
+      "is_correct": true
+    }
+  ]
+}

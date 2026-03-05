@@ -1,0 +1,33 @@
+{
+  "url_id": 1728,
+  "type": "choice",
+  "question_code": "1.2.19-112",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Andreas çaprazında sağı gösteren ok şeklindeki kırmızı sinyal ışığında kimler beklemek zorundadır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1729,
+  "prev_id": 2392,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Düz gidenler",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sağa dönecek olanlar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sola dönecek olanlar",
+      "is_correct": false
+    }
+  ]
+}

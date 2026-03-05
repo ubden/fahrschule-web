@@ -1,0 +1,33 @@
+{
+  "url_id": 2904,
+  "type": "choice",
+  "question_code": "2.7.01-164",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Aktif park asistanını kullanırken nelere dikkat etmelisiniz?",
+  "pretext": "Aktif park asistanı",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2905,
+  "prev_id": 2903,
+  "answers": [
+    {
+      "num": 1,
+      "text": "beni trafiği gözlemleme görevinden kurtarıyor",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "park etme sırasında tüm engelleri güvenilir bir şekilde algılar",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "tehlikelerin ortaya çıkması durumunda manuel olarak geçersiz kılınmalıdır",
+      "is_correct": true
+    }
+  ]
+}

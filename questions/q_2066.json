@@ -1,0 +1,35 @@
+{
+  "url_id": 2066,
+  "type": "image_choice",
+  "question_code": "1.4.42-141",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretleri kombinasyonunun sizin için anlamı nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-42-141.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2122,
+  "prev_id": 1951,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sağa sapamam veya düz devam edemem",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sola kıvrılmakta olan öncelikli yolda bulunuyorum",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Düz devam ederken sağdan gelmekte olan araçların önceliğine dikkat etmek zorundayım",
+      "is_correct": false
+    }
+  ]
+}

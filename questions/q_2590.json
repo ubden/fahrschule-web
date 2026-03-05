@@ -1,0 +1,33 @@
+{
+  "url_id": 2590,
+  "type": "choice",
+  "question_code": "2.2.22-128",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Bagaja yolcu eşyası yüklerken nelere dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2853,
+  "prev_id": 2589,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yolcu eşyalarını kaymalara karşı korumalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Ağır yükleri aşağı taraflara yerleştirmeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Uyarı üçgenini kolay erişilebilecek bir yere koymalıyım",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 190,
+  "type": "image_choice",
+  "question_code": "1.2.09-103-B",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Her üç araç da sola dönmek istiyor. Hangi araç, doğru pozisyon almıştır?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-09-103-B.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 191,
+  "prev_id": 188,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kamyon",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Yeşil otomobil",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sarı otomobil",
+      "is_correct": true
+    }
+  ]
+}

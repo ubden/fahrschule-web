@@ -1,0 +1,35 @@
+{
+  "url_id": 1572,
+  "type": "image_choice",
+  "question_code": "1.1.02-043-M",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Nasıl davranmanız gerekiyor?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-02-043-VS-1.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2452,
+  "prev_id": 1571,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Frene hazır durumda beklerim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hemen fren yaparak adım hızına düşmeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Hızımı düşürmeden geçer giderim",
+      "is_correct": false
+    }
+  ]
+}

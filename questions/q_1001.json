@@ -1,0 +1,33 @@
+{
+  "url_id": 1001,
+  "type": "choice",
+  "question_code": "2.5.01-107",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Nasıl akaryakıttan tasarruf edebilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1005,
+  "prev_id": 1000,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Tavan bagajını veya kayak tutucularını sökmek suretiyle",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "En azından lastik basıncını kullanım kılavuzuna göre ayarlamak suretiyle",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "En yüksek viteste gitmemek suretiyle",
+      "is_correct": false
+    }
+  ]
+}

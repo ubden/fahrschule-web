@@ -1,0 +1,33 @@
+{
+  "url_id": 2373,
+  "type": "choice",
+  "question_code": "2.7.05-222",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Tekerlek basıncı kontrol sistesi (RDKS) ikiz tekerleklerin birinde basınç kaybının olduğunu göstermektedir. Nasıl davranmanız gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2430,
+  "prev_id": 2372,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bir sonraki müsait yerde dururum ve görsel bir kontrol yaparım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bir sonraki kontrolde hasarı tamir ederim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Diğer ikiz tekerlek yükü taşıdığından dolayı göstergeyi dikkate almama gerek yok",
+      "is_correct": false
+    }
+  ]
+}

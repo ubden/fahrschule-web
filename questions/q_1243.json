@@ -1,0 +1,33 @@
+{
+  "url_id": 1243,
+  "type": "choice",
+  "question_code": "2.7.01-120",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Küre kafalı kavraması olan bir römorku, çekici araca bağlamak istiyorsunuz. Doğru olan nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1244,
+  "prev_id": 1241,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Destek tekerleğini, araç giderken dönecek şekilde ayarlamanız gerekir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Kavrama pençesinin, küre kafasını sağlam kuşatması ve emniyetin yerine oturması zorunludur",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Elektrik bağlantısının sağlanması zorunludur",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2613,
+  "type": "choice",
+  "question_code": "2.7.01-143",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Şeritten Ayrılma Uyarı Sistemi sizi akustik, dokunsal veya görsel sinyallerle uyarır. Bunun nedeni ne olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2673,
+  "prev_id": 2416,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracım öndeki araç ile arasındaki güvenlik mesafesinin altına düşüyor",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Aracım yan şerit işaretine yaklaşıyor",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Başka bir araç beni çok az bir yan mesafe ile solluyor",
+      "is_correct": false
+    }
+  ]
+}

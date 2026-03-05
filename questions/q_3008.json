@@ -1,0 +1,35 @@
+{
+  "url_id": 3008,
+  "type": "image_choice",
+  "question_code": "2.2.36-001-M",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Bu ağır yük aracına yaklaşırken doğru davranış nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-36-001-VS-1.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 955,
+  "prev_id": 951,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sağ şeride geçerim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Büyük bir dikkatle sollarım",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sollama yapmıyorum",
+      "is_correct": true
+    }
+  ]
+}

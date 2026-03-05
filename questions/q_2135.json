@@ -1,0 +1,39 @@
+{
+  "url_id": 2135,
+  "type": "video",
+  "question_code": "2.2.07-005",
+  "points": 5,
+  "category": "Klasse B",
+  "question_text": "Tehlikeli bir duruma neden olabilecek olan şey nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-07-005_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-2-07-005.mp4"
+    ],
+    "video_posters": [
+      "/media/2-2-07-005_anfang.jpg"
+    ]
+  },
+  "next_id": 2187,
+  "prev_id": 2996,
+  "answers": [
+    {
+      "num": 1,
+      "text": "önden giden binek otosunun şerit değiştirmesi",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "yeşil ağır vasıtanın şerit değiştirmesi",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "sarı ağır vasıtanın şerit değiştirmesi",
+      "is_correct": true
+    }
+  ]
+}

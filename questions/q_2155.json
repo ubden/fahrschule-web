@@ -1,0 +1,33 @@
+{
+  "url_id": 2155,
+  "type": "choice",
+  "question_code": "2.6.06-408",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Sürücü belgesi sınıfınızın geçerlilik süresi dolmuş. Bunun sonuçları nelerdir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2411,
+  "prev_id": 1906,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bu sınıfa ilişkin sürücü belgesi iptal olmuştur",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bu sınıftan olan araçları kullanmak yasaktır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bu sınıftan olan araçları yalnızca kendi kişisel yolculuklarınızda kullanabilirsiniz",
+      "is_correct": false
+    }
+  ]
+}

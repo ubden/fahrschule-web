@@ -1,0 +1,27 @@
+{
+  "url_id": 261,
+  "type": "number",
+  "question_code": "1.2.22-101",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "İşaretlendirilmesine gerek olmadan bir yük, arka reflektörlerden en çok ne kadar dışarı sarkabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 262,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "metre",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 1 metre"
+}

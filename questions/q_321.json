@@ -1,0 +1,33 @@
+{
+  "url_id": 321,
+  "type": "choice",
+  "question_code": "1.2.38-101",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bir hizmet aracının üzerindeki mavi sinyal lambanın yanması, fakat siren çalmaması, ne anlama gelebilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 322,
+  "prev_id": 320,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İtfaiyenin görevde olduğu bir olay yerine dikkatinizin çekilmesi",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bir kaza yerindeki tehlikelere dikkatinizin çekilmesi",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bir çekici aracın göreve gitmek üzere trafikte olduğuna",
+      "is_correct": false
+    }
+  ]
+}

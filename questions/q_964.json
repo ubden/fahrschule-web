@@ -1,0 +1,35 @@
+{
+  "url_id": 964,
+  "type": "image_choice",
+  "question_code": "2.4.41-101",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Bu trafik işaretinde neye dikkat etmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-41-101.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 965,
+  "prev_id": 3064,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kar zincirleri takılmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "İzin verilen azami hız sınırı 50 km/sa’dir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Zincirli araçların geçiş önceliği vardır",
+      "is_correct": false
+    }
+  ]
+}

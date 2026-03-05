@@ -1,0 +1,33 @@
+{
+  "url_id": 3063,
+  "type": "choice",
+  "question_code": "2.2.32-205",
+  "points": 3,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Aracınızla inşaat sahasından çıktığınızda nasıl davranmalısınız?",
+  "pretext": "Gerekirse şunları yapmak zorundayım",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2352,
+  "prev_id": 2350,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İkiz lastikler arasında sıkışan taşları çıkarmak",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Aydınlatma tertibatlarını temizlemek",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yüklenen dökme malların üzerinin yeterince örtülü olduğundan emin olmak",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 243,
+  "type": "choice",
+  "question_code": "1.2.19-008",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bir sanayi bölgesi girişinde duran bir Andreas çaprazındaki ilave levhada \"Sanayi bölgesi, demiryolu taşıtları önceliklidir\" yazmaktadır. Bu bölgede neye dikkat etmeniz gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2980,
+  "prev_id": 240,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Demiryolu taşıtlarının, bütün demiryolu geçitlerinde öncelikleri vardır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Motorlu taşıtlar, Andreas çaprazı bulunmayan demiryolu geçitlerinde önceliklidir",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Demiryolu geçitlerine sadece düşük bir hızla yaklaşılır",
+      "is_correct": true
+    }
+  ]
+}

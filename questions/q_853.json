@@ -1,0 +1,33 @@
+{
+  "url_id": 853,
+  "type": "choice",
+  "question_code": "2.2.22-204",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Değiştirilebilir yük taşıyıcıları (swap body) çeken bir kamyonun azami taşıma kapasitesinin 6.000 Kg olduğunu varsayın. Taşıyıcının 1.500 Kg boş kütlesi olduğunu düşünün. Bu taşıyıcıya yükleyebileceğiniz kütlenin ağırlığı azami ne kadar olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 859,
+  "prev_id": 852,
+  "answers": [
+    {
+      "num": 1,
+      "text": "7.500 Kg",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "4.500 Kg",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "6.000 Kg",
+      "is_correct": false
+    }
+  ]
+}

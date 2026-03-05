@@ -1,0 +1,35 @@
+{
+  "url_id": 2635,
+  "type": "image_choice",
+  "question_code": "1.1.07-162-M",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Aracınızla park yerinden çıkmak istiyorsunuz. Bu durumu nasıl doğru değerlendirirsiniz?",
+  "pretext": "Arkadan gelen",
+  "media": {
+    "images": [
+      "/media/1-1-07-162-M.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2636,
+  "prev_id": 2634,
+  "answers": [
+    {
+      "num": 1,
+      "text": "araçları geç farkederim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "araç sürücüleri bana park yerinden çıkarken öncelik tanırlar",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "araç sürücüleri beni geç farkederler",
+      "is_correct": true
+    }
+  ]
+}

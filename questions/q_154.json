@@ -1,0 +1,33 @@
+{
+  "url_id": 154,
+  "type": "choice",
+  "question_code": "1.2.03-105",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Hangi pratik formülle, aracın hızından, normal frenleme halinde fren mesafesini metre olarak hesaplarsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 155,
+  "prev_id": 153,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Km/sa itibariyle hız10x 5",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Km/sa itibariyle hız10x 3",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Km/sa itibariyle hız10xKm/sa itibariyle hız10",
+      "is_correct": true
+    }
+  ]
+}

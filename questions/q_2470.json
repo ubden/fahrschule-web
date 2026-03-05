@@ -1,0 +1,35 @@
+{
+  "url_id": 2470,
+  "type": "image_choice",
+  "question_code": "1.4.40-149",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretini gördüğünüzde neye hazırlıklı olmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-149.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2471,
+  "prev_id": 2469,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yabani hayvan alanı",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Araç yolunda mera hayvanları",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kirli araç yolu",
+      "is_correct": true
+    }
+  ]
+}

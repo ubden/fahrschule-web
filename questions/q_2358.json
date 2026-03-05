@@ -1,0 +1,33 @@
+{
+  "url_id": 2358,
+  "type": "choice",
+  "question_code": "2.7.01-131",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Sapma esnasında bir araç kombinasyonunun ( karavan takılmış olan binek aracı) dönemeç hareket özellikleri nasıl bir etki gösteriyor?",
+  "pretext": "Karavan",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2301,
+  "prev_id": 2212,
+  "answers": [
+    {
+      "num": 1,
+      "text": "dışarı doğru sallanabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "virajı kesebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "normalde binek aracının şeridinde devam eder",
+      "is_correct": false
+    }
+  ]
+}

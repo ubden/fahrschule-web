@@ -1,0 +1,28 @@
+{
+  "url_id": 2341,
+  "type": "choice",
+  "question_code": "2.2.21-121",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Yolculuk esnasında bir çocuğun arka kapıları açmasını nasıl önlersiniz?",
+  "pretext": "aktif hale getiririm",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2488,
+  "prev_id": 828,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Merkezi kilidi",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Arka kapıların çocuk emniyet kilitlerini",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 217,
+  "type": "choice",
+  "question_code": "1.2.12-106",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Nerede, gidiş yönünüze göre sol tarafta park etmenize izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 218,
+  "prev_id": 216,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Tek yönlü yollarda",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sağ tarafta park yasağı olan yerlerde",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sağ tarafta ray olan yerlerde",
+      "is_correct": true
+    }
+  ]
+}

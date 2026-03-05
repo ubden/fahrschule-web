@@ -1,0 +1,35 @@
+{
+  "url_id": 2468,
+  "type": "image_choice",
+  "question_code": "1.4.40-147",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işareti neye işaret eder?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-147.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2469,
+  "prev_id": 1777,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Atlıların motorlu araçlara göre geçiş üstünlüklerine",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Atlarla bağlantılı tehlikeli bir alana",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Atlı yol nedeniyle geçiş yolu yasağına",
+      "is_correct": false
+    }
+  ]
+}

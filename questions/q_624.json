@@ -1,0 +1,33 @@
+{
+  "url_id": 624,
+  "type": "choice",
+  "question_code": "2.1.10-002",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Uzun bir yolculukta, yorgunluk nasıl önlenebilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2484,
+  "prev_id": 2940,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Molalarda jimnastik egzersizleri yapmakla",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sık ve zamanında yapılan dinlenme molaları ile",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Dinlenme molaları yerine kahve içmekle",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 373,
+  "type": "image_choice",
+  "question_code": "1.4.40-101",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bir yerleşim yeri dışında, bu trafik işaretinin yanından geçiyorsunuz. Tehlike yerinin hangi mesafede olması beklenmelidir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-101.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 375,
+  "prev_id": 3088,
+  "answers": [
+    {
+      "num": 1,
+      "text": "50 metre ila 150 metre arasında",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "250 metre ila 350 metre arasında",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "150 metre ila 250 metre arasında",
+      "is_correct": true
+    }
+  ]
+}

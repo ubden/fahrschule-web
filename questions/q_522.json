@@ -1,0 +1,33 @@
+{
+  "url_id": 522,
+  "type": "choice",
+  "question_code": "1.5.01-110",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Aracınızı çevre bilincine uygun olarak nasıl kullanırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 526,
+  "prev_id": 3046,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Lambanın \"Yeşil\" yanması halinde, daima tam gazla hızlandırırsınız",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Bir sonraki lambanın \"Kırmızı\" göstermesi halinde, ayağınızı gazdan zamanında çeker, lambaya kadar aracın kendi hızını kullanırsınız",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Gereksiz yere hızlandırmaktan ve frenlemekten kaçınılır",
+      "is_correct": true
+    }
+  ]
+}

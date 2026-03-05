@@ -1,0 +1,33 @@
+{
+  "url_id": 2959,
+  "type": "choice",
+  "question_code": "2.6.03-120",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Bir B sınıfı ehliyetiniz var. Hangi römorku takabilirsiniz?",
+  "pretext": "İzin verilen toplam kütlesi",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3071,
+  "prev_id": 2899,
+  "answers": [
+    {
+      "num": 1,
+      "text": "750 kg'a kadar olan bir römork",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "750 kg üzerinde olan bir römork, eğer araç kombinasyonunun izin verilen toplam değeri 3.500 kg'ı aşmıyorsa",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "3.500 kg olan bir römork",
+      "is_correct": false
+    }
+  ]
+}

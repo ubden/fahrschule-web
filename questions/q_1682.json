@@ -1,0 +1,33 @@
+{
+  "url_id": 1682,
+  "type": "choice",
+  "question_code": "1.1.07-142",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Trafiğin yoğun olduğu çok şeritli bir yolda sola sapacak şekilde konum aldınız. Fakat sol yerine sağa sapmak istiyorsunuz. Nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1683,
+  "prev_id": 1681,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Geniş bir yay çizerek sağa saparım",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sinyal ışığım yanık halde geri geri giderim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sola saparım",
+      "is_correct": true
+    }
+  ]
+}

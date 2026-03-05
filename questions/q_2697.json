@@ -1,0 +1,35 @@
+{
+  "url_id": 2697,
+  "type": "image_choice",
+  "question_code": "1.1.07-166-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda neyi hesaba katmanız gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-166-VS-1.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2698,
+  "prev_id": 2696,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Karşıdan gelen trafiği",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bisiklet sürücüsü sola doğru şeritten çıkabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bisiklet sürücüsü bisikletinden inerek, geçmemi sağlar",
+      "is_correct": false
+    }
+  ]
+}

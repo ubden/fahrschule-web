@@ -1,0 +1,33 @@
+{
+  "url_id": 214,
+  "type": "choice",
+  "question_code": "1.2.12-103",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Nerede durmak yasaktır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 215,
+  "prev_id": 211,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sağ tarafta yeterli mesafede kenar şeridi mevcut ise, araç yolu üzerinde",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Taksi duraklarında",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yön gösteren oklarla işaretlenmiş şeritler üzerinde",
+      "is_correct": true
+    }
+  ]
+}

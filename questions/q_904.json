@@ -1,0 +1,33 @@
+{
+  "url_id": 904,
+  "type": "choice",
+  "question_code": "2.2.23-035",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Aracınıza ait mali sorumluluk sigortasının sona ermesi halinde, hangi hükümler geçerlidir?",
+  "pretext": "Aracın",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 905,
+  "prev_id": 903,
+  "answers": [
+    {
+      "num": 1,
+      "text": "karayol trafiğinde kullanılması yasaktır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Trafik Dairesi'ndeki kaydının silinmesi zorunludur",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Trafik Dairesi'ne gösterilmesi zorunludur",
+      "is_correct": false
+    }
+  ]
+}

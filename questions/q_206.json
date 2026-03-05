@@ -1,0 +1,33 @@
+{
+  "url_id": 206,
+  "type": "choice",
+  "question_code": "1.2.11-003",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Tıkanık trafikte belli alanların boş bırakılması zorunludur. Bu alanlar hangileridir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2754,
+  "prev_id": 2116,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Demiryolu geçitleri",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kavşaklar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Arsa girişleri",
+      "is_correct": false
+    }
+  ]
+}

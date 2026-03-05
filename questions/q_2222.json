@@ -1,0 +1,33 @@
+{
+  "url_id": 2222,
+  "type": "choice",
+  "question_code": "1.1.07-154",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Tünelden geçerken doğru davranış biçimi nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2321,
+  "prev_id": 2169,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kendimi önümdeki aracın kuyruk lambasına göre konumlandırabilmek için daha düşük mesafeyle yol alırım",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Çift istikametli bir tünelde kendimi yolun sağ kenarına göre konumlandırırım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Acil çıkış ve acil telefonlar gibi güvenlik tertibatlarını iyice bellerim",
+      "is_correct": true
+    }
+  ]
+}

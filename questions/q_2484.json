@@ -1,0 +1,33 @@
+{
+  "url_id": 2484,
+  "type": "choice",
+  "question_code": "2.1.10-004",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Sürüş sırasında elektronik cihazlar kullanmanız sonucunda dikkatinizin dağılması hangi tehlikelere neden olur?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2485,
+  "prev_id": 624,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kendi şeridimden çıkabilirim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Trafik işaretlerini gözden kaçırabilirim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Fren durma mesafem kısalabilir",
+      "is_correct": false
+    }
+  ]
+}

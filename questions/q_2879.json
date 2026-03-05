@@ -1,0 +1,35 @@
+{
+  "url_id": 2879,
+  "type": "image_choice",
+  "question_code": "2.2.07-201-M",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Bu yolda yerleşim alanları dışında ne geçerlidir?",
+  "pretext": "Sol şeridi",
+  "media": {
+    "images": [
+      "/media/2-2-07-201-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2137,
+  "prev_id": 3050,
+  "answers": [
+    {
+      "num": 1,
+      "text": "trafik sıkışıklığı olduğunda kullanabilirim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "sola dönmek için kullanabilirim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "sollamak için kullanabilirim",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 2326,
+  "type": "image_choice",
+  "question_code": "1.3.01-127-M",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Araçlar burada hangi sıra ile yollarına devam etmelidir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-3-01-127-VS-1.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2540,
+  "prev_id": 2120,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bisikletli kadın, ben, kırmızı araç",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Ben, bisikletli kadın, kırmızı araç",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Bisikletli kadın, kırmızı araç, ben",
+      "is_correct": false
+    }
+  ]
+}

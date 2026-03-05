@@ -1,0 +1,33 @@
+{
+  "url_id": 1711,
+  "type": "choice",
+  "question_code": "1.2.09-120",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Sola sapmak istiyorsunuz. Sapmaya hangi sıralamayla hazırlanırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1712,
+  "prev_id": 1710,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Arkadan gelen trafiği gözlemlerim, istikametime göre sinyal veririm, hizaya girerim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hizaya girerim, istikametime göre sinyal veririm, arkadan gelen trafiği gözlemlerim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "İstikametime göre sinyal veririm, hizaya girerim, arkadan gelen trafiği gözlemlerim",
+      "is_correct": false
+    }
+  ]
+}

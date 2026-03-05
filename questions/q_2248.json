@@ -1,0 +1,39 @@
+{
+  "url_id": 2248,
+  "type": "video",
+  "question_code": "2.1.07-117-M",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Sağa saparken neye dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-07-117-M_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-07-117-M.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-07-117-M_anfang.jpg"
+    ]
+  },
+  "next_id": 2250,
+  "prev_id": 2246,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Soldan gelmekte olan araçlara",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Traktöre",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Motosikletliye",
+      "is_correct": true
+    }
+  ]
+}

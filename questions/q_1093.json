@@ -1,0 +1,27 @@
+{
+  "url_id": 1093,
+  "type": "number",
+  "question_code": "2.6.03-304",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "İzin verilmiş toplam kütlesi 15 ton olan kamyona (boydan boya fren tertibatlı) takılı römorkun azami yükü ne kadar olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2154,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "ton",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 22,50 ton"
+}

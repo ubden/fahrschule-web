@@ -1,0 +1,39 @@
+{
+  "url_id": 2709,
+  "type": "video",
+  "question_code": "2.1.07-015-M",
+  "points": 5,
+  "category": "Klasse B",
+  "question_text": "Burada hızınızı düşürmeye neden devam etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-07-015-VS-1_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-07-015-VS-1.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-07-015-VS-1_anfang.jpg"
+    ]
+  },
+  "next_id": 1973,
+  "prev_id": 2573,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sarı araba şeridime girebileceği için",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kırmızı araba yoluna devam edebileceği için",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Başka insanlar araç yoluna çıkabileceği için",
+      "is_correct": true
+    }
+  ]
+}

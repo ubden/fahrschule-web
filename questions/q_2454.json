@@ -1,0 +1,39 @@
+{
+  "url_id": 2454,
+  "type": "video",
+  "question_code": "1.1.07-157-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda kendinizi neye hazırlamalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-157-M_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-1-07-157-M.mp4"
+    ],
+    "video_posters": [
+      "/media/1-1-07-157-M_anfang.jpg"
+    ]
+  },
+  "next_id": 2455,
+  "prev_id": 2389,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İnsanlar otobüsün arkasından araç yoluna çıkar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Quad aniden harekete geçer",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Otobüs harekete geçerken kısa süreliğine şeridime geçer",
+      "is_correct": true
+    }
+  ]
+}

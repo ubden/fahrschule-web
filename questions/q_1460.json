@@ -1,0 +1,33 @@
+{
+  "url_id": 1460,
+  "type": "choice",
+  "question_code": "2.7.07-309",
+  "points": 4,
+  "category": "Klasse CE",
+  "question_text": "Çok dingilli bir römorku çekici araca bağlarken, nelerden emin olmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1462,
+  "prev_id": 1457,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Römorkun kendiliğinden harekete geçmemesi için emniyete alındığından (el freni, takozlar)",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Römorkun basınçlı hava freni depolarının dolu olmasından",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Çekme çatalının doğru ayarlanmış olmasından",
+      "is_correct": true
+    }
+  ]
+}

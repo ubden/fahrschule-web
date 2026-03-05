@@ -1,0 +1,39 @@
+{
+  "url_id": 2133,
+  "type": "video",
+  "question_code": "2.2.05-013",
+  "points": 5,
+  "category": "Klasse B",
+  "question_text": "Bu durumda özellikle kime dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-05-013_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-2-05-013.mp4"
+    ],
+    "video_posters": [
+      "/media/2-2-05-013_anfang.jpg"
+    ]
+  },
+  "next_id": 2134,
+  "prev_id": 2132,
+  "answers": [
+    {
+      "num": 1,
+      "text": "beyaz ağır vasıtaya",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "bisikletliye",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "kırmızı binek otosuna",
+      "is_correct": false
+    }
+  ]
+}

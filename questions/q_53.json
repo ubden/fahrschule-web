@@ -1,0 +1,33 @@
+{
+  "url_id": 53,
+  "type": "choice",
+  "question_code": "1.1.03-105",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Sürüş esnasında, yolun buz tutup tutmadığını, tehlike oluşturmadan nasıl tespit edebilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 56,
+  "prev_id": 52,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Direksiyonu, ani hareketle sağa-sola çevirmek suretiyle",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Aşırı şekilde hızlanmak suretiyle",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Yavaş giderken fren yapmak suretiyle",
+      "is_correct": true
+    }
+  ]
+}

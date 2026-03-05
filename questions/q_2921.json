@@ -1,0 +1,35 @@
+{
+  "url_id": 2921,
+  "type": "image_choice",
+  "question_code": "1.4.40-012",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işareti sizi hangi tehlikeye karşı uyarıyor?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-012.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3088,
+  "prev_id": 2642,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracımın yana doğru kaymasına karşı",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Uçuş işletiminden önce",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Yan rüzgara karşı",
+      "is_correct": true
+    }
+  ]
+}

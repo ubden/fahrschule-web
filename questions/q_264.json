@@ -1,0 +1,33 @@
+{
+  "url_id": 264,
+  "type": "choice",
+  "question_code": "1.2.22-104",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Araca normalden % 20 daha fazla yük yüklenmesi, nelere yol açabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 266,
+  "prev_id": 262,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Direksiyon kullanımının kötüleşmesine",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Frenlerin aşırı derecede zorlanmasına",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Aracın taşıyıcı kısımlarında hasarların meydana gelmesine",
+      "is_correct": true
+    }
+  ]
+}

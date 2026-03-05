@@ -1,0 +1,35 @@
+{
+  "url_id": 2983,
+  "type": "image_choice",
+  "question_code": "1.4.41-026-M",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda doğru olan nedir?",
+  "pretext": "Dar kısmı",
+  "media": {
+    "images": [
+      "/media/1-4-41-026-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2984,
+  "prev_id": 2762,
+  "answers": [
+    {
+      "num": 1,
+      "text": "sadece yürüme hızında geçebilirim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "karşıdan gelen araçtan önce geçebilirim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "karşıdan gelen araçtan sonra geçebilirim",
+      "is_correct": true
+    }
+  ]
+}

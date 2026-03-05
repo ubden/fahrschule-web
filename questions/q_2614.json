@@ -1,0 +1,33 @@
+{
+  "url_id": 2614,
+  "type": "choice",
+  "question_code": "2.7.01-256",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Motorlu taşıtınızı kış şartlarında kullanırken nelere dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2615,
+  "prev_id": 2160,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracı kullanmadan önce tüm basamaklar kar ve buzdan arındırılmış olmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Motorlu aracım kış lastikleriyle donatılmış olmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yeterli miktarda cam antifrizi doldurulmalıdır",
+      "is_correct": true
+    }
+  ]
+}

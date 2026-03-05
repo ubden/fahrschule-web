@@ -1,0 +1,33 @@
+{
+  "url_id": 257,
+  "type": "choice",
+  "question_code": "1.2.20-004",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Hangi taşıtların ilgili tabelalarla işaretlenmiş duraklardan hareket etmesine imkân tanımak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1731,
+  "prev_id": 3036,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Okul otobüslerinin",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Belediye otobüslerinin",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Taksilerin",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1941,
+  "type": "choice",
+  "question_code": "2.8.01-010",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Deneme sürecinde bir geliştirme seminerine katılarak ne elde edebilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2690,
+  "prev_id": 1940,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Karayolu ulaşımına daha saygılı ve daha fazla risk bilinciyle katılım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Merkezi trafik sicilindeki puanların silinmesi",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Tehlikelerin daha iyi fark edilmesi",
+      "is_correct": true
+    }
+  ]
+}

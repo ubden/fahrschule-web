@@ -1,0 +1,33 @@
+{
+  "url_id": 1473,
+  "type": "choice",
+  "question_code": "2.7.08-201",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Hava filtresinin düzenli olarak değiştirilmemesi, motor için hangi sonuçlara yol açar?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1474,
+  "prev_id": 2503,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Akaryakıt tüketimi artabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Motorun performansı azalabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Atık gazlardaki zararlı madde oranı yükselebilir",
+      "is_correct": true
+    }
+  ]
+}

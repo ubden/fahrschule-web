@@ -1,0 +1,35 @@
+{
+  "url_id": 2986,
+  "type": "image_choice",
+  "question_code": "2.1.03-044-M",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Bu durumda neleri göz önünde bulundurmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-03-044-M.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 566,
+  "prev_id": 2820,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracım sola doğru kaydırılabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kamyonun rüzgar akımına girerken, aracım sağa doğru kayabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Önde giden kamyon sağa doğru kayabilir",
+      "is_correct": false
+    }
+  ]
+}

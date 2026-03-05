@@ -1,0 +1,33 @@
+{
+  "url_id": 2206,
+  "type": "choice",
+  "question_code": "2.6.04-317",
+  "points": 4,
+  "category": "Klasse C",
+  "question_text": "Karayolunda, izin verilen toplam ağırlığı 3,5 tonun üzerinde olan bir ağır vasıta ile mal taşımacılığı yapıyorsunuz. 4 buçuk saatlik bir sürüş süresinin ardından yolunuza devam etmeden önce en az ne kadar mola vermek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2218,
+  "prev_id": 1899,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Eğer öncesinde henüz mola yapmamışsam 45 dakika",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Eğer öncesinde 15 dakikalık bir mola yapmışsam 30 dakika",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Eğer öncesinde 10'ar dakikalık üç mola yapmışsam 15 dakika",
+      "is_correct": false
+    }
+  ]
+}

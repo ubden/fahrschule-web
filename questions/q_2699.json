@@ -1,0 +1,39 @@
+{
+  "url_id": 2699,
+  "type": "video",
+  "question_code": "1.2.09-134-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Şimdi nasıl doğru davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-09-134-VS-1_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-09-134-VS-1.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-09-134-VS-1_anfang.jpg"
+    ]
+  },
+  "next_id": 2700,
+  "prev_id": 2528,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Fren tutarım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hemen sol şeride geçerim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Şimdilik sağ şeritte kalırım",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 407,
+  "type": "image_choice",
+  "question_code": "1.4.41-004",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretini gördüğünüzde, nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-004.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 409,
+  "prev_id": 404,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sağa dönüş sinyali vermek zorundasınız",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sadece sağ yöne dönüp, yolunuza devam edebilirsiniz",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sağa dönmeniz yasaktır",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 2219,
+  "type": "image_choice",
+  "question_code": "1.1.03-005",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Yolda mazot var. Bu durumda nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-03-005.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2388,
+  "prev_id": 47,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sert fren ve ani direksiyon hareketlerinden kaçınırım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "İtafiyeye haber veririm",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yolun sol tarafına geçerim",
+      "is_correct": false
+    }
+  ]
+}

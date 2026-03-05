@@ -1,0 +1,33 @@
+{
+  "url_id": 233,
+  "type": "choice",
+  "question_code": "1.2.16-103",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Tünelde aracınızın bozulması halinde nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 234,
+  "prev_id": 232,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracı mümkün olduğunca arızalı araçlar için öngörülen park cebine bırakırım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Aracımın dörtlü ikaz lambalarını yakarım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Her ihtimale karşı motoru çalışır vaziyette bırakırım",
+      "is_correct": false
+    }
+  ]
+}

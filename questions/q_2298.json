@@ -1,0 +1,33 @@
+{
+  "url_id": 2298,
+  "type": "choice",
+  "question_code": "2.6.03-112",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Fren halindeki bir römorku çekmeniz gerekiyor. Binek otonuzun izin verilen römork yüküne ilişkin bilgileri ve uyarıları nerede bulabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2299,
+  "prev_id": 2205,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Binek otoma ait Ruhsatname Kısım I'de",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sigorta poliçesinde",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Römorkuma ait Ruhsatname Kısım I'de",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1245,
+  "type": "choice",
+  "question_code": "2.7.01-122",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Tek dingilli bir römorku yüklerken, neye dikkat etmek zorundasınız?",
+  "pretext": "İzin verilmiş",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1246,
+  "prev_id": 1244,
+  "answers": [
+    {
+      "num": 1,
+      "text": "destek yüküne",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "dingil yüküne",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "toplam kütleye",
+      "is_correct": true
+    }
+  ]
+}

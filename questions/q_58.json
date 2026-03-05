@@ -1,0 +1,33 @@
+{
+  "url_id": 58,
+  "type": "choice",
+  "question_code": "1.1.03-110",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Önünüzde bir sis tabakası görüşünüzü kuvvetli şekilde engellerse, ne yapmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2512,
+  "prev_id": 57,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Öndeki aracın arka lambalarından faydalanıp yol alabilmek için, çok yakından takip etmek gerekir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Öndeki araca bırakılacak mesafeyi arttırmak gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Aracın hızını zamanında görüş koşullarına ayarlamak gerekir",
+      "is_correct": true
+    }
+  ]
+}

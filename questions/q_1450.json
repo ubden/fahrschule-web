@@ -1,0 +1,33 @@
+{
+  "url_id": 1450,
+  "type": "choice",
+  "question_code": "2.7.07-208",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Küre kafalı kavraması olan bir römorku çekici araca bağlarken neleri dikkate almak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1451,
+  "prev_id": 1444,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kavrama pençesinin sağlam olarak kapanması zorunludur",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Mevcut bir destek tekerleğinin harekete geçilmeden önce kaldırılması ve emniyete alınması zorunludur",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Römorkun çekici araca bağlanması esnasında, destek tekerleğinin yere temas etmemesi gerekmektedir",
+      "is_correct": false
+    }
+  ]
+}

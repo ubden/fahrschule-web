@@ -1,0 +1,33 @@
+{
+  "url_id": 2012,
+  "type": "choice",
+  "question_code": "2.5.01-015",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Bir ticari aracın yakıt sarfiyatını hangisi azaltabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2148,
+  "prev_id": 2011,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sürücünün öngörülü araç kullanma biçimi",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Özel lastik kullanımı",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Araçta hava yönlendirme düzeneğinin kullanımı",
+      "is_correct": true
+    }
+  ]
+}

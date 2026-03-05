@@ -1,0 +1,33 @@
+{
+  "url_id": 2003,
+  "type": "choice",
+  "question_code": "2.2.23-048",
+  "points": 4,
+  "category": "Klasse C",
+  "question_text": "Yol kenarındaki park boşluğundan çıkmak istiyorsunuz. Özellikle neye dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2143,
+  "prev_id": 1870,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araçta oyun oynayan çocuklar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Akmakta olan trafik",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Aracımın savrulmasına",
+      "is_correct": true
+    }
+  ]
+}

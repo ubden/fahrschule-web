@@ -1,0 +1,33 @@
+{
+  "url_id": 2427,
+  "type": "choice",
+  "question_code": "2.7.05-104",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Kışlık lastiklerle giderken bilhassa neye dikkat etmeniz gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2428,
+  "prev_id": 2426,
+  "answers": [
+    {
+      "num": 1,
+      "text": "En çok kar zinciri kullanırken gideceğim hızla gidebilirim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Bu tekerlekler için izinli azami hızı aşmam yasaktır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Saatte 80 km'den daha hızlı gitmem yasak",
+      "is_correct": false
+    }
+  ]
+}

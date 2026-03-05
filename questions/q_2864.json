@@ -1,0 +1,35 @@
+{
+  "url_id": 2864,
+  "type": "image_choice",
+  "question_code": "1.3.01-044-M",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Burada hangi davranış doğrudur?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-3-01-044-VS-1.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2919,
+  "prev_id": 2818,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Önce ben sürüş yapabilirim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Dörtlünün geçmesine izin vermeliyim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Mavi arabanın dönmesine izin vermeliyim",
+      "is_correct": false
+    }
+  ]
+}

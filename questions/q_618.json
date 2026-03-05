@@ -1,0 +1,35 @@
+{
+  "url_id": 618,
+  "type": "image_choice",
+  "question_code": "2.1.08-008-B",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Burada bir trafik tıkanıklığı meydana geliyor. Nasıl doğru davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-08-008-B.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2482,
+  "prev_id": 615,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sol tarafta koridor açılması için, mümkün olduğunca yolun sağından giderek",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Arkadan gelen araçları ikaz etmek için, mümkün olduğunca dörtlü ikaz lambasını yakarak",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sağ tarafta koridor açılması için, mümkün olduğunca yolun solundan giderek",
+      "is_correct": false
+    }
+  ]
+}

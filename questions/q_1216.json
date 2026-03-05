@@ -1,0 +1,33 @@
+{
+  "url_id": 1216,
+  "type": "choice",
+  "question_code": "2.7.01-045",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Lastik hava basıncını kontrol ederken, neleri dikkate almak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1218,
+  "prev_id": 2730,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Jantların malzemesi (çelik/hafif metal)",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Lastiklerin ısı derecesi",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Aracın yükü/yolcu sayısı",
+      "is_correct": true
+    }
+  ]
+}

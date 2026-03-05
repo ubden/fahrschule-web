@@ -1,0 +1,39 @@
+{
+  "url_id": 2273,
+  "type": "video",
+  "question_code": "2.1.08-024-M",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Burada nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-08-024-M_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-08-024-M.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-08-024-M_anfang.jpg"
+    ]
+  },
+  "next_id": 2316,
+  "prev_id": 2252,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Şeridimi değiştirmem, çünkü kırmızı binek otosu zaten değiştiriyor",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Orta şeride geçerim, çünkü sollama işlemim tamamlanmıştır",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sarı binek otosunu engellememek için şerit değiştiririm",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url_id": 3085,
+  "type": "number",
+  "question_code": "2.2.18-220",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Ticari yük taşımacılığında kullanılan motorlu taşıtlar veya taşıt kombinasyonları için otoyollarda geçiş ücreti ödenmesi gerekmektedir. Bu, teknik olarak müsaade edilen toplam ağırlığın ne kadarından itibaren için geçerlidir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1858,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap: Teknik olarak müsaade edilen toplam ağırlığın ücret alınmaya başlanılan alt sınırı",
+      "label_before": "Cevap: Teknik olarak müsaade edilen toplam ağırlığın ücret alınmaya başlanılan alt sınırı",
+      "label_after": "Ton",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: Teknik olarak müsaade edilen toplam ağırlığın ücret alınmaya başlanılan alt sınırı 3,50 Ton"
+}

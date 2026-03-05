@@ -1,0 +1,27 @@
+{
+  "url_id": 2108,
+  "type": "number",
+  "question_code": "2.2.04-305",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Otoyolda izin verilen toplam ağırlığı 4 ton olan bir ağır vasıta ile saatte 60 km hızla gidiyorsunuz. Önünüzdeki araçla aranızda ne kadar mesafe bırakmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2079,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap: En az",
+      "label_before": "Cevap: En az",
+      "label_after": "metre",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: En az 50 metre"
+}

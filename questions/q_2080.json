@@ -1,0 +1,33 @@
+{
+  "url_id": 2080,
+  "type": "choice",
+  "question_code": "2.2.04-307",
+  "points": 4,
+  "category": "Klasse CE",
+  "question_text": "Şehir dışında her istikamette sadece tek bir şeridin bulunduğu bir yolda bir araç kombinasyonuyla yol alıyorsunuz. Kural olarak önünüzdeki araçla aranızda ne kadar mesafe bırakmılısınız?",
+  "pretext": "Mesafe",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1842,
+  "prev_id": 2079,
+  "answers": [
+    {
+      "num": 1,
+      "text": "sollamakta olan araç araya girebilecek kadar uzun olmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "iki aracın daha araya girebileceği kadar uzun olmalıdır",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "ulaşım alanının en iyi şekilde kullanılabilmesini sağlamak için 10 metreden uzun olmamalıdır",
+      "is_correct": false
+    }
+  ]
+}

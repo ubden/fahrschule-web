@@ -1,0 +1,33 @@
+{
+  "url_id": 1234,
+  "type": "choice",
+  "question_code": "2.7.01-111",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Lastiklerin hava basıncı ile ilgili olarak, nelere dikkat edilmesi gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1235,
+  "prev_id": 1233,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracın çok yüklü olması halinde, hava basıncı, kullanım kılavuzuna uygun olarak arttırılır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Uzun seferlerden önce hava basıncı azaltılır",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Yedek lastik de dahil olmak üzere, bütün lastiklerin hava basıncı, düzenli olarak kontrol edilmelidir",
+      "is_correct": true
+    }
+  ]
+}

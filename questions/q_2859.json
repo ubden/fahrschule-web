@@ -1,0 +1,33 @@
+{
+  "url_id": 2859,
+  "type": "choice",
+  "question_code": "1.1.07-173",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Seyir halindeyken bir geyik aracınızın önünden karşıya geçiyor. Nelere dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2915,
+  "prev_id": 2807,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Geyiği başka hayvanlar takip edebilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Uzun farlar yakılarak geyik korkutulabilir",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Geyik şeridin tam ortasında durabilir",
+      "is_correct": true
+    }
+  ]
+}

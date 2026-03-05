@@ -1,0 +1,33 @@
+{
+  "url_id": 1999,
+  "type": "choice",
+  "question_code": "1.5.01-121",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Lastik aşınmasını nasıl düşük tutabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2000,
+  "prev_id": 1996,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Tüm yıl boyunca kış lastiği kullanırım",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Şiddetli hızlanmalardan kaçınırım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Lastik dolum basıncını düzenli olarak kontrol ederim",
+      "is_correct": true
+    }
+  ]
+}

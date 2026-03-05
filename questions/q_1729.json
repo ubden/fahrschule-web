@@ -1,0 +1,35 @@
+{
+  "url_id": 1729,
+  "type": "image_choice",
+  "question_code": "1.2.19-113",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işareti kombinasyonu ne anlatıyor?",
+  "pretext": "Demiryolu geçidini anlatıyor ve",
+  "media": {
+    "images": [
+      "/media/1-2-19-113.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1965,
+  "prev_id": 1728,
+  "answers": [
+    {
+      "num": 1,
+      "text": "ben geçitten saatte azami 10 km hızla geçebilirim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "raylı sistem araçları geçidi yalnızca saatte 10 km hızla geçebilirler",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "ben geçide bu noktadan itibaren saatte azami 10 km hızla yaklaşabilirim",
+      "is_correct": true
+    }
+  ]
+}

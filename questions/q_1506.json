@@ -1,0 +1,33 @@
+{
+  "url_id": 1506,
+  "type": "choice",
+  "question_code": "2.7.09-221",
+  "points": 4,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Aracın tahdit ışıklarından 0,4 metreden fazla dışarı sarkan bir yükü nasıl işaretlendirmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2314,
+  "prev_id": 1496,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kenardan 1 metreye kadar dışarı sarkan yükün işaretlenmesine gerek yoktur",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Kenardan ön tarafına beyaz, kenardan arka tarafına ise kırmızı ışıklar takarak",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kenardan ön tarafına ve yine kenardan arka tarafına kırmızı reflektörler takarak",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2381,
+  "type": "choice",
+  "question_code": "2.7.09-226",
+  "points": 3,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Farklı boyutlarda ve ağırlıklarda olan adetli mal taşımacılığı (kargo) yapıyorsunuz. Bu durumda yükünüzün güvenliğini nasıl sağlamalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2382,
+  "prev_id": 2314,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Nakliye birimleri arasında asgari mesfa sağlayarak",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Nakliye birimlerinin uygun şekilde düzenlenmesi ile",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yükleme alanının ayırıcı elementlerle küçük segmanlara bölünmesi suretiyle",
+      "is_correct": true
+    }
+  ]
+}

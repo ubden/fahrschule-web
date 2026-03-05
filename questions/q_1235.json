@@ -1,0 +1,33 @@
+{
+  "url_id": 1235,
+  "type": "choice",
+  "question_code": "2.7.01-112",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Lastik patlaması üzerine, yedek lastiği takmak zorunda kaldınız. Bu lastikle yola devam ederken, neler yasaktır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1238,
+  "prev_id": 1234,
+  "answers": [
+    {
+      "num": 1,
+      "text": "80 km/sa’den hızlı gitmek",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yolcu taşımak",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Yedek lastikle, gerektiğinden fazla araç kullanmak",
+      "is_correct": true
+    }
+  ]
+}

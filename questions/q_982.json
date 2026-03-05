@@ -1,0 +1,35 @@
+{
+  "url_id": 982,
+  "type": "image_choice",
+  "question_code": "2.4.42-101",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Bu trafik işaretinin olduğu yer itibarı ile neler geçerlidir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-42-101.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 983,
+  "prev_id": 3009,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sollama niyetiniz olduğunu, korna çalarak bildirmeniz yasaktır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Karanlıkta duruş lambası ile gidilmesine izin verilmiştir",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Park eden otomobillerin, park lambasını yakmalarına izin verilmiştir",
+      "is_correct": true
+    }
+  ]
+}

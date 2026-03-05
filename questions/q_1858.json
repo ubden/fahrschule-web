@@ -1,0 +1,33 @@
+{
+  "url_id": 1858,
+  "type": "choice",
+  "question_code": "2.2.21-007",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Arka koltukta oturanların emniyet kemerini takmamaları neden tehlikelidir?",
+  "pretext": "Bir çarpışma halinde",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 815,
+  "prev_id": 3085,
+  "answers": [
+    {
+      "num": 1,
+      "text": "önde oturmakta olan kişiler için bir risk oluşturabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "düşük hızlarda bile yaralanmalar meydana gelebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "bu kişiler araçtan dışarı fırlayabilir",
+      "is_correct": true
+    }
+  ]
+}

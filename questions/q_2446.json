@@ -1,0 +1,33 @@
+{
+  "url_id": 2446,
+  "type": "choice",
+  "question_code": "2.7.07-324",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Römorkunuzun bağlantı kancasının cıvatası yeniyken 38 mm çapa sahiptir. Aşınma durumunda neye dikkat etmeniz gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2447,
+  "prev_id": 2259,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bağlama civatası bağlanma alanında tek yönlü 36,5 mm'lik çapın alltına inebilir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Bağlantı alanının çemberinin tamamında çap 36,5 mm altına inemez",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Alt kanca bölümünde fazla boşluk olmaması gerekir",
+      "is_correct": true
+    }
+  ]
+}

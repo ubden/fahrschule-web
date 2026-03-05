@@ -1,0 +1,33 @@
+{
+  "url_id": 2994,
+  "type": "choice",
+  "question_code": "2.1.11-020",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Araç kullanırken, başka bir trafik katılımcısının davranışından çok rahatsız oldunuz. Şimdi doğru davranış nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1827,
+  "prev_id": 2941,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sakinleşmek için gerekirse mola veririm",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kızgınlığımın trafik güvenliği üzerinde olumsuz bir etkisi olmayacak şekilde sürüşe devam ederim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Trafiğe konsantre olmaya devam ederim",
+      "is_correct": true
+    }
+  ]
+}

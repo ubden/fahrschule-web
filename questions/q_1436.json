@@ -1,0 +1,33 @@
+{
+  "url_id": 1436,
+  "type": "choice",
+  "question_code": "2.7.06-306",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Hangi hallerde çözme supapını işletmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1440,
+  "prev_id": 3081,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Römorkun el freninin çözülmesi için, yola çıkmadan önce",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Römorkun, hava depoları dolu ve fren hatları bağlı olmadan manevra edilmesi istendiğinde",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Römorkun hava depolarının dolabilmesi için, yola çıkmadan önce",
+      "is_correct": false
+    }
+  ]
+}

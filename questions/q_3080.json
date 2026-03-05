@@ -1,0 +1,33 @@
+{
+  "url_id": 3080,
+  "type": "choice",
+  "question_code": "2.7.05-229",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Stepneyi gövde dışında taşıyorsanız düzenli olarak neyi kontrol etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1399,
+  "prev_id": 2735,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çifte güvenliği",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yuvarlanma direncini",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Lastik basıncını",
+      "is_correct": true
+    }
+  ]
+}

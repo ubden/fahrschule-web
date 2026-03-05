@@ -1,0 +1,33 @@
+{
+  "url_id": 78,
+  "type": "choice",
+  "question_code": "1.1.06-106",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Sollama işlemi, hangi hallerde yasaktır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2320,
+  "prev_id": 77,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sollama işleminde ihtiyaç duyacağınız yolun tümünü göremediğiniz hallerde",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Trafik durumunun belirsiz olduğu hallerde",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sollamak istediğiniz araçtan önemli ölçüde daha hızlı gitmenizin mümkün olmadığı hallerde",
+      "is_correct": true
+    }
+  ]
+}

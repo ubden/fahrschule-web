@@ -1,0 +1,33 @@
+{
+  "url_id": 1985,
+  "type": "choice",
+  "question_code": "1.2.34-112",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Federal otoyollarda bir sonraki imdat telefonuna giden en kısa yolu nasıl anlarsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2061,
+  "prev_id": 1748,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sevk direğindeki siyah oklardan",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Emniyet şeridindeki yol işaretleri",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Otokorkuluklardaki yön işaretlerinden",
+      "is_correct": false
+    }
+  ]
+}

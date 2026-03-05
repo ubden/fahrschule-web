@@ -1,0 +1,35 @@
+{
+  "url_id": 2473,
+  "type": "image_choice",
+  "question_code": "1.4.40-152",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretinde, neyi dikkate almanız gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-152.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2474,
+  "prev_id": 2472,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yol bir su kıyısına çıkıyor",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Karanlıkta veya kötü görüş koşullarında, su yüzeylerinin araç yolundan ayırt edilmesi zordur",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Suda yüzme kabiliyetine sahip araçlar için giriş ve çıkış noktaları açık tutulmalıdır",
+      "is_correct": false
+    }
+  ]
+}

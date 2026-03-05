@@ -1,0 +1,33 @@
+{
+  "url_id": 1252,
+  "type": "choice",
+  "question_code": "2.7.01-202",
+  "points": 4,
+  "category": "Klasse C",
+  "question_text": "Sadece bazı bölümleri dolu olan sarnıçlı bir araçla giderken, neleri hesaba katmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1285,
+  "prev_id": 3076,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracın virajlardaki devrilme tehlikesinin daha yüksek olduğunu",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Savrulma tehlikesinin daha yüksek olduğunu",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "İnişli yolda direksiyonun ağırlaşacağını",
+      "is_correct": false
+    }
+  ]
+}

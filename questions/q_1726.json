@@ -1,0 +1,33 @@
+{
+  "url_id": 1726,
+  "type": "choice",
+  "question_code": "1.2.12-125",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Nerede durmak yasaktır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1727,
+  "prev_id": 2464,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Geçiş şeritleri ile çıkış şeritlerinde",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Arazi giriş ve çıkış yollarında",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Yön gösteren okların bulunduğu işaretli şeritlerde",
+      "is_correct": true
+    }
+  ]
+}

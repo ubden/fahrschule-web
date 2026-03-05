@@ -1,0 +1,39 @@
+{
+  "url_id": 2404,
+  "type": "video",
+  "question_code": "2.1.07-121-M",
+  "points": 5,
+  "category": "Klasse B",
+  "question_text": "Bu durumda nasıl davranmanız gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-07-121-M_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-07-121-M.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-07-121-M_anfang.jpg"
+    ]
+  },
+  "next_id": 2872,
+  "prev_id": 2250,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Şeridimden ayrılmam",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sola yanaşırım",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Hemen kuvvetli bir şekilde fren yaparım",
+      "is_correct": true
+    }
+  ]
+}

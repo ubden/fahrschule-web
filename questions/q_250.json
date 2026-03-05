@@ -1,0 +1,33 @@
+{
+  "url_id": 250,
+  "type": "choice",
+  "question_code": "1.2.19-107",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Yerleşim yeri dahilindeki bir demiryolu geçidi üzerinde bulunan bariyer kapalıdır. Nerede beklemek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 252,
+  "prev_id": 248,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Son ikaz işaretinin önünde",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "İlk ikaz işaretinin önünde",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Andreas çaprazının önünde",
+      "is_correct": true
+    }
+  ]
+}

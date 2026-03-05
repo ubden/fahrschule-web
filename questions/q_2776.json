@@ -1,0 +1,35 @@
+{
+  "url_id": 2776,
+  "type": "image_choice",
+  "question_code": "2.4.41-108",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Bu trafik işaretinde hangi araçları sollayabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-41-108.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2777,
+  "prev_id": 970,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hiçbir aracı",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Tek izli araçları",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Çok izli araçları",
+      "is_correct": false
+    }
+  ]
+}

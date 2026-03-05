@@ -1,0 +1,39 @@
+{
+  "url_id": 2752,
+  "type": "video",
+  "question_code": "1.2.09-137-M",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Şimdi neden durmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-09-137-VS-1_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-09-137-VS-1.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-09-137-VS-1_anfang.jpg"
+    ]
+  },
+  "next_id": 2811,
+  "prev_id": 2751,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Elektrikli Scooter`dan dolayı",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Tramvaydan dolayı",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Yayadan dolayı",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url_id": 966,
+  "type": "number",
+  "question_code": "2.4.41-103",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Hangi trafik işareti, gerçek kütle ile ilgilidir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-41-103.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 967,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap: No.",
+      "label_before": "Cevap: No.",
+      "label_after": "",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: No. 1"
+}

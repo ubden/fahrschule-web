@@ -1,0 +1,33 @@
+{
+  "url_id": 1476,
+  "type": "choice",
+  "question_code": "2.7.08-204",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Önleyici tedbir olması açısından, aracın aküsünde hangi bakım işlemleri yapabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1479,
+  "prev_id": 1475,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kutupları temizlemek ve yağlamak",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Akü asidini değiştirmek",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Kablo bağlantılarını ve akünün yerinde sağlam durup durmadığını kontrol etmek",
+      "is_correct": true
+    }
+  ]
+}

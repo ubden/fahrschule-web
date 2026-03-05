@@ -1,0 +1,33 @@
+{
+  "url_id": 2301,
+  "type": "choice",
+  "question_code": "2.7.01-133",
+  "points": 2,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Şeritten ayrılma uyarısının çalışmasını ne kısıtlayabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2302,
+  "prev_id": 2358,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Şeridin pis olması",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Şerit çizgilerinin eksik olması",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Otokorkulukların bulunmaması",
+      "is_correct": false
+    }
+  ]
+}

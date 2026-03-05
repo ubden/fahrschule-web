@@ -1,0 +1,35 @@
+{
+  "url_id": 1612,
+  "type": "image_choice",
+  "question_code": "1.2.09-113-M",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Burada kimin sinyal vermesi gerekiyor?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-09-113-VS-1.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1614,
+  "prev_id": 1945,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Turuncu renkli ticari araç",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Benim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yeşil araç",
+      "is_correct": true
+    }
+  ]
+}

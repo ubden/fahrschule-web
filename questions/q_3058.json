@@ -1,0 +1,33 @@
+{
+  "url_id": 3058,
+  "type": "choice",
+  "question_code": "2.2.23-126",
+  "points": 3,
+  "category": "Klasse B, Klasse C, Klasse CE",
+  "question_text": "Aracınız karla kaplı durumda. Yolculuğunuza başlamadan önce ne yapmalısınız?",
+  "pretext": "Karı",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3059,
+  "prev_id": 3007,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aydınlatma tertibatlarından temizlemem gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Aracın tavanından temizlemem gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Plakadan temizlemem gerekir",
+      "is_correct": true
+    }
+  ]
+}

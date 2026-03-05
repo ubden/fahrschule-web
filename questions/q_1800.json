@@ -1,0 +1,35 @@
+{
+  "url_id": 1800,
+  "type": "image_choice",
+  "question_code": "2.1.03-111",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Çok sayıda kamyonu sollarkan bu duruma düştünüz. Şimdi nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-03-111.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1956,
+  "prev_id": 572,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Şerit değiştirdikten sonra, yeniden yeterli güvenlik mesafesini korurum",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Sollamaya son veririm",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Seri bir şekilde sollamaya devam ederim ve kırmızı kamyonun önüne geçecek şekilde şeridimi değiştiririm",
+      "is_correct": false
+    }
+  ]
+}

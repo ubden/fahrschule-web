@@ -1,0 +1,35 @@
+{
+  "url_id": 1776,
+  "type": "image_choice",
+  "question_code": "1.4.40-143",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretini gördüğünüzde neye hazırlıklı olmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-40-143.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1777,
+  "prev_id": 1775,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sağa keskin bir viraj",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Karşıdan gelen araçlar virajdan geçebilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Önümdeki araçlar aşırı fren yapabilir",
+      "is_correct": true
+    }
+  ]
+}

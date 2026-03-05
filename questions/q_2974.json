@@ -1,0 +1,27 @@
+{
+  "url_id": 2974,
+  "type": "number",
+  "question_code": "2.2.03-109",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Bir araç kombinasyonu kullanıyorsunuz. Bu, izin verilen azami ağırlığı 3,5 tona kadar olan bir motorlu araç ve 100 km/s ruhsatı olmayan bir römorktan oluşmaktadır. Otoyollarda en çok hangi hızla sürüş yapabilirsiniz? hız sınırı nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3084,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "km/sa",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 80 km/sa"
+}

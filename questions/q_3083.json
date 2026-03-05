@@ -1,0 +1,29 @@
+{
+  "url_id": 3083,
+  "type": "number",
+  "question_code": "2.2.03-026-M",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Dönüşten sonra sürebileceğiniz maksimum hız nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-03-026-VS-1_ende.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 670,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "km/saat",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 50 km/saat"
+}

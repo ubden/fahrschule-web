@@ -1,0 +1,35 @@
+{
+  "url_id": 487,
+  "type": "image_choice",
+  "question_code": "1.4.42-116",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu yolun kullanılması istendiğinde, sözkonusu aracın yapısı itibarı ile azami hızının en az ne kadar olması gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-42-116.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 490,
+  "prev_id": 483,
+  "answers": [
+    {
+      "num": 1,
+      "text": "61 km/sa",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "81 km/sa",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "51 km/sa",
+      "is_correct": false
+    }
+  ]
+}

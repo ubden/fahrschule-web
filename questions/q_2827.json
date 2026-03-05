@@ -1,0 +1,35 @@
+{
+  "url_id": 2827,
+  "type": "image_choice",
+  "question_code": "2.2.04-105-M",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Karavanlı araba kullanıyorsunuz. Öndeki araçla aranızda ne kadar mesafe olmalıdır?",
+  "pretext": "Mesafe",
+  "media": {
+    "images": [
+      "/media/2-2-04-105-M.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2828,
+  "prev_id": 2183,
+  "answers": [
+    {
+      "num": 1,
+      "text": "sollanacak araca olan mesafe önüme kırdıktan sonra tekrar sağlanmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "çok uzun çünkü araç kombinasyonumun uzunluğunu çok fazla aşıyor",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "uygun çünkü sollama yapan araç önüme kırabilir",
+      "is_correct": true
+    }
+  ]
+}

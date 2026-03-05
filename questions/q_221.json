@@ -1,0 +1,27 @@
+{
+  "url_id": 221,
+  "type": "number",
+  "question_code": "1.2.12-110",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Yerleşim yerleri dışında park ederken, Andreas çaprazına en az ne kadar mesafe bırakılması zorunludur?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 222,
+  "prev_id": null,
+  "answers": [],
+  "number_inputs": [
+    {
+      "label": "Cevap:",
+      "label_before": "Cevap:",
+      "label_after": "metre",
+      "placeholder": null,
+      "unit": null
+    }
+  ],
+  "correct_answer_text": "Cevap: 50 metre"
+}

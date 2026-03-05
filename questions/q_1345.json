@@ -1,0 +1,33 @@
+{
+  "url_id": 1345,
+  "type": "choice",
+  "question_code": "2.7.02-119",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Cam sileceklerinin artık camları temiz silmemesi, neden kaynaklanabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2362,
+  "prev_id": 1344,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Cam ısıtma tertibatı arızalı olabilir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Camda yağ tabakası olabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Cam sileceklerinin silici kısımları aşınmış olabilir",
+      "is_correct": true
+    }
+  ]
+}

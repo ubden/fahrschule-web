@@ -1,0 +1,35 @@
+{
+  "url_id": 253,
+  "type": "image_choice",
+  "question_code": "1.2.19-110",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bir demiryolu geçidinin önünde, sağ taraftan gelen bir yolun önünde Andreas çaprazı olmayan kırmızı bir ışık yanmaktadır. Siz nerede beklemek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-19-110.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2392,
+  "prev_id": 252,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Duruş çizgisinin bulunmadığı yerlerde ışık işaretinin önünde",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Duruş çizgisinde",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Trafiği kolladıktan sonra, demiryolu geçidine kadar ilerleyebilirim",
+      "is_correct": false
+    }
+  ]
+}

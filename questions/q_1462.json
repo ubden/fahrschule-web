@@ -1,0 +1,33 @@
+{
+  "url_id": 1462,
+  "type": "choice",
+  "question_code": "2.7.07-312",
+  "points": 4,
+  "category": "Klasse CE",
+  "question_text": "Otomatik römork kavramasında, kavrama cıvatasının yerine doğru oturup oturmadığını nasıl anlarsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1465,
+  "prev_id": 1460,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kavramanın kontrol çubuğundan veya şoför kabinindeki kontrol lambasından",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kısa bir sarsma hareketi yapmakla",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Kavramanın çözme kolunun konumundan",
+      "is_correct": false
+    }
+  ]
+}

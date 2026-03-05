@@ -1,0 +1,35 @@
+{
+  "url_id": 3043,
+  "type": "image_choice",
+  "question_code": "1.4.41-029",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işareti neyi gösteriyor?",
+  "pretext": "Bu yolda her türlü aracın",
+  "media": {
+    "images": [
+      "/media/1-4-41-029.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3044,
+  "prev_id": 3042,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Mahalle sakinleri tarafından sürülmesine müsaade ediliyor",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Yürüme hızında sürülmesine müsaade ediliyor",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sürülmesine izin verilmiyor",
+      "is_correct": true
+    }
+  ]
+}

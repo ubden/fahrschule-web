@@ -1,0 +1,35 @@
+{
+  "url_id": 410,
+  "type": "image_choice",
+  "question_code": "1.4.41-007",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretinde, nasıl davranmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-007.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 411,
+  "prev_id": 409,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bu trafik işaretinin önünde sola dönmeniz yasaktır",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sağa dönmekle yükümlüsünüz",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Trafik adalarında yola sağdan devam etmek zorundasınız",
+      "is_correct": true
+    }
+  ]
+}

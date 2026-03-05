@@ -1,0 +1,33 @@
+{
+  "url_id": 1480,
+  "type": "choice",
+  "question_code": "2.7.08-208",
+  "points": 3,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Aracınızla hareket etmeden önce, aracı neden daima kontrol etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1481,
+  "prev_id": 1479,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bu şekilde, seyir esnasında aracın arıza görme riski azaltılır",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bu kontrol, aracın trafik güvenliği açısından faydalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bu şekilde, araç parçalarının aşınma durumu zamanında tespit edilir",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 2905,
+  "type": "choice",
+  "question_code": "2.7.01-165",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Elektrikli bir araç kullanıyorsunuz. Hangi durumlarda frenleme etkisi reküperasyon ile kısıtlanmış olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3016,
+  "prev_id": 2904,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Akünün çalışma sıcaklığının altında sürüş yaparken",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Eko modunda sürüş yaparken",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Tam şarjlı bir akü ile sürüş sırasında",
+      "is_correct": true
+    }
+  ]
+}

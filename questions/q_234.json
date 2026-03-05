@@ -1,0 +1,33 @@
+{
+  "url_id": 234,
+  "type": "choice",
+  "question_code": "1.2.16-104",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bir tünelden geçerken trafik tıkanıklığının sonuna yaklaşıyorsunuz. Nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 235,
+  "prev_id": 233,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Geriye dönüş manevrası yapar, tüneli terk ederim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Aracımın dörtlü ikaz lambalarını yakarım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Trafik tıkanıklığının sonunda motoru kapatırım ve aracı terk ederim",
+      "is_correct": false
+    }
+  ]
+}

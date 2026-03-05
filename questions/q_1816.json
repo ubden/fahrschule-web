@@ -1,0 +1,33 @@
+{
+  "url_id": 1816,
+  "type": "choice",
+  "question_code": "2.1.07-208",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Hızınızı saatte 50 km’den 100 km’ye çıkartıyorsunuz. Ana kurala göre tepkime mesafesi nasıl değişir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2071,
+  "prev_id": 1815,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İkiye katlanarak 15 metreden 30 metreye çıkar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yarıya inerek 50 metreden 25 metreye düşer",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Dörde katlanarak 25 metreden 100 metreye çıkar",
+      "is_correct": false
+    }
+  ]
+}

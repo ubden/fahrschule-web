@@ -1,0 +1,35 @@
+{
+  "url_id": 1651,
+  "type": "image_choice",
+  "question_code": "1.1.02-132",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Buradaki durumu nasıl değerlendiriyorsunuz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-02-132.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1652,
+  "prev_id": 1650,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hiçbir engel olmaksızın yoluma devam edebilirim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Kadın yaya dikkat etmeksizin yola adım atabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Motorlu bisikleti olan yaya birdenbire yön değiştirebilir",
+      "is_correct": true
+    }
+  ]
+}

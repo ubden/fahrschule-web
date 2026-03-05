@@ -1,0 +1,39 @@
+{
+  "url_id": 2767,
+  "type": "video",
+  "question_code": "2.1.06-105",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Burada nasıl doğru davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-06-105_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-06-105.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-06-105_anfang.jpg"
+    ]
+  },
+  "next_id": 2825,
+  "prev_id": 2766,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yayaların yanından sürerek geçerim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Mümkün olduğunca sağ tarafta sürerim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Adım hızında gidecek şekilde frenlerim",
+      "is_correct": true
+    }
+  ]
+}

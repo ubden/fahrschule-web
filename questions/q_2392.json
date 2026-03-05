@@ -1,0 +1,35 @@
+{
+  "url_id": 2392,
+  "type": "image_choice",
+  "question_code": "1.2.19-111",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda nasıl davranmanız gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-19-111.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1728,
+  "prev_id": 253,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bu durumda Andreas çaprazı önünde durmak zorundayım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Bu durumda Güvenlik görevlisinin solundan yoluma devam etmeliyim",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Bu durumda Güvenlik görevlisinin sağından yoluma devam etmeliyim",
+      "is_correct": false
+    }
+  ]
+}

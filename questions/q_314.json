@@ -1,0 +1,35 @@
+{
+  "url_id": 314,
+  "type": "image_choice",
+  "question_code": "1.2.37-009",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Yeşil ok işaret levhası bulunan bu trafik lambasından sağa dönmeden önce, nerede durmak gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-37-009.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1580,
+  "prev_id": 307,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Hiç durmaya gerek yok",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Duruş çizgisinde",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Eğer duruş çizgisi yoksa, kavşak veya yolağzının önünde",
+      "is_correct": true
+    }
+  ]
+}

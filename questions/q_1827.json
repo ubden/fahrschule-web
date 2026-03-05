@@ -1,0 +1,33 @@
+{
+  "url_id": 1827,
+  "type": "choice",
+  "question_code": "2.1.11-118",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Bir binek otosu sollama yaptıktan sonra yeterli mesafeyi ayarlamadan önünüzde yola girdi. Nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1828,
+  "prev_id": 2994,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Beni engellediğini anlatmak için selektör yaparım",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Çatışmalardan kaçınmak için sükunetimi korurum",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Güvenli mesafeyi yeniden sağlamak için frene basarım",
+      "is_correct": true
+    }
+  ]
+}

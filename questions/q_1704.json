@@ -1,0 +1,33 @@
+{
+  "url_id": 1704,
+  "type": "choice",
+  "question_code": "1.2.07-113",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Tek istikamette birden çok şeridi bulunan bir yolda bir şerit sona eriyor. Devam etmekte olan şeritte nasıl davranmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2262,
+  "prev_id": 2810,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Göz teması kurarım ve ardından duruma göre karar veririm",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Şeridi sona eren araçların geçişine sırasıyla değişmeli olarak izin veririm",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yolları biten araçların yanından yoluma devam ederim",
+      "is_correct": false
+    }
+  ]
+}

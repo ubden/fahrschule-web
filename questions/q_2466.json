@@ -1,0 +1,33 @@
+{
+  "url_id": 2466,
+  "type": "choice",
+  "question_code": "1.2.37-019",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Hangi durumlarda kırmızı ışık yandığı halde kavşaktan geçebilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2640,
+  "prev_id": 2065,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bir polis memuru kavşakta trafiği düzenlediğinde",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Hiç bir durumda",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Mavi sinyal lambası yanan ve sireni çalan kurtarma aracına dikkatli şekilde yer açmak gerektiğinde",
+      "is_correct": true
+    }
+  ]
+}

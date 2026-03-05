@@ -1,0 +1,33 @@
+{
+  "url_id": 1292,
+  "type": "choice",
+  "question_code": "2.7.01-247",
+  "points": 3,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Tamamen dolu bir taşıdın kaldırma sistemli aksında bir lastik arızası olduğunu varsayın. Bu durumda ne yapabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1296,
+  "prev_id": 1285,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kamyon arıza servisine haber verirsiniz",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kaldırma sistemli aksı kaldırıp, yolunuza devam edersiniz",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Tekerlek değiştirme işlemini, bu taşıdın kullanım kılavuzundaki talimatlara uygun olarak yaparsınız",
+      "is_correct": true
+    }
+  ]
+}

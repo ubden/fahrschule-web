@@ -1,0 +1,33 @@
+{
+  "url_id": 1343,
+  "type": "choice",
+  "question_code": "2.7.02-117",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Aracınızın cam silecekleri tertibatı devre dışı kalmıştır. Bunun hangi nedenleri söz konusu olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1344,
+  "prev_id": 1335,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sigorta bozuk olabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Fıskiye memeleri tıkanmış olabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kapta su kalmamış olabilir",
+      "is_correct": true
+    }
+  ]
+}

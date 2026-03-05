@@ -1,0 +1,35 @@
+{
+  "url_id": 2235,
+  "type": "image_choice",
+  "question_code": "1.4.41-167",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Sollama yapmak istiyorsunuz. Doğrusu nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-167.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2548,
+  "prev_id": 2233,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sadece sağ şeritte kalırsam sollayabilirim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sollayabilirim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sollayamam",
+      "is_correct": false
+    }
+  ]
+}

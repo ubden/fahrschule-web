@@ -1,0 +1,35 @@
+{
+  "url_id": 425,
+  "type": "image_choice",
+  "question_code": "1.4.41-106",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretinde, hangi yönlerde yolunuza devam etmenize izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-106.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 428,
+  "prev_id": 3091,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sağa",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Doğru yöne",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Sola",
+      "is_correct": true
+    }
+  ]
+}

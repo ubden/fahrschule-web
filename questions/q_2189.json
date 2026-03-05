@@ -1,0 +1,39 @@
+{
+  "url_id": 2189,
+  "type": "video",
+  "question_code": "2.2.07-009",
+  "points": 5,
+  "category": "Klasse B",
+  "question_text": "Bu durumda neyi hesaba katmak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-07-009_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-2-07-009.mp4"
+    ],
+    "video_posters": [
+      "/media/2-2-07-009_anfang.jpg"
+    ]
+  },
+  "next_id": 2190,
+  "prev_id": 2188,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Gri renkli binek otosunun orta şeride geçeceğini",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Gri renkli binek otosunun sağ şeritte kalacağını",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Önümdeki sarı renkli kamyonun sollama yapmak için makas atacağını",
+      "is_correct": false
+    }
+  ]
+}

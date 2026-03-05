@@ -1,0 +1,33 @@
+{
+  "url_id": 2292,
+  "type": "choice",
+  "question_code": "2.6.01-003",
+  "points": 2,
+  "category": "Klasse B, Klasse C",
+  "question_text": "Aracınızı bir sonraki ana muayeneye ne zaman götürmeniz gerektiğini nereden anlayabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1020,
+  "prev_id": 2149,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Aracımın kullanma kılavuzundaki kayıttan",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Arka plakadaki kontrol bilgilerinin bulunduğu puldan",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Ruhsatname Kısım I'deki kayıttan",
+      "is_correct": true
+    }
+  ]
+}

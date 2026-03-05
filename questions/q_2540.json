@@ -1,0 +1,35 @@
+{
+  "url_id": 2540,
+  "type": "image_choice",
+  "question_code": "1.3.01-128-M",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda ilk kim hareket edebilir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-3-01-128-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2541,
+  "prev_id": 2326,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kırmızı traktör",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Mavi araba",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Ben",
+      "is_correct": true
+    }
+  ]
+}

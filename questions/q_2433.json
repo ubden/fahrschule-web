@@ -1,0 +1,33 @@
+{
+  "url_id": 2433,
+  "type": "choice",
+  "question_code": "2.7.05-226",
+  "points": 4,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Yola çıkmadan önce lastiklerde neyi kontrol etmeniz gerekir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2735,
+  "prev_id": 2432,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Göz kontrolü ile ana profilin en az 1 mm profil derinliğine sahip olup olmadığını kontrol ederim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Göz kontrolü ile hasarların olup olmadığını kontrol ederim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Göz kontrolü ile basınç kaybının olup olmadığını kontrol ederim",
+      "is_correct": true
+    }
+  ]
+}

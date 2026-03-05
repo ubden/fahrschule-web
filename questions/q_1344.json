@@ -1,0 +1,33 @@
+{
+  "url_id": 1344,
+  "type": "choice",
+  "question_code": "2.7.02-118",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Cam silecekleri tertibatının fıskiye memelerinden az miktarda su fışkırdığını varsayın. Bunun hangi nedenleri söz konusu olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1345,
+  "prev_id": 1343,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Su fışkırtma pompası bozuk olabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kapta fazla su bulunuyor olabilir",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Fıskiye memeleri kısmen tıkanmış olabilir",
+      "is_correct": true
+    }
+  ]
+}

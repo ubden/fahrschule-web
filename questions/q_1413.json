@@ -1,0 +1,33 @@
+{
+  "url_id": 1413,
+  "type": "choice",
+  "question_code": "2.7.06-209",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Yüke bağımlı otomatik fren gücü ayarlama düzenine (ALB) sahip ve üzerinde yükü bulunmayan bir aracın arka tekerlekleri, her sıkı fren yapıldığında bloke ediyor. Bunun nedenleri ne olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1414,
+  "prev_id": 1412,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Arka dingildeki yay yapraklarının kırılması",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "ALB'nin bozuk veya yanlış ayarlanmış olması",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yoğun fren zayıflaması",
+      "is_correct": false
+    }
+  ]
+}

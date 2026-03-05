@@ -1,0 +1,39 @@
+{
+  "url_id": 2242,
+  "type": "video",
+  "question_code": "2.1.07-111",
+  "points": 5,
+  "category": "Klasse B",
+  "question_text": "Bu durumda neden fren yapmaya hazır olmalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-07-111_ende.jpg"
+    ],
+    "videos": [
+      "/media/2-1-07-111.mp4"
+    ],
+    "video_posters": [
+      "/media/2-1-07-111_anfang.jpg"
+    ]
+  },
+  "next_id": 2243,
+  "prev_id": 1808,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çünkü diğer araç yola devam edebilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Çünkü hız sınırlaması görülüyor",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Çünkü yolun seyri bunu gerektiriyor",
+      "is_correct": false
+    }
+  ]
+}

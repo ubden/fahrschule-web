@@ -1,0 +1,33 @@
+{
+  "url_id": 2000,
+  "type": "choice",
+  "question_code": "1.5.01-122",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Esas itibariyle hangi araçlar \"çevre bölgelerindeki\" araç yasağının dışındadır?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2268,
+  "prev_id": 1999,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Görevdeki cankurtaran araçları",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Tarım ve ormancılıkta kullanılan çekici araçlar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Çevre bölgesinde oturanların araçları",
+      "is_correct": false
+    }
+  ]
+}

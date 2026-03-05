@@ -1,0 +1,39 @@
+{
+  "url_id": 2115,
+  "type": "video",
+  "question_code": "1.2.09-129",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Burada neye dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-2-09-129_ende.jpg"
+    ],
+    "videos": [
+      "/media/1-2-09-129.mp4"
+    ],
+    "video_posters": [
+      "/media/1-2-09-129_anfang.jpg"
+    ]
+  },
+  "next_id": 2323,
+  "prev_id": 2057,
+  "answers": [
+    {
+      "num": 1,
+      "text": "döner kavşağa girerken sinyal vermeliyim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "binek otosuna geçiş hakkı tanımalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "fren yapmaya devam etmeliyim",
+      "is_correct": true
+    }
+  ]
+}

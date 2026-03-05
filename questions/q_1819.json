@@ -1,0 +1,33 @@
+{
+  "url_id": 1819,
+  "type": "choice",
+  "question_code": "2.1.08-013",
+  "points": 5,
+  "category": "Klasse B",
+  "question_text": "Otobana girerken neye dikkat etmelisiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1820,
+  "prev_id": 1817,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Sağ taraftaki kesintisiz şeritte giden trafik katılım yapmaya olanak tanımalıdır",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Kesintisiz şeritteki trafiğin önceliği vardır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yolun bağlandığı şeritte kesintisiz devam eden şerittekinden daha hızlı gidebilirim",
+      "is_correct": true
+    }
+  ]
+}

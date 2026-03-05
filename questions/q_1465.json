@@ -1,0 +1,33 @@
+{
+  "url_id": 1465,
+  "type": "choice",
+  "question_code": "2.7.07-315",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Çektiği istikamete doğru, çekme çatalının yatak kutularındaki boşluk payı en çok ne kadar olabilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1467,
+  "prev_id": 1462,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Fark edilir boşluk payı olamaz",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "3 mm'ye kadar",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "1,5 mm'ye kadar",
+      "is_correct": false
+    }
+  ]
+}

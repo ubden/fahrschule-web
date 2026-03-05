@@ -1,0 +1,33 @@
+{
+  "url_id": 2317,
+  "type": "choice",
+  "question_code": "1.1.01-004",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bilmediğiniz bir motorlu aracı kullanmanız gerekiyor. Bu durumda niçin özellikle çok dikkatli olmanız gerekir?",
+  "pretext": "hakkında çok az bilgiye sahibim",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3,
+  "prev_id": 2110,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Fren durumu",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Aracı yönlendirme",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kullanım elementleri talimatı ve işlevi",
+      "is_correct": true
+    }
+  ]
+}

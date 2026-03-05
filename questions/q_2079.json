@@ -1,0 +1,33 @@
+{
+  "url_id": 2079,
+  "type": "choice",
+  "question_code": "2.2.04-306",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Meskun bölgeler dışında hangi motorlu taşıtlar kural olarak önlerindeki araçlarla aralarında sollamakta olan bir aracın girebileceği kadar mesafe bırakmak zorundadırlar?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2080,
+  "prev_id": 2108,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İzin verilen toplam ağırlığı 3,5 tonun üzerinde olan ağır vasıtalar",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "İzin verilen toplam ağırlığı 3,5 tona kadar olan ağır vasıtalar",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "7 metreden uzun araç kombinasyonları",
+      "is_correct": true
+    }
+  ]
+}

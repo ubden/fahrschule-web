@@ -1,0 +1,35 @@
+{
+  "url_id": 1606,
+  "type": "image_choice",
+  "question_code": "1.1.07-015-M",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu durumda nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-07-015-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1629,
+  "prev_id": 1944,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Değişiklik yapmadan yoluma devam ederim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Hız düşürürüm",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Frene hazır halde olurum",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1747,
+  "type": "choice",
+  "question_code": "1.2.34-110",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bir trafik kazasına karıştınız. Ne yapmakla yükümlüsünüz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1748,
+  "prev_id": 294,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Önemsiz bir hasarsa hemen kenara çekmeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kazaya karışmış olan diğer kişilere benim de kazaya karıştığımı bildirmeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Hak sahibinin talebi üzerine adımı ve adresimi vermeliyim",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1552,
+  "type": "choice",
+  "question_code": "2.6.06-211",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Kamyonunuzla dar geçitlerden geçerken nelere dikkat etmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2210,
+  "prev_id": 1142,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kamyonun dış aynalarının taşıt belgelerinde belirtilen genişliğin de dışına taştıklarını",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Taşıda ait belgelerde belirtilen genişliğin dış aynaları da kapsadığını",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Taşıt üstündeki eklentilerin düz zemin olmayan yollarda kenarlara doğru sallandığını",
+      "is_correct": true
+    }
+  ]
+}

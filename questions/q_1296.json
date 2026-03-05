@@ -1,0 +1,33 @@
+{
+  "url_id": 1296,
+  "type": "choice",
+  "question_code": "2.7.01-251",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Ticari yük taşımacılığında, hangi taşıtlar için ruhsat belgesi alınması zorunludur?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2160,
+  "prev_id": 1292,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Römorkları ile birlikte izin verilmiş toplam kütlesi 8 ton olan taşıtlar için",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Römorkları hariç, izin verilmiş toplam kütlesi 4 ton olan taşıtlar için",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Römorkları ile birlikte izin verilmiş toplam kütlesi 3 ton olan taşıtlar için",
+      "is_correct": false
+    }
+  ]
+}

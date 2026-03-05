@@ -1,0 +1,35 @@
+{
+  "url_id": 433,
+  "type": "image_choice",
+  "question_code": "1.4.41-114",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu yolda kimin motorlu araç kullanmasına izin verilmiştir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-114.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 434,
+  "prev_id": 428,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Alışveriş yapmak isteyenler",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Birini ziyaret etmek isteyenler",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Mal getirmek zorunda olanlar",
+      "is_correct": true
+    }
+  ]
+}

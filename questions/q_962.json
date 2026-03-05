@@ -1,0 +1,35 @@
+{
+  "url_id": 962,
+  "type": "image_choice",
+  "question_code": "2.4.40-004",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Bu işaretin bulunduğu tehlike alanında nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-4-40-004.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2602,
+  "prev_id": 961,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Daha yavaş gider, yabani hayvanlara dikkat edersiniz",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yabani hayvan görmeniz halinde, uzun fardan kısa fara geçer, fren yaparsınız",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Karşı yönden gelen trafiğin tehlikeye atılması sözkonusu ise, yabani hayvandan kaçış manevrası yapmazsınız",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 449,
+  "type": "image_choice",
+  "question_code": "1.4.41-130",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretleri, neye işaret eder?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-130.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 450,
+  "prev_id": 448,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bir gidiş yönünde 2 şeride sahip, 3 km uzunluğundaki bir araç yoluna",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "3 km sonra başlayacak olan bir sollama yasağına",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "3 km uzunluğunda, sollama yasağı olan bir yola",
+      "is_correct": true
+    }
+  ]
+}

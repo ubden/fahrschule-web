@@ -1,0 +1,33 @@
+{
+  "url_id": 1355,
+  "type": "choice",
+  "question_code": "2.7.02-203",
+  "points": 4,
+  "category": "Klasse C",
+  "question_text": "Fren tesisinin basınç ikaz tertibatı, sürüş esnasında cevap veriyor. Bunun anlamı nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1356,
+  "prev_id": 1354,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Fren tertibatı muhtemelen bozuk",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Fren silndirlerinden birinde sızıntı var",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Yedek hava basıncı artık yetmiyor",
+      "is_correct": true
+    }
+  ]
+}

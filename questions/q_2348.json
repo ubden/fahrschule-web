@@ -1,0 +1,33 @@
+{
+  "url_id": 2348,
+  "type": "choice",
+  "question_code": "2.2.23-217",
+  "points": 4,
+  "category": "Klasse C",
+  "question_text": "Aracınıza oldukca ileri doğru uzanan bir ön yapı cihazı monte ettiniz. Neye dikkat etmeniz gerekir?",
+  "pretext": "Yapmam gereken",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3061,
+  "prev_id": 2347,
+  "answers": [
+    {
+      "num": 1,
+      "text": "sürüş esnasında değişen araç ebatlarını dikkate almam gerekir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "tahmin edemediğim yerlerde uygun bir kişiye danışmalıyım",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "ön yapı cihazının tehlikeli parçalarını etkili bir şekilde kaplamalıyım",
+      "is_correct": true
+    }
+  ]
+}

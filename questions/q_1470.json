@@ -1,0 +1,33 @@
+{
+  "url_id": 1470,
+  "type": "choice",
+  "question_code": "2.7.07-320",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Bir römorku çekici araca bağlarken, nelere dikkat etmek zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1471,
+  "prev_id": 1469,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Önce depo hattı (kırmızı kavrama kafası) bağlanır",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Kombine kavrama kafalarında, her iki hat aynı zamanda bağlanır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Önce fren hattı bağlanır (sarı kavrama kafası)",
+      "is_correct": true
+    }
+  ]
+}

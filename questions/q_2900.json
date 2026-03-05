@@ -1,0 +1,33 @@
+{
+  "url_id": 2900,
+  "type": "choice",
+  "question_code": "2.6.06-102",
+  "points": 3,
+  "category": "Klasse B, Klasse C",
+  "question_text": "İzin verilen yük kapasitesi nedir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2913,
+  "prev_id": 2209,
+  "answers": [
+    {
+      "num": 1,
+      "text": "İzin verilen toplam kütle",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "İzin verilen toplam kütle ile yüksüz kütle arasındaki fark",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "İzin verilen maksimum yük",
+      "is_correct": true
+    }
+  ]
+}

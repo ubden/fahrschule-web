@@ -1,0 +1,33 @@
+{
+  "url_id": 2735,
+  "type": "choice",
+  "question_code": "2.7.05-228",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Ticari yük taşımacılığında azami yükü ağırlığı 3,5 tonu geçen bir motorlu taşıt kullanıyorsunuz. Kış koşullarında nelere dikkat etmelisiniz?",
+  "pretext": "Motorlu taşıdın kış lastikleri",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 3080,
+  "prev_id": 2433,
+  "answers": [
+    {
+      "num": 1,
+      "text": "bütün tekerleklere donatılmış olmalıdır",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "ön direksiyon akslarına donatılmış olmalıdır",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "çekiş akslarına donatılmış olmalıdır",
+      "is_correct": true
+    }
+  ]
+}

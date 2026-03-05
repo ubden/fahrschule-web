@@ -1,0 +1,35 @@
+{
+  "url_id": 2761,
+  "type": "image_choice",
+  "question_code": "1.4.41-024",
+  "points": 2,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işareti yolun sağ tarafında yer almaktadır. Bu hangi anlama gelmektedir?",
+  "pretext": "Bunun anlamı",
+  "media": {
+    "images": [
+      "/media/1-4-41-024.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2762,
+  "prev_id": 2760,
+  "answers": [
+    {
+      "num": 1,
+      "text": "mutlak durma yasağı sonu",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "kısıtlı durma yasağı başlangıcı",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "mutlak durma yasağı başlangıcı",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 2820,
+  "type": "image_choice",
+  "question_code": "2.1.03-038",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Burada sollama yaparken özellikle ne zaman tehlike altındasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-1-03-038.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2986,
+  "prev_id": 2819,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kamyon çekim etkisine girerken",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kamyon çekim etkisinden çıkarken",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Sollama sonrasında şerit değişikliğinde",
+      "is_correct": false
+    }
+  ]
+}

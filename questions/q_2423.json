@@ -1,0 +1,33 @@
+{
+  "url_id": 2423,
+  "type": "choice",
+  "question_code": "2.7.03-215",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Manuel (düz) vitesli araçlarda debriyaj elemanlarını nasıl koruyabilirsiniz?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2424,
+  "prev_id": 2366,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Düşük motor devir sayısında manevra yaparım",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Beklerken vitesi boşa alırım ve ayağımı debreyaj pedalından çekerim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Yüksek viteste hareket ederim",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 2689,
+  "type": "image_choice",
+  "question_code": "2.7.09-231",
+  "points": 2,
+  "category": "Klasse C, Klasse CE",
+  "question_text": "Araca yerleştirilen bu levha hangi tür nakliyata işaret eder?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-7-09-231.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1523,
+  "prev_id": 2383,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Tehlikeli madde nakliyatına",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Çöp nakliyatına",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Askeri nakliyata",
+      "is_correct": false
+    }
+  ]
+}

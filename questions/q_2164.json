@@ -1,0 +1,33 @@
+{
+  "url_id": 2164,
+  "type": "choice",
+  "question_code": "2.7.06-107",
+  "points": 3,
+  "category": "Klasse CE",
+  "question_text": "Bir araç kombinasyonu için düz bir şeritte sarsılma veya savrulma tehlikesi ne zaman özellikle yüksektir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2165,
+  "prev_id": 1403,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Ölçülü şekilde hızlanıldığında",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Ani direksiyon hareketleri yapıldığında",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Virajdan geçerken, ayak freniyle azami derecede hız kesilerek fren yapıldığında",
+      "is_correct": true
+    }
+  ]
+}

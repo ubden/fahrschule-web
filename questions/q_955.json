@@ -1,0 +1,28 @@
+{
+  "url_id": 955,
+  "type": "choice",
+  "question_code": "2.2.37-002",
+  "points": 4,
+  "category": "Klasse B",
+  "question_text": "Yaklaşık 40 km/sa hızla gidiyorsunuz. Yaklaşık 10 metre önünüzde bulunan trafik lambası \"yeşilden\" \"sarıya\" değişiyor. Nasıl davranırsınız?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 956,
+  "prev_id": 3008,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Yola devam ederim",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Dururum",
+      "is_correct": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url_id": 460,
+  "type": "image_choice",
+  "question_code": "1.4.41-141",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Bu trafik işaretleri kombinasyonuna yaklaşıyorsunuz. Burada neyi dikkate almak zorundasınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-4-41-141.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1780,
+  "prev_id": 459,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Dönel kavşaktaki araçlar geçiş önceliğine sahiptir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Dönel kavşağa girilirken dönüş işareti verilmesi zorunludur",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Dönel kavşaktan çıkarken, bunun dönüş sinyal işareti ile gösterilmesi zorunludur",
+      "is_correct": true
+    }
+  ]
+}

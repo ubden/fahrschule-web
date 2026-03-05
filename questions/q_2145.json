@@ -1,0 +1,35 @@
+{
+  "url_id": 2145,
+  "type": "image_choice",
+  "question_code": "2.2.37-007",
+  "points": 2,
+  "category": "Klasse B",
+  "question_text": "Kesintisiz ışıklı işaret söz konusu ise geçerli olan kural nedir?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/2-2-37-007.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2146,
+  "prev_id": 956,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Kesintisiz ışıklı işaretler yalnızca en az iki akslı araçlar için geçerlidir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Kesintisiz ışıklı işaretler ya şeridi kapatırlar ya da şeridi sürüş için açık bırakırlar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Kesintisiz ışıklı işaretin bulunduğu şeritte durma yasağı vardır",
+      "is_correct": true
+    }
+  ]
+}

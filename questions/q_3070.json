@@ -1,0 +1,33 @@
+{
+  "url_id": 3070,
+  "type": "choice",
+  "question_code": "2.6.02-235",
+  "points": 2,
+  "category": "Klasse C",
+  "question_text": "Mal taşımak için Karayolu Eşya Taşımacılığı Kanunu kapsamında izne ne zaman ihtiyacınız olur?",
+  "pretext": "Eğer sadece",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1893,
+  "prev_id": 3069,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Taşıma için bir araç kombinasyonu kullanılıyor ise",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Ulaşım mesafesi 100 km'den fazla değil ise",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Taşıma ticari amaçlarla gerçekleştiriliyor ise",
+      "is_correct": true
+    }
+  ]
+}

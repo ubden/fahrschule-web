@@ -1,0 +1,35 @@
+{
+  "url_id": 1650,
+  "type": "image_choice",
+  "question_code": "1.1.02-131",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Kendinizi neye hazırlamalısınız?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-1-02-131.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1651,
+  "prev_id": 1649,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Araç kapılarının açılmasına",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Yayaların birdenbire yola çıkmalarına",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Araçların hareket etmesine",
+      "is_correct": true
+    }
+  ]
+}

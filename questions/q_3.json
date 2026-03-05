@@ -1,0 +1,33 @@
+{
+  "url_id": 3,
+  "type": "choice",
+  "question_code": "1.1.01-101",
+  "points": 3,
+  "category": "Grundstoff",
+  "question_text": "Taşıdınızla bir yerleşim yerinde giderken, önünüzde başka bir şehir plakası taşıyan bir aracın gittiğini farzedin. Hangi durumlarla karşılaşabilirsiniz?",
+  "pretext": "Önde giden sürücü,",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 4,
+  "prev_id": 2317,
+  "answers": [
+    {
+      "num": 1,
+      "text": "ansızın fren yapabilir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "yol sormak için ansızın durabilir",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "yön değiştirmeden önce, sinyalini geç verebilir",
+      "is_correct": true
+    }
+  ]
+}

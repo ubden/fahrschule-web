@@ -1,0 +1,33 @@
+{
+  "url_id": 188,
+  "type": "choice",
+  "question_code": "1.2.09-101",
+  "points": 4,
+  "category": "Grundstoff",
+  "question_text": "Çok şeritli dönüşlerde özellikle tehlikeli durumlara yol açabilen faktörler nelerdir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 190,
+  "prev_id": 3033,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Şeride tam uymak",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Aşırı hız",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Dönüş işlemi esnasında şerit değiştirmek",
+      "is_correct": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url_id": 1248,
+  "type": "choice",
+  "question_code": "2.7.01-125",
+  "points": 3,
+  "category": "Klasse B",
+  "question_text": "Römorku yüklerken, nelere dikkat etmek zorundasınız?",
+  "pretext": "Yükün,",
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1250,
+  "prev_id": 1247,
+  "answers": [
+    {
+      "num": 1,
+      "text": "özel işaret koymaya gerek olmadan, arka reflektörlerden en fazla 1 metre arkaya sarkmasına izin verilmiştir",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "güvenli bir şekilde yerleştirilmesi zorunludur",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "çekici aracın önünden en fazla 1 metre kadar sarkmasına izin verilmiştir",
+      "is_correct": false
+    }
+  ]
+}

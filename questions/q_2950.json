@@ -1,0 +1,33 @@
+{
+  "url_id": 2950,
+  "type": "choice",
+  "question_code": "2.2.22-222",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Yüklerin kuvvete bağlı olarak sabitlenmesini ne destekleyebilir?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2951,
+  "prev_id": 2661,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Bağlama zircirleri",
+      "is_correct": true
+    },
+    {
+      "num": 2,
+      "text": "Kaymaz paspaslar",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Bağlama kemerleri",
+      "is_correct": true
+    }
+  ]
+}

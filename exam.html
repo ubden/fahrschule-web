@@ -1,0 +1,1105 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Fahrschule 2026 - Sinav Modulu</title>
+<script src="questions_data.js"></script>
+<style>
+* { box-sizing: border-box; }
+:root {
+  --bg: #0b1020;
+  --panel: #141a2f;
+  --card: #1a2340;
+  --border: #2d3759;
+  --text: #e6edf7;
+  --muted: #9aa7bd;
+  --accent: #22d3ee;
+  --ok: #22c55e;
+  --bad: #ef4444;
+  --warn: #f59e0b;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  background: radial-gradient(circle at top right, #1f2a4d, #0b1020 55%);
+  color: var(--text);
+  font-family: "Segoe UI", sans-serif;
+}
+.container {
+  width: min(1100px, 96vw);
+  margin: 18px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.topbar {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 12px 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+.topbar-title {
+  font-size: 16px;
+  font-weight: 700;
+}
+.topbar-sub {
+  font-size: 12px;
+  color: var(--muted);
+}
+.topbar-left {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+.back-btn {
+  background: #263252;
+  border: 1px solid #3f4f79;
+  color: var(--text);
+  border-radius: 10px;
+  padding: 9px 12px;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.back-btn:hover { background: #33446d; }
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 18px;
+}
+.hidden { display: none !important; }
+
+#setup-card {
+  max-width: 760px;
+  margin: 0 auto;
+}
+.setup-grid {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 10px;
+  align-items: end;
+  margin-top: 12px;
+}
+.setup-grid label {
+  display: block;
+  font-size: 13px;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+.setup-grid select {
+  width: 100%;
+  background: #10172c;
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 10px;
+  padding: 10px 12px;
+  font-size: 14px;
+  outline: none;
+}
+.start-btn {
+  background: #0ea5e9;
+  border: 1px solid #0ea5e9;
+  color: #fff;
+  border-radius: 10px;
+  padding: 10px 18px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  min-width: 170px;
+}
+.start-btn:hover:not(:disabled) { background: #0284c7; }
+.start-btn:disabled { opacity: .55; cursor: default; }
+
+.rule-list {
+  margin-top: 12px;
+  line-height: 1.75;
+  color: #d7e0ef;
+  font-size: 14px;
+}
+.rule-list b { color: #fff; }
+.pool-info {
+  margin-top: 12px;
+  font-size: 12px;
+  color: var(--muted);
+}
+.warn {
+  margin-top: 12px;
+  font-size: 13px;
+  color: #fecaca;
+  background: #3b1220;
+  border: 1px solid #7f1d1d;
+  border-radius: 8px;
+  padding: 9px 11px;
+  display: none;
+}
+
+#exam-card {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  gap: 12px;
+}
+#question-grid {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 12px;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 8px;
+  align-content: start;
+}
+.q-nav {
+  border: 1px solid var(--border);
+  background: #10172c;
+  color: #c7d2fe;
+  border-radius: 8px;
+  min-height: 36px;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.q-nav.active { background: #0ea5e9; border-color: #0ea5e9; color: #fff; }
+.q-nav.done { border-color: #15803d; color: #86efac; }
+
+#exam-main {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px;
+}
+.exam-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+}
+.progress {
+  font-size: 14px;
+  font-weight: 700;
+}
+.exam-tags {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+}
+.tag {
+  font-size: 12px;
+  border-radius: 999px;
+  background: #10172c;
+  border: 1px solid var(--border);
+  color: #cbd5e1;
+  padding: 5px 10px;
+}
+.q-text {
+  font-size: 21px;
+  font-weight: 700;
+  line-height: 1.4;
+  margin-bottom: 14px;
+}
+.q-media {
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.q-media img {
+  width: min(100%, 640px);
+  border-radius: 10px;
+  background: #000;
+  object-fit: contain;
+  cursor: zoom-in;
+}
+.video-play-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: min(100%, 320px);
+  margin: 0 auto;
+  padding: 11px 16px;
+  border-radius: 10px;
+  border: 1px solid #3e4b78;
+  background: #1e2a4f;
+  color: #c4b5fd;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.video-play-btn:hover { background: #2b3a68; }
+
+.answers {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.answer-item {
+  background: #10172c;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 12px;
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  cursor: pointer;
+}
+.answer-item.selected {
+  border-color: #22d3ee;
+  background: #12273a;
+}
+.answer-mark {
+  width: 24px;
+  min-width: 24px;
+  height: 24px;
+  border-radius: 6px;
+  border: 1px solid #4b5d8b;
+  color: #a5b4fc;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 700;
+}
+.answer-text {
+  line-height: 1.5;
+  font-size: 15px;
+}
+
+.number-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+.number-label { font-size: 16px; color: #cbd5e1; }
+.number-input {
+  background: #0b1020;
+  border: 1px solid #475569;
+  color: #fff;
+  border-radius: 10px;
+  padding: 11px 12px;
+  font-size: 22px;
+  font-weight: 700;
+  width: min(100%, 260px);
+  text-align: center;
+  outline: none;
+}
+.number-input:focus {
+  border-color: #0ea5e9;
+  box-shadow: 0 0 0 2px #0ea5e955;
+}
+
+.exam-nav {
+  margin-top: 18px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.nav-btn {
+  border: none;
+  border-radius: 11px;
+  padding: 12px 16px;
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+}
+#prev-btn {
+  background: #334155;
+  color: #f8fafc;
+}
+#next-btn {
+  background: #0ea5e9;
+  color: #fff;
+}
+#finish-btn {
+  margin-left: auto;
+  background: #f59e0b;
+  color: #111827;
+}
+.nav-btn:disabled { opacity: .45; cursor: default; }
+
+#result-card { max-width: 900px; margin: 0 auto; }
+.result-head {
+  font-size: 22px;
+  font-weight: 800;
+}
+.result-pass { color: #4ade80; }
+.result-fail { color: #f87171; }
+.result-grid {
+  margin-top: 14px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(140px, 1fr));
+  gap: 10px;
+}
+.result-box {
+  background: #10172c;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px 12px;
+}
+.result-box .k { font-size: 12px; color: var(--muted); }
+.result-box .v { margin-top: 3px; font-size: 20px; font-weight: 800; }
+.wrong-list {
+  margin-top: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.wrong-item {
+  background: #2a1a21;
+  border: 1px solid #7f1d1d;
+  border-radius: 10px;
+  padding: 9px 11px;
+  font-size: 13px;
+  line-height: 1.45;
+}
+.result-actions {
+  margin-top: 16px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+#video-modal,
+#image-modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 300;
+  align-items: center;
+  justify-content: center;
+}
+#video-modal.open,
+#image-modal.open {
+  display: flex;
+}
+.modal-bg {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,.84);
+  backdrop-filter: blur(3px);
+}
+.modal-box {
+  position: relative;
+  z-index: 1;
+  width: min(94vw, 900px);
+  max-height: 92vh;
+  background: #131b32;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.modal-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.modal-title {
+  font-size: 13px;
+  color: #c4b5fd;
+  font-weight: 700;
+}
+.modal-close {
+  background: #334155;
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+#modal-video {
+  width: 100%;
+  border-radius: 10px;
+  background: #000;
+  max-height: 70vh;
+}
+#modal-image {
+  width: 100%;
+  max-height: 80vh;
+  object-fit: contain;
+  background: #000;
+  border-radius: 10px;
+}
+
+@media (max-width: 900px) {
+  #exam-card {
+    grid-template-columns: 1fr;
+  }
+  #question-grid {
+    grid-template-columns: repeat(10, 1fr);
+    padding: 10px;
+  }
+}
+
+@media (max-width: 700px) {
+  .container { width: 96vw; margin: 10px auto; gap: 10px; }
+  .topbar { padding: 10px; }
+  .topbar-title { font-size: 14px; }
+  .topbar-sub { font-size: 11px; }
+  .q-text { font-size: 18px; }
+  #question-grid {
+    grid-template-columns: repeat(6, 1fr);
+    gap: 6px;
+  }
+  .q-nav {
+    min-height: 40px;
+    font-size: 14px;
+    font-weight: 800;
+  }
+  .exam-nav {
+    flex-direction: column;
+  }
+  .nav-btn {
+    width: 100%;
+    min-height: 48px;
+    font-size: 16px;
+  }
+  #finish-btn { margin-left: 0; }
+  .setup-grid {
+    grid-template-columns: 1fr;
+  }
+  .start-btn {
+    width: 100%;
+    min-height: 48px;
+    font-size: 16px;
+  }
+  .number-input {
+    width: min(100%, 280px);
+    min-height: 52px;
+  }
+  .answer-item {
+    padding: 12px 10px;
+  }
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="topbar">
+    <div class="topbar-left">
+      <div class="topbar-title">Fahrschule 2026 - Sinav Modulu</div>
+      <div class="topbar-sub">30 Soru: 15 sinif + 15 Grundstoff</div>
+    </div>
+    <button class="back-btn" onclick="goViewer()">Soru Arsivine Don</button>
+  </div>
+
+  <section id="setup-card" class="card">
+    <h2>Sinav Baslat</h2>
+    <p class="topbar-sub">Sinif secin. Sistem 30 soruyu rastgele olusturur.</p>
+    <div class="setup-grid">
+      <div>
+        <label for="class-select">Ehliyet Sinifi</label>
+        <select id="class-select">
+          <option value="Klasse B">Klasse B</option>
+          <option value="Klasse C">Klasse C</option>
+          <option value="Klasse CE">Klasse CE</option>
+        </select>
+      </div>
+      <button id="start-btn" class="start-btn" onclick="startExam()">Sinavi Baslat</button>
+    </div>
+    <div class="rule-list">
+      <div><b>Kurallar</b></div>
+      <div>- 30 soru</div>
+      <div>- En fazla 10 hata puani</div>
+      <div>- 5 puanlik 2 yanlis olursa toplam puan dusuk olsa bile otomatik kalma</div>
+    </div>
+    <div id="pool-info" class="pool-info"></div>
+    <div id="warn-box" class="warn"></div>
+  </section>
+
+  <section id="exam-card" class="hidden">
+    <aside id="question-grid"></aside>
+    <div id="exam-main">
+      <div class="exam-head">
+        <div id="progress" class="progress">Soru 1 / 30</div>
+        <div id="answered-info" class="topbar-sub">Cevaplanan: 0 / 30</div>
+      </div>
+      <div id="tags" class="exam-tags"></div>
+      <div id="question-text" class="q-text"></div>
+      <div id="question-media" class="q-media"></div>
+      <div id="answer-wrap"></div>
+      <div class="exam-nav">
+        <button id="prev-btn" class="nav-btn" onclick="navigate(-1)">Onceki</button>
+        <button id="next-btn" class="nav-btn" onclick="navigate(1)">Sonraki</button>
+        <button id="finish-btn" class="nav-btn" onclick="finishExam()">Sinavi Bitir</button>
+      </div>
+    </div>
+  </section>
+
+  <section id="result-card" class="card hidden"></section>
+</div>
+
+<div id="video-modal">
+  <div class="modal-bg" onclick="closeVideoModal()"></div>
+  <div class="modal-box">
+    <div class="modal-top">
+      <div class="modal-title">Soru Videosu</div>
+      <button class="modal-close" onclick="closeVideoModal()">Kapat</button>
+    </div>
+    <video id="modal-video" controls preload="metadata"></video>
+  </div>
+</div>
+
+<div id="image-modal">
+  <div class="modal-bg" onclick="closeImageModal()"></div>
+  <div class="modal-box">
+    <div class="modal-top">
+      <div class="modal-title">Gorsel</div>
+      <button class="modal-close" onclick="closeImageModal()">Kapat</button>
+    </div>
+    <img id="modal-image" alt="Soru gorseli">
+  </div>
+</div>
+
+<script>
+const ALL = window.ALL_QUESTIONS || [];
+const DETAIL_CACHE = new Map();
+const EXAM_TOTAL = 30;
+const CLASS_COUNT = 15;
+const GRUND_COUNT = 15;
+
+let examQuestions = [];
+let currentIdx = 0;
+let selectedClass = "Klasse B";
+const userAnswers = new Map();
+
+init();
+
+function init() {
+  updatePoolInfo();
+}
+
+function normalizeCategory(v) {
+  return String(v || "").trim().toLowerCase();
+}
+
+function updatePoolInfo() {
+  const grund = byCategory("Grundstoff").length;
+  const b = byCategory("Klasse B").length;
+  const c = byCategory("Klasse C").length;
+  const ce = byCategory("Klasse CE").length;
+  document.getElementById("pool-info").textContent =
+    "Havuz: Grundstoff " + grund + " | Klasse B " + b + " | Klasse C " + c + " | Klasse CE " + ce;
+}
+
+function byCategory(name) {
+  const wanted = normalizeCategory(name);
+  return ALL.filter(q => normalizeCategory(q.category) === wanted);
+}
+
+function showWarning(msg) {
+  const w = document.getElementById("warn-box");
+  w.textContent = msg;
+  w.style.display = "block";
+}
+
+function clearWarning() {
+  const w = document.getElementById("warn-box");
+  w.textContent = "";
+  w.style.display = "none";
+}
+
+async function startExam() {
+  clearWarning();
+  const startBtn = document.getElementById("start-btn");
+  startBtn.disabled = true;
+  startBtn.textContent = "Hazirlaniyor...";
+
+  try {
+    selectedClass = document.getElementById("class-select").value;
+    const classPool = byCategory(selectedClass);
+    const grundPool = byCategory("Grundstoff");
+
+    if (classPool.length < CLASS_COUNT || grundPool.length < GRUND_COUNT) {
+      showWarning(
+        "Yeterli soru yok. " +
+        selectedClass + " icin en az " + CLASS_COUNT +
+        ", Grundstoff icin en az " + GRUND_COUNT + " soru gerekli."
+      );
+      return;
+    }
+
+    const picked = [
+      ...sampleRandom(classPool, CLASS_COUNT),
+      ...sampleRandom(grundPool, GRUND_COUNT),
+    ];
+    shuffle(picked);
+
+    const details = await Promise.all(picked.map(loadQuestionDetail));
+    examQuestions = details.filter(Boolean).slice(0, EXAM_TOTAL);
+    if (examQuestions.length < EXAM_TOTAL) {
+      showWarning("Sinav olusturulamadi: soru detaylari eksik.");
+      return;
+    }
+
+    userAnswers.clear();
+    currentIdx = 0;
+    document.getElementById("setup-card").classList.add("hidden");
+    document.getElementById("result-card").classList.add("hidden");
+    document.getElementById("exam-card").classList.remove("hidden");
+    renderQuestionGrid();
+    renderCurrentQuestion();
+  } catch (err) {
+    showWarning("Sinav baslatilamadi: " + String(err && err.message ? err.message : err));
+  } finally {
+    startBtn.disabled = false;
+    startBtn.textContent = "Sinavi Baslat";
+  }
+}
+
+function sampleRandom(arr, count) {
+  const copy = [...arr];
+  shuffle(copy);
+  return copy.slice(0, count);
+}
+
+function shuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    const t = arr[i];
+    arr[i] = arr[j];
+    arr[j] = t;
+  }
+  return arr;
+}
+
+function hasQuestionDetail(q) {
+  return !!(q && q.media && typeof q.media === "object" && Array.isArray(q.answers));
+}
+
+async function loadQuestionDetail(meta) {
+  if (hasQuestionDetail(meta)) return meta;
+  const key = String(meta.url_id || "");
+  if (DETAIL_CACHE.has(key)) return DETAIL_CACHE.get(key);
+
+  const jsonPath = meta.json_path || ("questions/q_" + meta.url_id + ".json");
+  const res = await fetch(jsonPath, { cache: "no-store" });
+  if (!res.ok) {
+    throw new Error("Soru dosyasi acilamadi: " + jsonPath + " (" + res.status + ")");
+  }
+  const q = await res.json();
+  if (!q.type) q.type = meta.type || "choice";
+  if (!q.question_code) q.question_code = meta.question_code || null;
+  if (!q.category) q.category = meta.category || null;
+  if (!q.question_text) q.question_text = meta.question_text || null;
+  if (q.url_id == null) q.url_id = meta.url_id || null;
+
+  DETAIL_CACHE.set(key, q);
+  return q;
+}
+
+function renderQuestionGrid() {
+  const grid = document.getElementById("question-grid");
+  grid.innerHTML = "";
+  examQuestions.forEach((q, idx) => {
+    const btn = document.createElement("button");
+    btn.className = "q-nav";
+    if (idx === currentIdx) btn.classList.add("active");
+    if (isAnswered(q)) btn.classList.add("done");
+    btn.textContent = String(idx + 1);
+    btn.onclick = () => {
+      currentIdx = idx;
+      renderCurrentQuestion();
+    };
+    grid.appendChild(btn);
+  });
+}
+
+function renderCurrentQuestion() {
+  const q = examQuestions[currentIdx];
+  if (!q) return;
+
+  document.getElementById("progress").textContent =
+    "Soru " + (currentIdx + 1) + " / " + examQuestions.length;
+  document.getElementById("answered-info").textContent =
+    "Cevaplanan: " + answeredCount() + " / " + examQuestions.length;
+
+  const tags = document.getElementById("tags");
+  tags.innerHTML = "";
+  tags.appendChild(makeTag("#" + (q.url_id ?? "?")));
+  if (q.question_code) tags.appendChild(makeTag(q.question_code));
+  if (q.category) tags.appendChild(makeTag(q.category));
+  if (q.points != null) tags.appendChild(makeTag(String(q.points) + " puan"));
+  tags.appendChild(makeTag(typeLabel(q.type)));
+
+  document.getElementById("question-text").textContent = q.question_text || "(soru metni yok)";
+  renderMedia(q);
+  renderAnswerArea(q);
+
+  document.getElementById("prev-btn").disabled = (currentIdx <= 0);
+  document.getElementById("next-btn").disabled = (currentIdx >= examQuestions.length - 1);
+  renderQuestionGrid();
+}
+
+function makeTag(txt) {
+  const el = document.createElement("span");
+  el.className = "tag";
+  el.textContent = txt;
+  return el;
+}
+
+function typeLabel(type) {
+  const map = {
+    choice: "Secmeli",
+    image_choice: "Gorsel + Secmeli",
+    video: "Video",
+    number: "Sayi"
+  };
+  return map[type] || String(type || "soru");
+}
+
+function renderMedia(q) {
+  const wrap = document.getElementById("question-media");
+  wrap.innerHTML = "";
+
+  const imgs = Array.isArray(q.media && q.media.images) ? q.media.images : [];
+  const vids = Array.isArray(q.media && q.media.videos) ? q.media.videos : [];
+  let hasAny = false;
+
+  imgs.forEach(src => {
+    const img = document.createElement("img");
+    img.src = mediaPath(src);
+    img.alt = "";
+    img.loading = "lazy";
+    img.onerror = () => { img.style.display = "none"; };
+    img.onclick = () => openImageModal(img.src);
+    wrap.appendChild(img);
+    hasAny = true;
+  });
+
+  if (vids.length) {
+    const btn = document.createElement("button");
+    btn.className = "video-play-btn";
+    btn.textContent = "Soru Videosunu Izle";
+    btn.onclick = () => openVideoModal(vids[0]);
+    wrap.appendChild(btn);
+    hasAny = true;
+  }
+
+  if (!hasAny) {
+    wrap.innerHTML = "";
+  }
+}
+
+function renderAnswerArea(q) {
+  const wrap = document.getElementById("answer-wrap");
+  wrap.innerHTML = "";
+
+  if (q.type === "number") {
+    const row = document.createElement("div");
+    row.className = "number-row";
+
+    const firstInput = (Array.isArray(q.number_inputs) && q.number_inputs[0]) ? q.number_inputs[0] : {};
+    const labelBefore = String(firstInput.label_before || firstInput.label || "").trim();
+    const labelAfter = String(firstInput.label_after || firstInput.unit || "").trim();
+
+    if (labelBefore) {
+      const lb = document.createElement("span");
+      lb.className = "number-label";
+      lb.textContent = labelBefore;
+      row.appendChild(lb);
+    }
+
+    const inp = document.createElement("input");
+    inp.className = "number-input";
+    inp.type = "text";
+    inp.placeholder = "Cevap";
+    const saved = userAnswers.get(q.url_id);
+    inp.value = saved && saved.kind === "number" ? (saved.value || "") : "";
+    inp.oninput = () => {
+      userAnswers.set(q.url_id, { kind: "number", value: inp.value.trim() });
+      renderQuestionGrid();
+      document.getElementById("answered-info").textContent =
+        "Cevaplanan: " + answeredCount() + " / " + examQuestions.length;
+    };
+    row.appendChild(inp);
+
+    if (labelAfter) {
+      const la = document.createElement("span");
+      la.className = "number-label";
+      la.textContent = labelAfter;
+      row.appendChild(la);
+    }
+    wrap.appendChild(row);
+    return;
+  }
+
+  const answers = Array.isArray(q.answers) ? q.answers : [];
+  const selected = new Set(
+    ((userAnswers.get(q.url_id) || {}).selected || []).map(v => String(v))
+  );
+  const list = document.createElement("div");
+  list.className = "answers";
+
+  answers.forEach((a, idx) => {
+    const key = String(a.num != null ? a.num : (idx + 1));
+    const item = document.createElement("div");
+    item.className = "answer-item";
+    if (selected.has(key)) item.classList.add("selected");
+
+    const mark = document.createElement("div");
+    mark.className = "answer-mark";
+    mark.textContent = key;
+
+    const txt = document.createElement("div");
+    txt.className = "answer-text";
+    txt.textContent = a.text || "";
+
+    item.appendChild(mark);
+    item.appendChild(txt);
+    item.onclick = () => {
+      if (selected.has(key)) selected.delete(key);
+      else selected.add(key);
+      userAnswers.set(q.url_id, { kind: "choice", selected: [...selected] });
+      renderCurrentQuestion();
+    };
+
+    list.appendChild(item);
+  });
+  wrap.appendChild(list);
+}
+
+function answeredCount() {
+  let count = 0;
+  examQuestions.forEach(q => { if (isAnswered(q)) count += 1; });
+  return count;
+}
+
+function isAnswered(q) {
+  const ans = userAnswers.get(q.url_id);
+  if (!ans) return false;
+  if (ans.kind === "number") return !!String(ans.value || "").trim();
+  return Array.isArray(ans.selected) && ans.selected.length > 0;
+}
+
+function navigate(step) {
+  const next = currentIdx + step;
+  if (next < 0 || next >= examQuestions.length) return;
+  currentIdx = next;
+  renderCurrentQuestion();
+}
+
+function finishExam() {
+  if (!examQuestions.length) return;
+  const unanswered = examQuestions.length - answeredCount();
+  const ask = unanswered > 0
+    ? ("Hala " + unanswered + " bos soru var. Sinavi bitirmek istiyor musunuz?")
+    : "Sinavi bitirmek istiyor musunuz?";
+  if (!confirm(ask)) return;
+
+  const result = evaluateExam();
+  renderResult(result);
+
+  document.getElementById("exam-card").classList.add("hidden");
+  document.getElementById("result-card").classList.remove("hidden");
+}
+
+function evaluateExam() {
+  let correctCount = 0;
+  let wrongCount = 0;
+  let wrongPoints = 0;
+  let fivePointWrong = 0;
+  const wrongItems = [];
+
+  examQuestions.forEach(q => {
+    const answer = userAnswers.get(q.url_id);
+    const evalRes = evaluateQuestion(q, answer);
+    const pts = Number(q.points || 0);
+
+    if (evalRes.correct) {
+      correctCount += 1;
+      return;
+    }
+
+    wrongCount += 1;
+    wrongPoints += pts;
+    if (pts === 5) fivePointWrong += 1;
+    wrongItems.push({
+      code: q.question_code || ("ID-" + (q.url_id ?? "?")),
+      text: q.question_text || "",
+      points: pts,
+      expected: evalRes.expected || "-",
+      given: evalRes.given || "-",
+    });
+  });
+
+  const passed = wrongPoints <= 10 && fivePointWrong < 2;
+  return {
+    total: examQuestions.length,
+    correctCount,
+    wrongCount,
+    wrongPoints,
+    fivePointWrong,
+    passed,
+    wrongItems,
+  };
+}
+
+function evaluateQuestion(q, answer) {
+  if (q.type === "number") {
+    const expectedText = String(q.correct_answer_text || "").trim();
+    const expectedVal = firstNumericValue(expectedText);
+    const givenText = String((answer && answer.value) || "").trim();
+    const givenVal = firstNumericValue(givenText);
+    const ok = expectedVal != null && givenVal != null && Math.abs(expectedVal - givenVal) < 1e-9;
+    return { correct: ok, expected: expectedText || "-", given: givenText || "-" };
+  }
+
+  const allAnswers = Array.isArray(q.answers) ? q.answers : [];
+  const expected = allAnswers
+    .filter(a => !!a.is_correct)
+    .map((a, idx) => String(a.num != null ? a.num : (idx + 1)))
+    .sort();
+  const expectedText = allAnswers
+    .filter(a => !!a.is_correct)
+    .map(a => (a.num != null ? (a.num + ". ") : "") + String(a.text || ""))
+    .join(" | ");
+
+  const selected = Array.isArray(answer && answer.selected)
+    ? [...new Set(answer.selected.map(v => String(v)))].sort()
+    : [];
+  const selectedText = allAnswers
+    .filter((a, idx) => selected.includes(String(a.num != null ? a.num : (idx + 1))))
+    .map(a => (a.num != null ? (a.num + ". ") : "") + String(a.text || ""))
+    .join(" | ");
+
+  const ok = expected.length > 0 && arraysEqual(expected, selected);
+  return { correct: ok, expected: expectedText || "-", given: selectedText || "-" };
+}
+
+function firstNumericValue(text) {
+  const norm = String(text || "").replace(/\s+/g, "").replace(",", ".");
+  const m = norm.match(/-?\d+(?:\.\d+)?/);
+  if (!m) return null;
+  const n = Number(m[0]);
+  return Number.isFinite(n) ? n : null;
+}
+
+function arraysEqual(a, b) {
+  if (a.length !== b.length) return false;
+  for (let i = 0; i < a.length; i++) {
+    if (a[i] !== b[i]) return false;
+  }
+  return true;
+}
+
+function renderResult(result) {
+  const box = document.getElementById("result-card");
+  const headClass = result.passed ? "result-pass" : "result-fail";
+  const headText = result.passed ? "SINAV GECTINIZ" : "SINAVDAN KALDINIZ";
+
+  const wrongHtml = result.wrongItems.length
+    ? result.wrongItems.map(item => (
+      '<div class="wrong-item"><b>' + esc(item.code) + '</b> - ' + esc(item.points) + ' puan' +
+      '<br>' + esc(item.text) +
+      '<br><small>Beklenen: ' + esc(item.expected) + '</small>' +
+      '<br><small>Sizin cevabiniz: ' + esc(item.given) + '</small></div>'
+    )).join("")
+    : '<div class="topbar-sub">Yanlis soru yok.</div>';
+
+  const reason = result.fivePointWrong >= 2
+    ? "Kritik kural: 5 puanlik 2 yanlis yapildi."
+    : (result.wrongPoints > 10 ? "Toplam hata puani 10 sinirini asti." : "Kurallar saglandi.");
+
+  box.innerHTML = ''
+    + '<div class="result-head ' + headClass + '">' + headText + '</div>'
+    + '<div class="topbar-sub" style="margin-top:6px">' + esc(reason) + '</div>'
+    + '<div class="result-grid">'
+    +   '<div class="result-box"><div class="k">Toplam Soru</div><div class="v">' + result.total + '</div></div>'
+    +   '<div class="result-box"><div class="k">Dogru</div><div class="v">' + result.correctCount + '</div></div>'
+    +   '<div class="result-box"><div class="k">Yanlis</div><div class="v">' + result.wrongCount + '</div></div>'
+    +   '<div class="result-box"><div class="k">Hata Puani</div><div class="v">' + result.wrongPoints + '</div></div>'
+    +   '<div class="result-box"><div class="k">5 Puanlik Yanlis</div><div class="v">' + result.fivePointWrong + '</div></div>'
+    + '</div>'
+    + '<div class="wrong-list">' + wrongHtml + '</div>'
+    + '<div class="result-actions">'
+    +   '<button class="start-btn" onclick="restartExam()">Yeni Sinav</button>'
+    +   '<button class="back-btn" onclick="goViewer()">Soru Arsivine Don</button>'
+    + '</div>';
+}
+
+function restartExam() {
+  document.getElementById("result-card").classList.add("hidden");
+  document.getElementById("setup-card").classList.remove("hidden");
+  document.getElementById("exam-card").classList.add("hidden");
+  clearWarning();
+  updatePoolInfo();
+  closeVideoModal();
+  closeImageModal();
+}
+
+function mediaPath(url) {
+  const raw = String(url || "").trim();
+  if (!raw) return "";
+  const clean = raw.split("#")[0].split("?")[0];
+  const parts = clean.split("/");
+  const filename = parts[parts.length - 1];
+  if (!filename) return clean;
+  return "media/" + filename;
+}
+
+function esc(s) {
+  return String(s)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
+function goViewer() {
+  window.location.href = "viewer.html";
+}
+
+function openVideoModal(src) {
+  const video = document.getElementById("modal-video");
+  video.src = mediaPath(src);
+  document.getElementById("video-modal").classList.add("open");
+}
+
+function closeVideoModal() {
+  const video = document.getElementById("modal-video");
+  video.pause();
+  video.src = "";
+  document.getElementById("video-modal").classList.remove("open");
+}
+
+function openImageModal(src) {
+  const img = document.getElementById("modal-image");
+  img.src = src || "";
+  document.getElementById("image-modal").classList.add("open");
+}
+
+function closeImageModal() {
+  const img = document.getElementById("modal-image");
+  img.src = "";
+  document.getElementById("image-modal").classList.remove("open");
+}
+
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape") {
+    closeVideoModal();
+    closeImageModal();
+    return;
+  }
+  if (document.getElementById("exam-card").classList.contains("hidden")) return;
+  if (e.key === "ArrowRight") navigate(1);
+  if (e.key === "ArrowLeft") navigate(-1);
+});
+</script>
+</body>
+</html>

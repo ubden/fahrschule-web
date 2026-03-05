@@ -1,0 +1,33 @@
+{
+  "url_id": 2435,
+  "type": "choice",
+  "question_code": "2.7.06-230",
+  "points": 3,
+  "category": "Klasse C",
+  "question_text": "Geciktirici fren devrede iken ayak frenine basılırsa ne olur?",
+  "pretext": null,
+  "media": {
+    "images": [],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 2436,
+  "prev_id": 2375,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Çekiş aksının (akslarının) tekerlekleri bloke edilir",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Geciktirici fren otomatik olarak kapatılır",
+      "is_correct": false
+    },
+    {
+      "num": 3,
+      "text": "Çekiş aksının (akslarının) tekerlekleri daha güçlü frenlenir",
+      "is_correct": true
+    }
+  ]
+}

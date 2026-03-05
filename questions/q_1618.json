@@ -1,0 +1,35 @@
+{
+  "url_id": 1618,
+  "type": "image_choice",
+  "question_code": "1.3.01-018-M",
+  "points": 5,
+  "category": "Grundstoff",
+  "question_text": "Hangi davranış doğrudur?",
+  "pretext": null,
+  "media": {
+    "images": [
+      "/media/1-3-01-018-VS-2.jpg"
+    ],
+    "videos": [],
+    "video_posters": []
+  },
+  "next_id": 1619,
+  "prev_id": 1617,
+  "answers": [
+    {
+      "num": 1,
+      "text": "Mavi renkli binek otosunun geçmesine izin vermeliyim",
+      "is_correct": false
+    },
+    {
+      "num": 2,
+      "text": "Sarı renkli binek otosunun geçmesine izin vermeliyim",
+      "is_correct": true
+    },
+    {
+      "num": 3,
+      "text": "Mavi binek otosundan önce giderim",
+      "is_correct": true
+    }
+  ]
+}
