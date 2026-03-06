@@ -1306,15 +1306,6 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 
-// Add loading animation for CTA buttons
-document.querySelectorAll('.btn').forEach(btn => {
-  btn.addEventListener('click', function(e) {
-    if (this.href && !this.href.startsWith('#')) {
-      this.style.opacity = '0.7';
-      this.style.pointerEvents = 'none';
-    }
-  });
-});
 </script>
 
 </body>
