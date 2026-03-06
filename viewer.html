@@ -575,8 +575,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div id="topbar">
       <button id="menu-btn" onclick="toggleSidebar()">☰</button>
       <div id="topbar-title">Fahrschule 2026 – Soru Görüntüleyici</div>
+      <div id="topbar-pos">—</div>
       <button class="exam-btn" onclick="goExam()">📝 Sınav Yap</button>
-     <!-- <div id="topbar-pos"></div> -->
     </div>
 
     <div id="nav-bar">
@@ -774,8 +774,10 @@ async function showQuestion(idx) {
   updateNav(idx);
 
   // topbar pos
-  document.getElementById("topbar-pos").textContent =
-    (meta.question_code || "ID-"+meta.url_id);
+  const posEl = document.getElementById("topbar-pos");
+  if (posEl) {
+    posEl.textContent = (meta.question_code || "ID-"+meta.url_id);
+  }
   document.getElementById("q-counter").textContent =
     `${idx+1} / ${filtered.length}`;
 
