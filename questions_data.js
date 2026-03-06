@@ -4369,14 +4369,6 @@ window.ALL_QUESTIONS = [
     "json_path": "questions/q_3045.json"
   },
   {
-    "url_id": 3092,
-    "type": "choice",
-    "question_code": "1.4.41-174",
-    "category": "Grundstoff",
-    "question_text": "Hangi trafik işaretinde dönüş yasaktır?",
-    "json_path": "questions/q_3092.json"
-  },
-  {
     "url_id": 3093,
     "type": "choice",
     "question_code": "1.4.41-175",
