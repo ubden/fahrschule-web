@@ -17,13 +17,17 @@
 <!-- Görseller buraya eklenecek -->
 
 ### Ana Sayfa
-![Ana Sayfa]()
+<img width="1872" height="948" alt="image" src="https://github.com/user-attachments/assets/881d6bbf-db90-4166-8733-5d378063067b" />
+
 
 ### Soru Görüntüleyici
-![Soru Görüntüleyici]()
+<img width="1872" height="948" alt="image" src="https://github.com/user-attachments/assets/234aec63-068a-493f-91d6-815536414698" />
+
+
 
 ### Deneme Sınavı
-![Deneme Sınavı]()
+<img width="1872" height="948" alt="image" src="https://github.com/user-attachments/assets/06914548-5ae0-4462-be58-60182fcfaaab" />
+
 
 ---
 
