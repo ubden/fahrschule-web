@@ -1,24 +1,7 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-5HHQFRC7');</script>
-<!-- End Google Tag Manager -->
-
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4N16RH1Y1E"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-4N16RH1Y1E');
-</script>
+<!-- Analytics scripts are loaded after consent (see footer script) -->
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -560,6 +543,93 @@ footer {
   }
 }
 
+/* ── COOKIE BANNER ─────────────────────────── */
+.cookie-banner {
+  position: fixed;
+  left: 50%;
+  bottom: 20px;
+  transform: translateX(-50%);
+  width: calc(100% - 40px);
+  max-width: 960px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  display: none;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: space-between;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
+  z-index: 999;
+}
+
+.cookie-banner.show {
+  display: flex;
+}
+
+.cookie-copy {
+  flex: 1;
+}
+
+.cookie-copy p {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.cookie-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.cookie-btn {
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--white);
+  padding: 10px 14px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.cookie-btn.primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.cookie-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.cookie-btn.primary:hover {
+  filter: brightness(0.95);
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .cookie-banner {
+    flex-direction: column;
+    gap: 12px;
+    padding: 16px;
+    bottom: 10px;
+  }
+
+  .cookie-actions {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .cookie-btn {
+    width: 100%;
+    text-align: center;
+  }
+}
+
 /* ── ANIMATIONS ─────────────────────────────── */
 @keyframes fadeIn {
   from {
@@ -583,11 +653,6 @@ body.lang-de [data-lang="de"] { display: block; }
 </style>
 </head>
 <body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5HHQFRC7"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-
 <!-- ── HEADER ── -->
 <header>
   <div class="container">
@@ -873,8 +938,48 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </footer>
 
+<div id="cookie-banner" class="cookie-banner" role="dialog" aria-live="polite" aria-label="Cookie consent">
+  <div class="cookie-copy" data-lang="tr">
+    <strong>Çerez izinleri</strong>
+    <p>Sadece gerekli çerezleri kullanıyoruz. Ziyaret istatistiklerini toplamak için izninize ihtiyacımız var. Onay vererek Google Tag Manager ve Analytics çerezlerini kabul edersiniz.</p>
+  </div>
+  <div class="cookie-copy" data-lang="de">
+    <strong>Cookie-Einwilligung</strong>
+    <p>Wir verwenden nur notwendige Cookies. Für Besuchsstatistiken benötigen wir Ihre Zustimmung. Mit Ihrer Zustimmung akzeptieren Sie Google Tag Manager und Analytics Cookies.</p>
+  </div>
+  <div class="cookie-actions">
+    <button class="cookie-btn primary" data-cookie-action="accept" data-lang="tr">Kabul Et</button>
+    <button class="cookie-btn" data-cookie-action="reject" data-lang="tr">Reddet</button>
+    <button class="cookie-btn primary" data-cookie-action="accept" data-lang="de">Zustimmen</button>
+    <button class="cookie-btn" data-cookie-action="reject" data-lang="de">Ablehnen</button>
+  </div>
+</div>
+
 <script>
-// Language switching
+const COOKIE_CONSENT_KEY = 'cookieConsent';
+let analyticsLoaded = false;
+
+function loadAnalytics() {
+  if (analyticsLoaded) return;
+  analyticsLoaded = true;
+
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5HHQFRC7');
+
+  const gtagScript = document.createElement('script');
+  gtagScript.async = true;
+  gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-4N16RH1Y1E';
+  document.head.appendChild(gtagScript);
+
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function(){ dataLayer.push(arguments); };
+  gtag('js', new Date());
+  gtag('config', 'G-4N16RH1Y1E');
+}
+
 function setLanguage(lang) {
   document.body.className = lang === 'de' ? 'lang-de' : '';
   localStorage.setItem('preferredLanguage', lang);
@@ -883,13 +988,15 @@ function setLanguage(lang) {
   document.querySelectorAll('.lang-btn').forEach(btn => {
     btn.classList.remove('active');
   });
-  event.target.classList.add('active');
+  if (event && event.target) {
+    event.target.classList.add('active');
+  }
 
   // Update HTML lang attribute for SEO
   document.documentElement.lang = lang;
 }
 
-// Load saved language preference
+// Load saved language preference and handle consent
 window.addEventListener('DOMContentLoaded', () => {
   const savedLang = localStorage.getItem('preferredLanguage') || 'tr';
   if (savedLang === 'de') {
@@ -902,6 +1009,30 @@ window.addEventListener('DOMContentLoaded', () => {
       }
     });
   }
+
+  const cookieBanner = document.getElementById('cookie-banner');
+  const savedConsent = localStorage.getItem(COOKIE_CONSENT_KEY);
+
+  if (savedConsent === 'accepted') {
+    loadAnalytics();
+  } else if (!savedConsent && cookieBanner) {
+    cookieBanner.classList.add('show');
+  }
+
+  document.querySelectorAll('[data-cookie-action="accept"]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      localStorage.setItem(COOKIE_CONSENT_KEY, 'accepted');
+      cookieBanner?.classList.remove('show');
+      loadAnalytics();
+    });
+  });
+
+  document.querySelectorAll('[data-cookie-action="reject"]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      localStorage.setItem(COOKIE_CONSENT_KEY, 'rejected');
+      cookieBanner?.classList.remove('show');
+    });
+  });
 });
 
 // Smooth scroll for internal links
