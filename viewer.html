@@ -144,6 +144,27 @@ html, body { height: 100%; background: var(--bg); color: var(--white);
   flex: 1; text-align: center; font-size: 13px; color: var(--gray);
 }
 
+.helper-row {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 4px 0 10px;
+}
+
+.legend-btn {
+  background: linear-gradient(135deg, #0ea5e9 0%, #312e81 100%);
+  color: #e5edff;
+  border: 1px solid #334155;
+  border-radius: 12px;
+  padding: 10px 14px;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 10px 24px rgba(14,165,233,0.25);
+}
+
+.legend-btn:hover { filter: brightness(1.05); }
+
 /* ── QUESTION CARD ──────────────────────────── */
 #q-card {
   background: var(--card); border: 1px solid var(--border);
@@ -166,7 +187,7 @@ html, body { height: 100%; background: var(--bg); color: var(--white);
   margin-bottom: 10px; line-height: 1.5;
 }
 .q-text {
-  font-size: 16px; font-weight: 600; line-height: 1.6;
+  font-size: 17px; font-weight: 700; line-height: 1.6;
   color: var(--white); margin-bottom: 20px;
 }
 
@@ -327,6 +348,48 @@ html, body { height: 100%; background: var(--bg); color: var(--white);
   background: #000;
 }
 
+/* ── LEGEND MODAL ──────────────────────────── */
+#legend-modal {
+  display: none; position: fixed; inset: 0; z-index: 530;
+  align-items: center; justify-content: center;
+}
+#legend-modal.open { display: flex; }
+#legend-bg {
+  position: absolute; inset: 0;
+  background: rgba(0,0,0,.78); backdrop-filter: blur(4px);
+}
+#legend-box {
+  position: relative; z-index: 1;
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: 14px; padding: 18px;
+  width: min(92vw, 420px);
+  display: flex; flex-direction: column; gap: 12px;
+  box-shadow: 0 22px 60px rgba(0,0,0,0.45);
+}
+.legend-head {
+  display: flex; align-items: center; justify-content: space-between;
+}
+.legend-title { font-size: 14px; font-weight: 800; color: var(--white); }
+.legend-close {
+  background: var(--border); border: none; color: var(--white);
+  border-radius: 8px; padding: 6px 10px; cursor: pointer;
+}
+.legend-row {
+  display: flex; align-items: center; gap: 10px;
+  padding: 10px 12px; border-radius: 10px;
+  background: var(--panel); border: 1px solid var(--border);
+}
+.legend-chip {
+  width: 16px; height: 16px; border-radius: 6px;
+  border: 1px solid var(--border);
+  display: inline-block;
+}
+.chip-selected { background: #22223a; border-color: #5050a0; }
+.chip-correct  { background: #0d2b1a; border-color: var(--green); }
+.chip-wrong    { background: #2b0d12; border-color: var(--accent); }
+.chip-missed   { background: #1f1a0a; border-color: var(--yellow); }
+.legend-text { font-size: 13px; color: var(--muted); }
+
 /* ── INTERACTIVE ANSWERS ────────────────────── */
 .answer-opt { cursor: pointer; user-select: none; }
 .answer-opt.selected {
@@ -458,6 +521,24 @@ footer {
   .number-feedback { text-align: center; }
   .q-media, .number-block, .answers { margin-left: auto; margin-right: auto; }
   #q-counter { min-width: 80px; }
+  .helper-row { justify-content: center; }
+  .legend-btn { width: 100%; max-width: 360px; }
+  .q-meta {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: 6px;
+    padding-bottom: 8px;
+  }
+  .q-meta::-webkit-scrollbar { height: 4px; }
+  .tag {
+    font-size: 11px;
+    border-radius: 999px;
+    padding: 4px 8px;
+    white-space: nowrap;
+  }
+  .q-text { font-size: 18px; }
+  .answer-opt { padding: 14px 15px; border-radius: 12px; }
+  .opt-text { font-size: 15px; }
 }
 </style>
 </head>
@@ -502,6 +583,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <button class="nav-btn" id="btn-prev" onclick="navigate(-1)">← Önceki</button>
       <div id="q-counter">—</div>
       <button class="nav-btn" id="btn-next" onclick="navigate(1)">Sonraki →</button>
+    </div>
+
+    <div class="helper-row">
+      <button class="legend-btn" onclick="openLegend()">ℹ️ Renk Kodları</button>
     </div>
 
     <div id="q-card">
@@ -565,6 +650,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div id="image-modal-box">
     <button id="image-modal-close" onclick="closeImageModal()">Kapat ✕</button>
     <img id="modal-image" alt="Soru görseli">
+  </div>
+</div>
+
+<!-- ── Legend Modal ── -->
+<div id="legend-modal">
+  <div id="legend-bg" onclick="closeLegend()"></div>
+  <div id="legend-box">
+    <div class="legend-head">
+      <span class="legend-title">Seçenek Renk Rehberi</span>
+      <button class="legend-close" onclick="closeLegend()">✕</button>
+    </div>
+    <div class="legend-row">
+      <span class="legend-chip chip-selected"></span>
+      <span class="legend-text">Seçtiğin şık vurgusu</span>
+    </div>
+    <div class="legend-row">
+      <span class="legend-chip chip-correct"></span>
+      <span class="legend-text">Doğru yanıt</span>
+    </div>
+    <div class="legend-row">
+      <span class="legend-chip chip-wrong"></span>
+      <span class="legend-text">Yanlış işaretlenmiş şık</span>
+    </div>
+    <div class="legend-row">
+      <span class="legend-chip chip-missed"></span>
+      <span class="legend-text">Doğru olup seçilmeyen şık</span>
+    </div>
   </div>
 </div>
 
@@ -1037,6 +1149,14 @@ function closeImageModal() {
   document.getElementById("image-modal").classList.remove("open");
 }
 
+function openLegend() {
+  document.getElementById("legend-modal").classList.add("open");
+}
+
+function closeLegend() {
+  document.getElementById("legend-modal").classList.remove("open");
+}
+
 // ── Helpers ──────────────────────────────────────────────────────────────
 function el(tag, cls) {
   const e = document.createElement(tag.split(".")[0] || "div");
@@ -1074,7 +1194,7 @@ document.getElementById("overlay").onclick = closeSidebar;
 
 // ── Keyboard ──────────────────────────────────────────────────────────────
 document.addEventListener("keydown", e => {
-  if (e.key === "Escape") { closeVideoModal(); closeImageModal(); return; }
+  if (e.key === "Escape") { closeVideoModal(); closeImageModal(); closeLegend(); return; }
   if (e.target.tagName === "INPUT") return;
   if (e.key === "ArrowRight" || e.key === "ArrowDown") navigate(1);
   if (e.key === "ArrowLeft"  || e.key === "ArrowUp")   navigate(-1);
